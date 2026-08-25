@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pakistan Location API Tester</title>
+    <style>
+      :root { color-scheme: light; font-family: Inter, ui-sans-serif, system-ui, sans-serif; color: #18212f; background: #f5f7fa; }
+      * { box-sizing: border-box; }
+      body { margin: 0; }
+      main { width: min(1040px, calc(100% - 32px)); margin: 48px auto; }
+      header { margin-bottom: 24px; }
+      h1 { margin: 0 0 8px; font-size: clamp(28px, 5vw, 42px); letter-spacing: -.03em; }
+      p { color: #5e6877; line-height: 1.6; }
+      .badge { display: inline-flex; padding: 5px 10px; border-radius: 999px; background: #e7f7ef; color: #087443; font-size: 12px; font-weight: 700; }
+      .panel { background: white; border: 1px solid #dce1e8; border-radius: 14px; padding: 22px; box-shadow: 0 8px 30px rgba(20, 31, 50, .06); }
+      .config { display: grid; grid-template-columns: 1fr auto; gap: 10px; margin-bottom: 22px; }
+      .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+      label { display: grid; gap: 7px; font-size: 13px; font-weight: 700; }
+      input, select, button { width: 100%; min-height: 44px; border-radius: 9px; border: 1px solid #cbd2dc; padding: 0 12px; background: #fff; color: inherit; font: inherit; }
+      select:disabled { background: #f2f4f7; color: #8993a2; }
+      button { width: auto; cursor: pointer; border-color: #18212f; background: #18212f; color: #fff; font-weight: 700; }
+      button:hover { background: #2f3b4d; }
+      button.connected { border-color: #087443; background: #087443; }
+      button.connected:hover { background: #06613a; }
+      .status { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 22px 0 12px; }
+      .status strong { font-size: 14px; }
+      pre { min-height: 230px; max-height: 430px; overflow: auto; margin: 0; padding: 18px; border-radius: 10px; background: #111827; color: #d8e3f5; font: 12px/1.6 ui-monospace, SFMono-Regular, Consolas, monospace; white-space: pre-wrap; }
+      .error { color: #b42318; }
+      footer { margin-top: 18px; font-size: 13px; color: #778191; }
+      @media (max-width: 760px) { main { margin: 24px auto; } .grid { grid-template-columns: 1fr; } .config { grid-template-columns: 1fr; } button { width: 100%; } }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <span class="badge" id="apiStatus">Connecting…</span>
+        <h1>Pakistan Location API Tester</h1>
+        <p>Select a city, area and block to verify the cascading API data and delivery codes.</p>
+      </header>
+
+      <section class="panel">
+        <div class="config">
+          <label>
+            API base URL
+            <input id="apiBase" value="http://127.0.0.1:3100" spellcheck="false" />
+          </label>
+          <button id="connect" type="button">Connect</button>
+        </div>
+
+        <div class="grid">
+          <label>
+            City
+            <select id="city"><option value="">Loading cities…</option></select>
+          </label>
+          <label>
+            Area
+            <select id="area" disabled><option value="">Select a city first</option></select>
+          </label>
+          <label>
+            Block
+            <select id="block" disabled><option value="">Select an area first</option></select>
+          </label>
+        </div>
+
+        <div class="status">
+          <strong id="selection">No location selected</strong>
+          <span id="counts"></span>
+        </div>
+        <pre id="result">Waiting for API data…</pre>
+      </section>
+      <footer>Stable location codes are included for delivery integrations.</footer>
+    </main>
+
+    <script>
+      const elements = {
+        apiBase: document.querySelector("#apiBase"),
+        apiStatus: document.querySelector("#apiStatus"),
+        connect: document.querySelector("#connect"),
+        city: document.querySelector("#city"),
+        area: document.querySelector("#area"),
+        block: document.querySelector("#block"),
+        selection: document.querySelector("#selection"),
+        counts: document.querySelector("#counts"),
+        result: document.querySelector("#result"),
+      };
+
+      let selectedCity;
+      let selectedArea;
+
+      const baseUrl = () => elements.apiBase.value.trim().replace(/\/$/, "");
+      const request = async (path) => {
+        const response = await fetch(`${baseUrl()}${path}`);
+        if (!response.ok) throw new Error(`API returned HTTP ${response.status}`);
+        return response.json();
+      };
+      const showJson = (value) => {
+        elements.result.textContent = JSON.stringify(value, null, 2);
+      };
+      const setOptions = (select, records, placeholder) => {
+        select.innerHTML = `<option value="">${placeholder}</option>`;
+        records.forEach((record) => {
+          const option = document.createElement("option");
+          option.value = record.code;
+          option.textContent = `${record.name} (${record.code})`;
+          option.dataset.record = JSON.stringify(record);
+          select.append(option);
+        });
+        select.disabled = records.length === 0;
+      };
+
+      async function connect() {
+        elements.apiStatus.textContent = "Connecting…";
+        elements.apiStatus.className = "badge";
+        elements.connect.textContent = "Connecting…";
+        elements.connect.classList.remove("connected");
+        elements.connect.disabled = true;
+        try {
+          const [health, cities] = await Promise.all([
+            request("/health"),
+            request("/api/v1/cities"),
+          ]);
+          setOptions(elements.city, cities.data, "Select a city");
+          elements.apiStatus.textContent = "API connected";
+          elements.connect.textContent = "Connected";
+          elements.connect.classList.add("connected");
+          elements.counts.textContent = `${health.metadata.counts.city_records} cities · ${health.metadata.counts.areas} areas · ${health.metadata.counts.blocks} blocks`;
+          showJson(health);
+        } catch (error) {
+          elements.apiStatus.textContent = "Connection failed";
+          elements.apiStatus.className = "badge error";
+          elements.connect.textContent = "Retry connection";
+          elements.connect.classList.remove("connected");
+          showJson({ error: error.message, api_base_url: baseUrl() });
+        } finally {
+          elements.connect.disabled = false;
+        }
+      }
+
+      elements.city.addEventListener("change", async () => {
+        selectedCity = elements.city.selectedOptions[0]?.dataset.record
+          ? JSON.parse(elements.city.selectedOptions[0].dataset.record)
+          : undefined;
+        selectedArea = undefined;
+        setOptions(elements.block, [], "Select an area first");
+        if (!selectedCity) return setOptions(elements.area, [], "Select a city first");
+        const response = await request(`/api/v1/cities/${encodeURIComponent(selectedCity.code)}/areas`);
+        setOptions(elements.area, response.data, response.data.length ? "Select an area" : "No areas available");
+        elements.selection.textContent = `${selectedCity.name} · ${response.count} areas`;
+        showJson({ city: selectedCity, areas: response.data });
+      });
+
+      elements.area.addEventListener("change", async () => {
+        selectedArea = elements.area.selectedOptions[0]?.dataset.record
+          ? JSON.parse(elements.area.selectedOptions[0].dataset.record)
+          : undefined;
+        if (!selectedArea) return setOptions(elements.block, [], "Select an area first");
+        const response = await request(`/api/v1/areas/${encodeURIComponent(selectedArea.code)}/blocks`);
+        setOptions(elements.block, response.data, response.data.length ? "Select a block" : "No blocks available");
+        elements.selection.textContent = `${selectedCity.name} → ${selectedArea.name} · ${response.count} blocks`;
+        showJson({ city: selectedCity, area: selectedArea, blocks: response.data });
+      });
+
+      elements.block.addEventListener("change", () => {
+        const block = elements.block.selectedOptions[0]?.dataset.record
+          ? JSON.parse(elements.block.selectedOptions[0].dataset.record)
+          : undefined;
+        if (!block) return;
+        elements.selection.textContent = `${selectedCity.name} → ${selectedArea.name} → ${block.name}`;
+        showJson({ city: selectedCity, area: selectedArea, block });
+      });
+
+      elements.connect.addEventListener("click", connect);
+      connect();
+    </script>
+  </body>
+</html>

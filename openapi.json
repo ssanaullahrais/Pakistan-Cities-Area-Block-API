@@ -1,0 +1,200 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Pakistan Cities, Areas and Blocks API",
+    "version": "1.0.0",
+    "description": "A read-only API exposing a Pakistan city, area and block hierarchy with stable codes for delivery integrations."
+  },
+  "servers": [
+    { "url": "http://127.0.0.1:3100", "description": "Local development" }
+  ],
+  "paths": {
+    "/health": {
+      "get": {
+        "summary": "API health and dataset metadata",
+        "responses": { "200": { "description": "API is healthy" } }
+      }
+    },
+    "/api/v1/cities": {
+      "get": {
+        "summary": "List or search all selectable cities",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": false,
+            "schema": { "type": "string" },
+            "description": "Case-insensitive city name or code search"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "City records",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "count": { "type": "integer" },
+                    "data": { "type": "array", "items": { "$ref": "#/components/schemas/City" } }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/cities/{cityCode}": {
+      "get": {
+        "summary": "Get city records sharing a routing code",
+        "parameters": [{ "$ref": "#/components/parameters/CityCode" }],
+        "responses": {
+          "200": { "description": "Matching city records" },
+          "404": { "$ref": "#/components/responses/NotFound" }
+        }
+      }
+    },
+    "/api/v1/cities/{cityCode}/areas": {
+      "get": {
+        "summary": "Get all areas for a city code",
+        "parameters": [
+          { "$ref": "#/components/parameters/CityCode" },
+          { "$ref": "#/components/parameters/Search" }
+        ],
+        "responses": {
+          "200": {
+            "description": "Area records",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "count": { "type": "integer" },
+                    "data": { "type": "array", "items": { "$ref": "#/components/schemas/Area" } }
+                  }
+                }
+              }
+            }
+          },
+          "404": { "$ref": "#/components/responses/NotFound" }
+        }
+      }
+    },
+    "/api/v1/areas/{areaCode}/blocks": {
+      "get": {
+        "summary": "Get all blocks for an area code",
+        "parameters": [
+          {
+            "name": "areaCode",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" },
+            "example": "R80302494"
+          },
+          { "$ref": "#/components/parameters/Search" }
+        ],
+        "responses": {
+          "200": {
+            "description": "Block records",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "count": { "type": "integer" },
+                    "data": { "type": "array", "items": { "$ref": "#/components/schemas/Block" } }
+                  }
+                }
+              }
+            }
+          },
+          "404": { "$ref": "#/components/responses/NotFound" }
+        }
+      }
+    },
+    "/api/v1/cities/{cityCode}/hierarchy": {
+      "get": {
+        "summary": "Get one nested city-area-block hierarchy",
+        "parameters": [{ "$ref": "#/components/parameters/CityCode" }],
+        "responses": {
+          "200": { "description": "Nested hierarchy" },
+          "404": { "$ref": "#/components/responses/NotFound" }
+        }
+      }
+    },
+    "/api/v1/relationships": {
+      "get": {
+        "summary": "Get explicit city-to-area and area-to-block code maps",
+        "responses": { "200": { "description": "Relationship maps" } }
+      }
+    }
+  },
+  "components": {
+    "parameters": {
+      "CityCode": {
+        "name": "cityCode",
+        "in": "path",
+        "required": true,
+        "schema": { "type": "string" },
+        "example": "RWP"
+      },
+      "Search": {
+        "name": "q",
+        "in": "query",
+        "required": false,
+        "schema": { "type": "string" },
+        "description": "Case-insensitive name or code search"
+      }
+    },
+    "schemas": {
+      "City": {
+        "type": "object",
+        "required": ["code", "name"],
+        "properties": {
+          "id": { "type": ["integer", "null"] },
+          "code": { "type": "string", "example": "RWP" },
+          "name": { "type": "string", "example": "RAWALPINDI" }
+        }
+      },
+      "Area": {
+        "type": "object",
+        "required": ["id", "code", "name", "city_code"],
+        "properties": {
+          "id": { "type": "integer" },
+          "code": { "type": "string", "example": "R80302494" },
+          "name": { "type": "string", "example": "Rawalpindi - Bahria Town" },
+          "city_code": { "type": "string", "example": "RWP" }
+        }
+      },
+      "Block": {
+        "type": "object",
+        "required": ["id", "code", "name", "city_code", "area_id", "area_code"],
+        "properties": {
+          "id": { "type": "integer" },
+          "code": { "type": "string", "example": "R80303617" },
+          "name": { "type": "string", "example": "Phase 8" },
+          "city_code": { "type": "string", "example": "RWP" },
+          "area_id": { "type": "integer", "example": 885 },
+          "area_code": { "type": "string", "example": "R80302494" }
+        }
+      }
+    },
+    "responses": {
+      "NotFound": {
+        "description": "Location code not found",
+        "content": {
+          "application/json": {
+            "schema": {
+              "type": "object",
+              "properties": {
+                "error": { "type": "string" },
+                "message": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

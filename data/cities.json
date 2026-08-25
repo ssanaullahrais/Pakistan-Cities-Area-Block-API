@@ -1,0 +1,2865 @@
+{
+  "metadata": {
+    "source": "Pakistan location reference dataset",
+    "generated_at": "2026-08-25T10:59:45.270Z",
+    "country_code": "PK",
+    "counts": {
+      "city_records": 570,
+      "city_codes": 549,
+      "areas": 1093,
+      "blocks": 12638
+    }
+  },
+  "data": [
+    {
+      "id": null,
+      "code": "AZR",
+      "name": "18 HAZARI"
+    },
+    {
+      "id": null,
+      "code": "TCC",
+      "name": "36 CHOWK"
+    },
+    {
+      "id": null,
+      "code": "ABT",
+      "name": "ABBOTABAD"
+    },
+    {
+      "id": null,
+      "code": "AHT",
+      "name": "ABDUL HAKIM"
+    },
+    {
+      "id": null,
+      "code": "BBA",
+      "name": "ADDA BUN BOSAN"
+    },
+    {
+      "id": null,
+      "code": "ALR",
+      "name": "ADDA LAR"
+    },
+    {
+      "id": null,
+      "code": "MCW",
+      "name": "ADDA MACHIWAL"
+    },
+    {
+      "id": null,
+      "code": "ADZ",
+      "name": "ADDA ZAKHEERA"
+    },
+    {
+      "id": null,
+      "code": "APE",
+      "name": "AHMED PUR EAST"
+    },
+    {
+      "id": null,
+      "code": "APL",
+      "name": "AHMED PUR LAMMA"
+    },
+    {
+      "id": null,
+      "code": "APS",
+      "name": "AHMED PUR SIAL"
+    },
+    {
+      "id": null,
+      "code": "AKT",
+      "name": "AKORA KHATAK"
+    },
+    {
+      "id": null,
+      "code": "AUI",
+      "name": "AL Puri"
+    },
+    {
+      "id": null,
+      "code": "APC",
+      "name": "ALI PUR CHATTA"
+    },
+    {
+      "id": null,
+      "code": "AIP",
+      "name": "ALIPUR"
+    },
+    {
+      "id": null,
+      "code": "EIR",
+      "name": "AMBEERI KALA"
+    },
+    {
+      "id": null,
+      "code": "ARI",
+      "name": "Amberi Kalla"
+    },
+    {
+      "id": null,
+      "code": "AMB",
+      "name": "AMINPUR BANGLOW"
+    },
+    {
+      "id": null,
+      "code": "AFA",
+      "name": "ARIF WALA"
+    },
+    {
+      "id": null,
+      "code": "ATT",
+      "name": "ATTOCK"
+    },
+    {
+      "id": null,
+      "code": "AWR",
+      "name": "AWARAN"
+    },
+    {
+      "id": null,
+      "code": "BDN",
+      "name": "BADIN"
+    },
+    {
+      "id": null,
+      "code": "BGH",
+      "name": "BAGH"
+    },
+    {
+      "id": null,
+      "code": "NGR",
+      "name": "BAHAWALNAGAR"
+    },
+    {
+      "id": null,
+      "code": "BHV",
+      "name": "BAHAWALPUR"
+    },
+    {
+      "id": null,
+      "code": "BJR",
+      "name": "BAJAUR"
+    },
+    {
+      "id": null,
+      "code": "BAK",
+      "name": "BAKRANI"
+    },
+    {
+      "id": null,
+      "code": "BQK",
+      "name": "BALAKOT"
+    },
+    {
+      "id": null,
+      "code": "GOG",
+      "name": "BANGLOW GOGERA"
+    },
+    {
+      "id": null,
+      "code": "BNP",
+      "name": "BANNU"
+    },
+    {
+      "id": null,
+      "code": "BRK",
+      "name": "BARA KAHU"
+    },
+    {
+      "id": null,
+      "code": "BOT",
+      "name": "Bari Kot"
+    },
+    {
+      "id": null,
+      "code": "BKH",
+      "name": "BARKHAN"
+    },
+    {
+      "id": null,
+      "code": "BRN",
+      "name": "BARNALA"
+    },
+    {
+      "id": null,
+      "code": "NLA",
+      "name": "BARNALA A.K"
+    },
+    {
+      "id": null,
+      "code": "BSR",
+      "name": "BASIR PUR"
+    },
+    {
+      "id": null,
+      "code": "BGM",
+      "name": "BATGARAM"
+    },
+    {
+      "id": null,
+      "code": "BTK",
+      "name": "BATKHELA"
+    },
+    {
+      "id": null,
+      "code": "MNA",
+      "name": "BATTGRAM"
+    },
+    {
+      "id": null,
+      "code": "BLA",
+      "name": "BELA"
+    },
+    {
+      "id": null,
+      "code": "BPR",
+      "name": "BHAI PHARU"
+    },
+    {
+      "id": null,
+      "code": "BKK",
+      "name": "BHAKKAR"
+    },
+    {
+      "id": null,
+      "code": "BWL",
+      "name": "BHALWAL"
+    },
+    {
+      "id": null,
+      "code": "SBD",
+      "name": "Bhan Saeedabad"
+    },
+    {
+      "id": null,
+      "code": "BWA",
+      "name": "BHAWANA"
+    },
+    {
+      "id": null,
+      "code": "BRA",
+      "name": "BHERA"
+    },
+    {
+      "id": null,
+      "code": "BMR",
+      "name": "BHIMBER"
+    },
+    {
+      "id": null,
+      "code": "BRC",
+      "name": "BHIRIA CITY"
+    },
+    {
+      "id": null,
+      "code": "BRD",
+      "name": "BHIRIA ROAD"
+    },
+    {
+      "id": null,
+      "code": "BSH",
+      "name": "BHIT SHAH"
+    },
+    {
+      "id": null,
+      "code": "ASH",
+      "name": "BISHAM"
+    },
+    {
+      "id": null,
+      "code": "ONI",
+      "name": "BOONI"
+    },
+    {
+      "id": null,
+      "code": "ZBD",
+      "name": "BOZDAR WADA"
+    },
+    {
+      "id": null,
+      "code": "BCK",
+      "name": "BUCHEKI"
+    },
+    {
+      "id": null,
+      "code": "BCM",
+      "name": "BUCHIANA MANDI"
+    },
+    {
+      "id": null,
+      "code": "BST",
+      "name": "BUDHLA SANT"
+    },
+    {
+      "id": null,
+      "code": "BUR",
+      "name": "BUNAIR"
+    },
+    {
+      "id": null,
+      "code": "BRW",
+      "name": "BUREWALA"
+    },
+    {
+      "id": null,
+      "code": "CHO",
+      "name": "CHACHRO"
+    },
+    {
+      "id": null,
+      "code": "CJS",
+      "name": "CHAK JHUMRA"
+    },
+    {
+      "id": null,
+      "code": "CKR",
+      "name": "CHAK SAWARI"
+    },
+    {
+      "id": null,
+      "code": "CRA",
+      "name": "CHAKDARA"
+    },
+    {
+      "id": null,
+      "code": "CKL",
+      "name": "CHAKWAL"
+    },
+    {
+      "id": null,
+      "code": "CMN",
+      "name": "CHAMAN"
+    },
+    {
+      "id": null,
+      "code": "CHM",
+      "name": "Chamber"
+    },
+    {
+      "id": null,
+      "code": "CMG",
+      "name": "Changa Manga"
+    },
+    {
+      "id": null,
+      "code": "CGT",
+      "name": "Chani Goth"
+    },
+    {
+      "id": null,
+      "code": "CSD",
+      "name": "CHARSADDA"
+    },
+    {
+      "id": null,
+      "code": "SMA",
+      "name": "CHASHMA"
+    },
+    {
+      "id": null,
+      "code": "CWD",
+      "name": "CHAWINDA"
+    },
+    {
+      "id": null,
+      "code": "AWH",
+      "name": "CHENAB NAGAR"
+    },
+    {
+      "id": null,
+      "code": "CCW",
+      "name": "CHICHAWATNI"
+    },
+    {
+      "id": null,
+      "code": "CLL",
+      "name": "Chillas Sherz"
+    },
+    {
+      "id": null,
+      "code": "IOT",
+      "name": "CHINIOT"
+    },
+    {
+      "id": null,
+      "code": "CHT",
+      "name": "CHISHTIAN"
+    },
+    {
+      "id": null,
+      "code": "CTL",
+      "name": "CHITRAL"
+    },
+    {
+      "id": null,
+      "code": "CDS",
+      "name": "CHOA SYDEN SHAH"
+    },
+    {
+      "id": null,
+      "code": "THT",
+      "name": "CHOHAR JAMALI"
+    },
+    {
+      "id": null,
+      "code": "WCA",
+      "name": "CHONAWALA"
+    },
+    {
+      "id": null,
+      "code": "COC",
+      "name": "CHOR CANTT"
+    },
+    {
+      "id": null,
+      "code": "CAZ",
+      "name": "CHOWK AZAM"
+    },
+    {
+      "id": null,
+      "code": "CUK",
+      "name": "CHUNDIKO"
+    },
+    {
+      "id": null,
+      "code": "CHN",
+      "name": "CHUNIA"
+    },
+    {
+      "id": null,
+      "code": "CUN",
+      "name": "CHUNIAN"
+    },
+    {
+      "id": null,
+      "code": "DDL",
+      "name": "DADIYAL"
+    },
+    {
+      "id": null,
+      "code": "DDU",
+      "name": "DADU"
+    },
+    {
+      "id": null,
+      "code": "DYL",
+      "name": "DADYAL (A.K)"
+    },
+    {
+      "id": null,
+      "code": "DKI",
+      "name": "DAHARKI"
+    },
+    {
+      "id": null,
+      "code": "DWA",
+      "name": "DAHRANWALA"
+    },
+    {
+      "id": null,
+      "code": "LDJ",
+      "name": "DAJAL"
+    },
+    {
+      "id": null,
+      "code": "DKT",
+      "name": "DAKOTA"
+    },
+    {
+      "id": null,
+      "code": "DLB",
+      "name": "DALBANDIN"
+    },
+    {
+      "id": null,
+      "code": "DNR",
+      "name": "Danyor"
+    },
+    {
+      "id": null,
+      "code": "DDK",
+      "name": "DARA ADM KHEL"
+    },
+    {
+      "id": null,
+      "code": "DRG",
+      "name": "DARGAI"
+    },
+    {
+      "id": null,
+      "code": "DSH",
+      "name": "DAROSH"
+    },
+    {
+      "id": null,
+      "code": "DAH",
+      "name": "DARY KHAN"
+    },
+    {
+      "id": null,
+      "code": "DKA",
+      "name": "DASKA"
+    },
+    {
+      "id": null,
+      "code": "DKL",
+      "name": "DAUD KHEL"
+    },
+    {
+      "id": null,
+      "code": "DTR",
+      "name": "DAULATPUR"
+    },
+    {
+      "id": null,
+      "code": "DTA",
+      "name": "Daultala"
+    },
+    {
+      "id": null,
+      "code": "DPA",
+      "name": "DEPAL PUR"
+    },
+    {
+      "id": null,
+      "code": "DAY",
+      "name": "DERA ALLAHYAR"
+    },
+    {
+      "id": null,
+      "code": "DGK",
+      "name": "DERA GHAZI KHAN"
+    },
+    {
+      "id": null,
+      "code": "DIK",
+      "name": "DERA ISMAIL KHAN"
+    },
+    {
+      "id": null,
+      "code": "DMJ",
+      "name": "DERAMURAD JAMAL"
+    },
+    {
+      "id": null,
+      "code": "DDR",
+      "name": "DHADAR"
+    },
+    {
+      "id": null,
+      "code": "DAT",
+      "name": "DHAMTAL"
+    },
+    {
+      "id": null,
+      "code": "ANO",
+      "name": "Dhanola"
+    },
+    {
+      "id": null,
+      "code": "DNT",
+      "name": "DHANOT"
+    },
+    {
+      "id": null,
+      "code": "DHK",
+      "name": "DHEERKOT"
+    },
+    {
+      "id": null,
+      "code": "DOK",
+      "name": "DHODHAK"
+    },
+    {
+      "id": null,
+      "code": "DHN",
+      "name": "DHORO NARO"
+    },
+    {
+      "id": null,
+      "code": "DIG",
+      "name": "DIGRI"
+    },
+    {
+      "id": null,
+      "code": "DIJ",
+      "name": "DIJKOT"
+    },
+    {
+      "id": null,
+      "code": "DIN",
+      "name": "DINA"
+    },
+    {
+      "id": null,
+      "code": "DNG",
+      "name": "DINGA"
+    },
+    {
+      "id": null,
+      "code": "DLO",
+      "name": "DIPLO"
+    },
+    {
+      "id": null,
+      "code": "ORI",
+      "name": "DOKRI"
+    },
+    {
+      "id": null,
+      "code": "DLT",
+      "name": "DOLAT NAGAR"
+    },
+    {
+      "id": null,
+      "code": "DOR",
+      "name": "DOUR"
+    },
+    {
+      "id": null,
+      "code": "UKI",
+      "name": "DUKKI"
+    },
+    {
+      "id": null,
+      "code": "DLW",
+      "name": "DULLE WALA"
+    },
+    {
+      "id": null,
+      "code": "DUN",
+      "name": "DUNYA PUR"
+    },
+    {
+      "id": null,
+      "code": "ELA",
+      "name": "ELLAH ABAD"
+    },
+    {
+      "id": null,
+      "code": "FSD",
+      "name": "FAISALABAD"
+    },
+    {
+      "id": null,
+      "code": "FQW",
+      "name": "Faqir Wali"
+    },
+    {
+      "id": null,
+      "code": "FAD",
+      "name": "FARROQABAD"
+    },
+    {
+      "id": null,
+      "code": "FTG",
+      "name": "FATEH JANG"
+    },
+    {
+      "id": null,
+      "code": "FPR",
+      "name": "FATEHPUR"
+    },
+    {
+      "id": null,
+      "code": "FZP",
+      "name": "FAZIL PUR"
+    },
+    {
+      "id": null,
+      "code": "FWA",
+      "name": "FEROZ WATOWAN"
+    },
+    {
+      "id": null,
+      "code": "FRZ",
+      "name": "FEROZA"
+    },
+    {
+      "id": null,
+      "code": "FAB",
+      "name": "FORTE ABBAS"
+    },
+    {
+      "id": null,
+      "code": "GDN",
+      "name": "GADOON AMAZAI"
+    },
+    {
+      "id": null,
+      "code": "GMD",
+      "name": "GAGGO MANDI"
+    },
+    {
+      "id": null,
+      "code": "IHA",
+      "name": "GAHKUCH GHIZER"
+    },
+    {
+      "id": null,
+      "code": "GBT",
+      "name": "GAMBAT"
+    },
+    {
+      "id": null,
+      "code": "GBC",
+      "name": "GAMBAT CITY"
+    },
+    {
+      "id": null,
+      "code": "GMO",
+      "name": "GARH MOR"
+    },
+    {
+      "id": null,
+      "code": "GRM",
+      "name": "GARHA MORR"
+    },
+    {
+      "id": null,
+      "code": "GKR",
+      "name": "GARI KHAIRO"
+    },
+    {
+      "id": null,
+      "code": "GYS",
+      "name": "GARI YASIN"
+    },
+    {
+      "id": null,
+      "code": "GWR",
+      "name": "GAWADAR"
+    },
+    {
+      "id": null,
+      "code": "GHT",
+      "name": "GF"
+    },
+    {
+      "id": null,
+      "code": "GHK",
+      "name": "GHAKAR"
+    },
+    {
+      "id": null,
+      "code": "GNY",
+      "name": "Ghalanay"
+    },
+    {
+      "id": null,
+      "code": "GRO",
+      "name": "GHARO"
+    },
+    {
+      "id": null,
+      "code": "GAD",
+      "name": "GHAZI ABAD"
+    },
+    {
+      "id": null,
+      "code": "GTI",
+      "name": "GHOTKI"
+    },
+    {
+      "id": null,
+      "code": "GPR",
+      "name": "GHOUS PUR"
+    },
+    {
+      "id": null,
+      "code": "GIL",
+      "name": "GILGIT"
+    },
+    {
+      "id": null,
+      "code": "RRA",
+      "name": "GOJRA"
+    },
+    {
+      "id": null,
+      "code": "GOL",
+      "name": "GOLARCHI"
+    },
+    {
+      "id": null,
+      "code": "GDU",
+      "name": "GUDDU"
+    },
+    {
+      "id": null,
+      "code": "GKN",
+      "name": "GUJARKHAN"
+    },
+    {
+      "id": null,
+      "code": "GUJ",
+      "name": "GUJRANWALA"
+    },
+    {
+      "id": null,
+      "code": "GJT",
+      "name": "GUJRAT"
+    },
+    {
+      "id": null,
+      "code": "HZD",
+      "name": "HAFIZABAD"
+    },
+    {
+      "id": null,
+      "code": "HFZ",
+      "name": "HAFIZWALA"
+    },
+    {
+      "id": null,
+      "code": "HAJ",
+      "name": "HAJIRA"
+    },
+    {
+      "id": null,
+      "code": "HLA",
+      "name": "HALA"
+    },
+    {
+      "id": null,
+      "code": "HCY",
+      "name": "HALANI CITY"
+    },
+    {
+      "id": null,
+      "code": "HNG",
+      "name": "HANGU"
+    },
+    {
+      "id": null,
+      "code": "HRI",
+      "name": "HARIPUR"
+    },
+    {
+      "id": null,
+      "code": "HNI",
+      "name": "HARNAI"
+    },
+    {
+      "id": null,
+      "code": "HNL",
+      "name": "HARNOULI"
+    },
+    {
+      "id": null,
+      "code": "HRN",
+      "name": "HAROONABAD"
+    },
+    {
+      "id": null,
+      "code": "HRR",
+      "name": "Harrapa"
+    },
+    {
+      "id": null,
+      "code": "HSL",
+      "name": "HASILPUR"
+    },
+    {
+      "id": null,
+      "code": "HSN",
+      "name": "HASSAN ABDAL"
+    },
+    {
+      "id": null,
+      "code": "HTR",
+      "name": "HATTER"
+    },
+    {
+      "id": null,
+      "code": "HKL",
+      "name": "Haveli Lakha"
+    },
+    {
+      "id": null,
+      "code": "HVL",
+      "name": "HAVELLIAN"
+    },
+    {
+      "id": null,
+      "code": "HOO",
+      "name": "HAZRO"
+    },
+    {
+      "id": null,
+      "code": "HOF",
+      "name": "HEAD OFFICE"
+    },
+    {
+      "id": null,
+      "code": "KHO",
+      "name": "Head Office KHI"
+    },
+    {
+      "id": null,
+      "code": "HHH",
+      "name": "HHH"
+    },
+    {
+      "id": null,
+      "code": "HUB",
+      "name": "HUB"
+    },
+    {
+      "id": null,
+      "code": "HSM",
+      "name": "HUJRA SHAMUQEEM"
+    },
+    {
+      "id": null,
+      "code": "HMK",
+      "name": "HUMAK"
+    },
+    {
+      "id": null,
+      "code": "HNZ",
+      "name": "HUNZA"
+    },
+    {
+      "id": null,
+      "code": "HDD",
+      "name": "HYDERABAD"
+    },
+    {
+      "id": null,
+      "code": "ING",
+      "name": "IQBAL NAGAR"
+    },
+    {
+      "id": null,
+      "code": "IQL",
+      "name": "IQBALABAD"
+    },
+    {
+      "id": null,
+      "code": "IKD",
+      "name": "ISKANDARABAD"
+    },
+    {
+      "id": null,
+      "code": "ISB",
+      "name": "ISLAMABAD"
+    },
+    {
+      "id": null,
+      "code": "IMK",
+      "name": "ISLAMKOT"
+    },
+    {
+      "id": null,
+      "code": "IKL",
+      "name": "ISSA KHEL"
+    },
+    {
+      "id": null,
+      "code": "JCB",
+      "name": "JACOBABAD"
+    },
+    {
+      "id": null,
+      "code": "EOA",
+      "name": "JAGLOT"
+    },
+    {
+      "id": null,
+      "code": "HZD",
+      "name": "JALAL PUR BHATTIAN"
+    },
+    {
+      "id": null,
+      "code": "JLJ",
+      "name": "JALALPUR JATTAN"
+    },
+    {
+      "id": null,
+      "code": "JPP",
+      "name": "JALALPURPIRWALA"
+    },
+    {
+      "id": null,
+      "code": "JDW",
+      "name": "JAMALDIN WALI"
+    },
+    {
+      "id": null,
+      "code": "JMP",
+      "name": "JAMPUR"
+    },
+    {
+      "id": null,
+      "code": "JMO",
+      "name": "JAMSHORO"
+    },
+    {
+      "id": null,
+      "code": "JND",
+      "name": "JAND"
+    },
+    {
+      "id": null,
+      "code": "JLA",
+      "name": "JAND WALA"
+    },
+    {
+      "id": null,
+      "code": "JWA",
+      "name": "JARANWALA"
+    },
+    {
+      "id": null,
+      "code": "JAR",
+      "name": "JARWAR"
+    },
+    {
+      "id": null,
+      "code": "JTI",
+      "name": "JATOI"
+    },
+    {
+      "id": null,
+      "code": "JVR",
+      "name": "JAWARIAN"
+    },
+    {
+      "id": null,
+      "code": "JHG",
+      "name": "JHANG"
+    },
+    {
+      "id": null,
+      "code": "JRI",
+      "name": "JHANGIRA"
+    },
+    {
+      "id": null,
+      "code": "JHN",
+      "name": "JHANIAN"
+    },
+    {
+      "id": null,
+      "code": "JPT",
+      "name": "JHAT PAT"
+    },
+    {
+      "id": null,
+      "code": "JLM",
+      "name": "JHELUM"
+    },
+    {
+      "id": null,
+      "code": "JYL",
+      "name": "JHOL"
+    },
+    {
+      "id": null,
+      "code": "OJD",
+      "name": "JHUDO"
+    },
+    {
+      "id": null,
+      "code": "JHI",
+      "name": "Johi"
+    },
+    {
+      "id": null,
+      "code": "JRD",
+      "name": "JOUHARABAD"
+    },
+    {
+      "id": null,
+      "code": "BLL",
+      "name": "KABAL"
+    },
+    {
+      "id": null,
+      "code": "KBB",
+      "name": "KABIR WALA"
+    },
+    {
+      "id": null,
+      "code": "KOO",
+      "name": "KACHA KHO"
+    },
+    {
+      "id": null,
+      "code": "KTA",
+      "name": "KAHOTA"
+    },
+    {
+      "id": null,
+      "code": "KKL",
+      "name": "KAKUL"
+    },
+    {
+      "id": null,
+      "code": "KBH",
+      "name": "KALA BAGH"
+    },
+    {
+      "id": null,
+      "code": "KKU",
+      "name": "KALA SHAH KAKU"
+    },
+    {
+      "id": null,
+      "code": "KLK",
+      "name": "KALAR KAHAR"
+    },
+    {
+      "id": null,
+      "code": "KLS",
+      "name": "KALAR SYEDAN"
+    },
+    {
+      "id": null,
+      "code": "KAY",
+      "name": "Kalaskay"
+    },
+    {
+      "id": null,
+      "code": "KLT",
+      "name": "KALAT"
+    },
+    {
+      "id": null,
+      "code": "OOR",
+      "name": "KALOOR KOT"
+    },
+    {
+      "id": null,
+      "code": "KLA",
+      "name": "KAMALIA"
+    },
+    {
+      "id": null,
+      "code": "KAK",
+      "name": "KAMBAR ALI KHAN"
+    },
+    {
+      "id": null,
+      "code": "KER",
+      "name": "KAMEER"
+    },
+    {
+      "id": null,
+      "code": "KMI",
+      "name": "KAMER MOSHANI"
+    },
+    {
+      "id": null,
+      "code": "KMK",
+      "name": "KAMOKE"
+    },
+    {
+      "id": null,
+      "code": "KMA",
+      "name": "KAMRA"
+    },
+    {
+      "id": null,
+      "code": "KNU",
+      "name": "KANA NAU"
+    },
+    {
+      "id": null,
+      "code": "KKK",
+      "name": "KANDH KOT"
+    },
+    {
+      "id": null,
+      "code": "KDI",
+      "name": "KANDIARI"
+    },
+    {
+      "id": null,
+      "code": "KND",
+      "name": "KANDYARO"
+    },
+    {
+      "id": null,
+      "code": "KUP",
+      "name": "KANGAN PUR"
+    },
+    {
+      "id": null,
+      "code": "KHI",
+      "name": "KARACHI"
+    },
+    {
+      "id": null,
+      "code": "KRK",
+      "name": "KARAK"
+    },
+    {
+      "id": null,
+      "code": "KAR",
+      "name": "KAROR LALESAN"
+    },
+    {
+      "id": null,
+      "code": "KPC",
+      "name": "KAROR PAKKA"
+    },
+    {
+      "id": null,
+      "code": "KHM",
+      "name": "KASHMORE"
+    },
+    {
+      "id": null,
+      "code": "KSW",
+      "name": "KASOWAL"
+    },
+    {
+      "id": null,
+      "code": "KSR",
+      "name": "KASUR"
+    },
+    {
+      "id": null,
+      "code": "KLG",
+      "name": "KATLANG"
+    },
+    {
+      "id": null,
+      "code": "KTW",
+      "name": "KHAIPUR TAMEWAL"
+    },
+    {
+      "id": null,
+      "code": "KTW",
+      "name": "KHAIR PUR TAMIANWALI"
+    },
+    {
+      "id": null,
+      "code": "KHP",
+      "name": "KHAIRPUR"
+    },
+    {
+      "id": null,
+      "code": "KNS",
+      "name": "KHAIRPUR NATHAN"
+    },
+    {
+      "id": null,
+      "code": "KBL",
+      "name": "KHAN BELA"
+    },
+    {
+      "id": null,
+      "code": "GRH",
+      "name": "Khan Garh"
+    },
+    {
+      "id": null,
+      "code": "KWL",
+      "name": "KHANEWAL"
+    },
+    {
+      "id": null,
+      "code": "NPR",
+      "name": "KHANPUR"
+    },
+    {
+      "id": null,
+      "code": "NMR",
+      "name": "KHANPUR MAHER"
+    },
+    {
+      "id": null,
+      "code": "KQS",
+      "name": "KHANQA SHARIF"
+    },
+    {
+      "id": null,
+      "code": "KPL",
+      "name": "KHAPLU"
+    },
+    {
+      "id": null,
+      "code": "KHR",
+      "name": "KHARAN"
+    },
+    {
+      "id": null,
+      "code": "KRN",
+      "name": "KHARIAN"
+    },
+    {
+      "id": null,
+      "code": "KRC",
+      "name": "KHARIAN CANTT"
+    },
+    {
+      "id": null,
+      "code": "KZK",
+      "name": "KHAZAKHELA"
+    },
+    {
+      "id": null,
+      "code": "PDK",
+      "name": "KHEWRA DANDOT"
+    },
+    {
+      "id": null,
+      "code": "KGH",
+      "name": "KHI GEN HEAVY"
+    },
+    {
+      "id": null,
+      "code": "KHW",
+      "name": "KHI WAREHOUSE"
+    },
+    {
+      "id": null,
+      "code": "KDW",
+      "name": "KHIDDER WALA"
+    },
+    {
+      "id": null,
+      "code": "KPR",
+      "name": "KHIPRO"
+    },
+    {
+      "id": null,
+      "code": "KNZ",
+      "name": "KHONAZAI"
+    },
+    {
+      "id": null,
+      "code": "RTA",
+      "name": "Khuiratta"
+    },
+    {
+      "id": null,
+      "code": "SAB",
+      "name": "KHUSHAB"
+    },
+    {
+      "id": null,
+      "code": "UDR",
+      "name": "KHUZDAR"
+    },
+    {
+      "id": null,
+      "code": "OHT",
+      "name": "KOHAT"
+    },
+    {
+      "id": null,
+      "code": "IHU",
+      "name": "Kohilu"
+    },
+    {
+      "id": null,
+      "code": "LHE",
+      "name": "KOT ABDUL MALIK"
+    },
+    {
+      "id": null,
+      "code": "KOT",
+      "name": "KOT ADDU"
+    },
+    {
+      "id": null,
+      "code": "KHT",
+      "name": "KOT CHUTTA"
+    },
+    {
+      "id": null,
+      "code": "KGM",
+      "name": "KOT GHULAM MUHD"
+    },
+    {
+      "id": null,
+      "code": "KTM",
+      "name": "KOT MITTHAN"
+    },
+    {
+      "id": null,
+      "code": "KMN",
+      "name": "KOT MOMIN"
+    },
+    {
+      "id": null,
+      "code": "KDC",
+      "name": "KOT RADHA KISHA"
+    },
+    {
+      "id": null,
+      "code": "KSB",
+      "name": "KOT SAMABAH"
+    },
+    {
+      "id": null,
+      "code": "KTL",
+      "name": "KOTLA"
+    },
+    {
+      "id": null,
+      "code": "KJA",
+      "name": "Kotla Jam"
+    },
+    {
+      "id": null,
+      "code": "KLY",
+      "name": "KOTLI-A.KASHMIR"
+    },
+    {
+      "id": null,
+      "code": "HDD",
+      "name": "KOTRI"
+    },
+    {
+      "id": null,
+      "code": "KCU",
+      "name": "KUCHLAK"
+    },
+    {
+      "id": null,
+      "code": "UMB",
+      "name": "KUMB"
+    },
+    {
+      "id": null,
+      "code": "KNN",
+      "name": "KUNDIAN"
+    },
+    {
+      "id": null,
+      "code": "KNI",
+      "name": "KUNRI"
+    },
+    {
+      "id": null,
+      "code": "LHE",
+      "name": "LAHORE"
+    },
+    {
+      "id": null,
+      "code": "LKI",
+      "name": "LAKI MARWAT"
+    },
+    {
+      "id": null,
+      "code": "LLM",
+      "name": "LALAMUSA"
+    },
+    {
+      "id": null,
+      "code": "LLI",
+      "name": "LALIAN"
+    },
+    {
+      "id": null,
+      "code": "LNK",
+      "name": "LANDIKOTAL"
+    },
+    {
+      "id": null,
+      "code": "LAR",
+      "name": "LARKANA"
+    },
+    {
+      "id": null,
+      "code": "LPR",
+      "name": "LAWRENCE PUR"
+    },
+    {
+      "id": null,
+      "code": "LYY",
+      "name": "LAYYAH"
+    },
+    {
+      "id": null,
+      "code": "LGH",
+      "name": "LHE - GEN HEAVY"
+    },
+    {
+      "id": null,
+      "code": "LHW",
+      "name": "LHE WAREHOUSE"
+    },
+    {
+      "id": null,
+      "code": "MLH",
+      "name": "LHE-CENTRAL"
+    },
+    {
+      "id": null,
+      "code": "LHD",
+      "name": "LHE-EAST"
+    },
+    {
+      "id": null,
+      "code": "LHS",
+      "name": "LHE-SOUTH"
+    },
+    {
+      "id": null,
+      "code": "LHP",
+      "name": "LHE-WEST"
+    },
+    {
+      "id": null,
+      "code": "LQR",
+      "name": "LIAQUATPUR"
+    },
+    {
+      "id": null,
+      "code": "LOD",
+      "name": "LODHRAN"
+    },
+    {
+      "id": null,
+      "code": "LRI",
+      "name": "LORA LAI"
+    },
+    {
+      "id": null,
+      "code": "DRG",
+      "name": "Lower DIR"
+    },
+    {
+      "id": null,
+      "code": "LDN",
+      "name": "LUDDAN"
+    },
+    {
+      "id": null,
+      "code": "MGT",
+      "name": "MACHI GOTH"
+    },
+    {
+      "id": null,
+      "code": "MDJ",
+      "name": "MADEJI"
+    },
+    {
+      "id": null,
+      "code": "MYN",
+      "name": "MADYAN"
+    },
+    {
+      "id": null,
+      "code": "MLT",
+      "name": "MAILSI"
+    },
+    {
+      "id": null,
+      "code": "MDA",
+      "name": "MAKHDOOM AALI"
+    },
+    {
+      "id": null,
+      "code": "MPD",
+      "name": "MAKHDOOM PUR"
+    },
+    {
+      "id": null,
+      "code": "MLK",
+      "name": "MALAK WAL"
+    },
+    {
+      "id": null,
+      "code": "DRG",
+      "name": "MALAKAND"
+    },
+    {
+      "id": null,
+      "code": "MKN",
+      "name": "MAMUN KANJAN"
+    },
+    {
+      "id": null,
+      "code": "WLA",
+      "name": "MANAWALA"
+    },
+    {
+      "id": null,
+      "code": "MBD",
+      "name": "MANDI BAHAUDDIN"
+    },
+    {
+      "id": null,
+      "code": "SRA",
+      "name": "MANDI FAIZ ABAD"
+    },
+    {
+      "id": null,
+      "code": "MSH",
+      "name": "Mandi Shah"
+    },
+    {
+      "id": null,
+      "code": "MGL",
+      "name": "MANGLA"
+    },
+    {
+      "id": null,
+      "code": "MVL",
+      "name": "MANGOWAL"
+    },
+    {
+      "id": null,
+      "code": "MKR",
+      "name": "MANKERA"
+    },
+    {
+      "id": null,
+      "code": "MNA",
+      "name": "MANSHERA"
+    },
+    {
+      "id": null,
+      "code": "MDN",
+      "name": "MARDAN"
+    },
+    {
+      "id": null,
+      "code": "ZUH",
+      "name": "MARGHUZ"
+    },
+    {
+      "id": null,
+      "code": "MTG",
+      "name": "MASTUNG"
+    },
+    {
+      "id": null,
+      "code": "MRI",
+      "name": "MATIARI"
+    },
+    {
+      "id": null,
+      "code": "MTI",
+      "name": "MATLI"
+    },
+    {
+      "id": null,
+      "code": "TNM",
+      "name": "MATTANI"
+    },
+    {
+      "id": null,
+      "code": "MHR",
+      "name": "MEHAR"
+    },
+    {
+      "id": null,
+      "code": "MKT",
+      "name": "MEHMOODKOT"
+    },
+    {
+      "id": null,
+      "code": "MRP",
+      "name": "MEHRAB PUR"
+    },
+    {
+      "id": null,
+      "code": "MOG",
+      "name": "Memon Goth"
+    },
+    {
+      "id": null,
+      "code": "MCN",
+      "name": "MIAN CHANOO"
+    },
+    {
+      "id": null,
+      "code": "IAM",
+      "name": "MIANI"
+    },
+    {
+      "id": null,
+      "code": "DAM",
+      "name": "Miani Adda"
+    },
+    {
+      "id": null,
+      "code": "MWI",
+      "name": "MIANWALI"
+    },
+    {
+      "id": null,
+      "code": "MHD",
+      "name": "MINCHANABAD"
+    },
+    {
+      "id": null,
+      "code": "MGA",
+      "name": "MINGORA"
+    },
+    {
+      "id": null,
+      "code": "SWT",
+      "name": "MINGORA (SWAT)"
+    },
+    {
+      "id": null,
+      "code": "MLL",
+      "name": "MIR ALI"
+    },
+    {
+      "id": null,
+      "code": "MNH",
+      "name": "MIRAN SHAH"
+    },
+    {
+      "id": null,
+      "code": "MRK",
+      "name": "Miro Khan"
+    },
+    {
+      "id": null,
+      "code": "QML",
+      "name": "MIRPUR A.K."
+    },
+    {
+      "id": null,
+      "code": "MPK",
+      "name": "MIRPUR KHAS"
+    },
+    {
+      "id": null,
+      "code": "MPM",
+      "name": "MIRPUR MATHELO"
+    },
+    {
+      "id": null,
+      "code": "MSO",
+      "name": "MIRPUR SAKRO"
+    },
+    {
+      "id": null,
+      "code": "MGR",
+      "name": "MIRWAH GORCHANI"
+    },
+    {
+      "id": null,
+      "code": "MIT",
+      "name": "MITHI"
+    },
+    {
+      "id": null,
+      "code": "MRI",
+      "name": "MITYARI"
+    },
+    {
+      "id": null,
+      "code": "IBL",
+      "name": "Mongi Bangla"
+    },
+    {
+      "id": null,
+      "code": "MOK",
+      "name": "Mor Kunda"
+    },
+    {
+      "id": null,
+      "code": "MEB",
+      "name": "More Eminabad"
+    },
+    {
+      "id": null,
+      "code": "MRO",
+      "name": "MORO"
+    },
+    {
+      "id": null,
+      "code": "MMP",
+      "name": "MUBARAK PUR"
+    },
+    {
+      "id": null,
+      "code": "MUH",
+      "name": "MUCH"
+    },
+    {
+      "id": null,
+      "code": "UMR",
+      "name": "Muhammad Pur"
+    },
+    {
+      "id": null,
+      "code": "MUX",
+      "name": "MULTAN"
+    },
+    {
+      "id": null,
+      "code": "IAA",
+      "name": "MURID WALA"
+    },
+    {
+      "id": null,
+      "code": "MRY",
+      "name": "MURIDKEY"
+    },
+    {
+      "id": null,
+      "code": "REE",
+      "name": "MURREE"
+    },
+    {
+      "id": null,
+      "code": "LMB",
+      "name": "MUSLIM BAGH"
+    },
+    {
+      "id": null,
+      "code": "MAK",
+      "name": "MUZAFFARABAD AK"
+    },
+    {
+      "id": null,
+      "code": "MZG",
+      "name": "MUZAFFARGARH"
+    },
+    {
+      "id": null,
+      "code": "NAP",
+      "name": "Nagarparkar"
+    },
+    {
+      "id": null,
+      "code": "KYA",
+      "name": "NAKYAL"
+    },
+    {
+      "id": null,
+      "code": "NKS",
+      "name": "NANKANA SAHIB"
+    },
+    {
+      "id": null,
+      "code": "NMD",
+      "name": "NARANG MANDI"
+    },
+    {
+      "id": null,
+      "code": "NRL",
+      "name": "NAROWAL"
+    },
+    {
+      "id": null,
+      "code": "NLB",
+      "name": "NARWALA BANGLA"
+    },
+    {
+      "id": null,
+      "code": "NBD",
+      "name": "NASIRABAD"
+    },
+    {
+      "id": null,
+      "code": "TDM",
+      "name": "NAUABAD"
+    },
+    {
+      "id": null,
+      "code": "NDR",
+      "name": "NAUDERO"
+    },
+    {
+      "id": null,
+      "code": "ERA",
+      "name": "NAUSHEHRA"
+    },
+    {
+      "id": null,
+      "code": "WNS",
+      "name": "NAWABSHAH"
+    },
+    {
+      "id": null,
+      "code": "YAL",
+      "name": "NAYA LAHORE"
+    },
+    {
+      "id": null,
+      "code": "NJT",
+      "name": "NEW JATOI"
+    },
+    {
+      "id": null,
+      "code": "HLA",
+      "name": "NEW SAEEDABAD"
+    },
+    {
+      "id": null,
+      "code": "NIL",
+      "name": "NILOR"
+    },
+    {
+      "id": null,
+      "code": "XXX",
+      "name": "NO STATION"
+    },
+    {
+      "id": null,
+      "code": "NUD",
+      "name": "Nooriabad"
+    },
+    {
+      "id": null,
+      "code": "NOP",
+      "name": "NOORPUR"
+    },
+    {
+      "id": null,
+      "code": "NOK",
+      "name": "NOSHKI"
+    },
+    {
+      "id": null,
+      "code": "NFZ",
+      "name": "NOUSHERO FEROZ"
+    },
+    {
+      "id": null,
+      "code": "NOW",
+      "name": "NOWSHERA"
+    },
+    {
+      "id": null,
+      "code": "NWV",
+      "name": "NOWSHERA VIRKA"
+    },
+    {
+      "id": null,
+      "code": "NPT",
+      "name": "NURPUR THAL"
+    },
+    {
+      "id": null,
+      "code": "OGI",
+      "name": "OGHI"
+    },
+    {
+      "id": null,
+      "code": "OKR",
+      "name": "OKARA"
+    },
+    {
+      "id": null,
+      "code": "OKC",
+      "name": "OKARA CANTT"
+    },
+    {
+      "id": null,
+      "code": "OHD",
+      "name": "OLE"
+    },
+    {
+      "id": null,
+      "code": "OKH",
+      "name": "OLE KHI"
+    },
+    {
+      "id": null,
+      "code": "OLH",
+      "name": "OLE LHE"
+    },
+    {
+      "id": null,
+      "code": "ORW",
+      "name": "OLE RWP"
+    },
+    {
+      "id": null,
+      "code": "PBI",
+      "name": "PABBI"
+    },
+    {
+      "id": null,
+      "code": "PCC",
+      "name": "PACCA CHANG"
+    },
+    {
+      "id": null,
+      "code": "DNI",
+      "name": "Padidan"
+    },
+    {
+      "id": null,
+      "code": "PSA",
+      "name": "PAF BASE"
+    },
+    {
+      "id": null,
+      "code": "PHP",
+      "name": "PAHAR PUR"
+    },
+    {
+      "id": null,
+      "code": "IPK",
+      "name": "PAIKHEL"
+    },
+    {
+      "id": null,
+      "code": "PAN",
+      "name": "PAINSRA"
+    },
+    {
+      "id": null,
+      "code": "PPS",
+      "name": "PAK PATTAN SHARIF"
+    },
+    {
+      "id": null,
+      "code": "PUL",
+      "name": "PALANDRI"
+    },
+    {
+      "id": null,
+      "code": "PGN",
+      "name": "PANJGIRAN"
+    },
+    {
+      "id": null,
+      "code": "PJG",
+      "name": "PANJGOOR"
+    },
+    {
+      "id": null,
+      "code": "PNQ",
+      "name": "PANNU AKIL"
+    },
+    {
+      "id": null,
+      "code": "PAC",
+      "name": "PANU AQIL CANTT"
+    },
+    {
+      "id": null,
+      "code": "PYA",
+      "name": "PANYOLIA"
+    },
+    {
+      "id": null,
+      "code": "CRI",
+      "name": "PARACHINAR"
+    },
+    {
+      "id": null,
+      "code": "PSN",
+      "name": "PASNI"
+    },
+    {
+      "id": null,
+      "code": "PRR",
+      "name": "PASRUR"
+    },
+    {
+      "id": null,
+      "code": "PTI",
+      "name": "PATOKI"
+    },
+    {
+      "id": null,
+      "code": "PEW",
+      "name": "PESHAWAR"
+    },
+    {
+      "id": null,
+      "code": "HDD",
+      "name": "PETARO"
+    },
+    {
+      "id": null,
+      "code": "PHL",
+      "name": "PHALIA"
+    },
+    {
+      "id": null,
+      "code": "PIL",
+      "name": "Pharianwala"
+    },
+    {
+      "id": null,
+      "code": "ILA",
+      "name": "Pharianwali"
+    },
+    {
+      "id": null,
+      "code": "PHR",
+      "name": "PHLOR"
+    },
+    {
+      "id": null,
+      "code": "UWU",
+      "name": "PHULARWN"
+    },
+    {
+      "id": null,
+      "code": "PDK",
+      "name": "PIND DADAN KHAN"
+    },
+    {
+      "id": null,
+      "code": "PBN",
+      "name": "PINDI BHATIAN"
+    },
+    {
+      "id": null,
+      "code": "PGB",
+      "name": "PINDI GHEB"
+    },
+    {
+      "id": null,
+      "code": "PLN",
+      "name": "PIPLAN"
+    },
+    {
+      "id": null,
+      "code": "PRG",
+      "name": "PIR JO GOTH"
+    },
+    {
+      "id": null,
+      "code": "PML",
+      "name": "PIR MAHAL"
+    },
+    {
+      "id": null,
+      "code": "PYO",
+      "name": "PIRYALO"
+    },
+    {
+      "id": null,
+      "code": "NPI",
+      "name": "PISHIN"
+    },
+    {
+      "id": null,
+      "code": "PHT",
+      "name": "PITHORO"
+    },
+    {
+      "id": null,
+      "code": "PON",
+      "name": "Pooran"
+    },
+    {
+      "id": null,
+      "code": "QBL",
+      "name": "QABOOLA"
+    },
+    {
+      "id": null,
+      "code": "QPR",
+      "name": "QADIRPUR RAWAN"
+    },
+    {
+      "id": null,
+      "code": "BQA",
+      "name": "QAIM BHARWANA"
+    },
+    {
+      "id": null,
+      "code": "QAL",
+      "name": "QALANDRABAD"
+    },
+    {
+      "id": null,
+      "code": "IEQ",
+      "name": "QASIM BELA"
+    },
+    {
+      "id": null,
+      "code": "QAZ",
+      "name": "QAZI AHMED"
+    },
+    {
+      "id": null,
+      "code": "QDS",
+      "name": "QILA DEDAR SING"
+    },
+    {
+      "id": null,
+      "code": "KSF",
+      "name": "QILLA SAIFULLAH"
+    },
+    {
+      "id": null,
+      "code": "JRD",
+      "name": "QUAIDABAD"
+    },
+    {
+      "id": null,
+      "code": "UET",
+      "name": "QUETTA"
+    },
+    {
+      "id": null,
+      "code": "RDN",
+      "name": "RADHAN STATION"
+    },
+    {
+      "id": null,
+      "code": "RYK",
+      "name": "RAHIMYARKHAN"
+    },
+    {
+      "id": null,
+      "code": "RND",
+      "name": "RAIWIND"
+    },
+    {
+      "id": null,
+      "code": "RAJ",
+      "name": "RAJANA"
+    },
+    {
+      "id": null,
+      "code": "RJP",
+      "name": "RAJANPUR"
+    },
+    {
+      "id": null,
+      "code": "RNI",
+      "name": "RANIPUR"
+    },
+    {
+      "id": null,
+      "code": "RTD",
+      "name": "RATTO DERO"
+    },
+    {
+      "id": null,
+      "code": "RKT",
+      "name": "RAWALAKOT"
+    },
+    {
+      "id": null,
+      "code": "RWP",
+      "name": "RAWALPINDI"
+    },
+    {
+      "id": null,
+      "code": "RVT",
+      "name": "RAWAT"
+    },
+    {
+      "id": null,
+      "code": "RLK",
+      "name": "RENALA KHURD"
+    },
+    {
+      "id": null,
+      "code": "RSP",
+      "name": "RISALPUR"
+    },
+    {
+      "id": null,
+      "code": "RSN",
+      "name": "RODU SULTAN"
+    },
+    {
+      "id": null,
+      "code": "SKZ",
+      "name": "ROHRI"
+    },
+    {
+      "id": null,
+      "code": "RGH",
+      "name": "RWP - GEN HEAVY"
+    },
+    {
+      "id": null,
+      "code": "RWW",
+      "name": "RWP WARWHOUSE"
+    },
+    {
+      "id": null,
+      "code": "RAH",
+      "name": "Sadhar"
+    },
+    {
+      "id": null,
+      "code": "SDA",
+      "name": "SADIQABAD"
+    },
+    {
+      "id": null,
+      "code": "SWL",
+      "name": "SAHIWAL"
+    },
+    {
+      "id": null,
+      "code": "SFD",
+      "name": "SAHIWAL - FSD"
+    },
+    {
+      "id": null,
+      "code": "SWT",
+      "name": "SAIDU SHARIF"
+    },
+    {
+      "id": null,
+      "code": "SRP",
+      "name": "Sajanpur"
+    },
+    {
+      "id": null,
+      "code": "RDU",
+      "name": "SAKARDU"
+    },
+    {
+      "id": null,
+      "code": "SAK",
+      "name": "SAKRAND"
+    },
+    {
+      "id": null,
+      "code": "SAM",
+      "name": "SAMANDRI"
+    },
+    {
+      "id": null,
+      "code": "AMO",
+      "name": "SAMARO"
+    },
+    {
+      "id": null,
+      "code": "SAL",
+      "name": "SAMBRIAL"
+    },
+    {
+      "id": null,
+      "code": "SNW",
+      "name": "SANAWAN"
+    },
+    {
+      "id": null,
+      "code": "SND",
+      "name": "SANDHILIAN WALI"
+    },
+    {
+      "id": null,
+      "code": "SAN",
+      "name": "SANGHAR"
+    },
+    {
+      "id": null,
+      "code": "SHL",
+      "name": "SANGLA HILL"
+    },
+    {
+      "id": null,
+      "code": "SGD",
+      "name": "SARGODAH"
+    },
+    {
+      "id": null,
+      "code": "SRD",
+      "name": "SARHAD"
+    },
+    {
+      "id": null,
+      "code": "IRS",
+      "name": "SARHARI"
+    },
+    {
+      "id": null,
+      "code": "CSS",
+      "name": "SARWAR SHAHEED"
+    },
+    {
+      "id": null,
+      "code": "SBN",
+      "name": "SATIANA BANGLA"
+    },
+    {
+      "id": null,
+      "code": "SES",
+      "name": "SEHWAN"
+    },
+    {
+      "id": null,
+      "code": "SSA",
+      "name": "Sensa"
+    },
+    {
+      "id": null,
+      "code": "SNG",
+      "name": "SERAI NAURANG"
+    },
+    {
+      "id": null,
+      "code": "SQD",
+      "name": "SHABQADAR"
+    },
+    {
+      "id": null,
+      "code": "SSD",
+      "name": "Shah Saddar Din"
+    },
+    {
+      "id": null,
+      "code": "SHH",
+      "name": "SHAHDAD KOT"
+    },
+    {
+      "id": null,
+      "code": "SPR",
+      "name": "SHAHDADPUR"
+    },
+    {
+      "id": null,
+      "code": "LHE",
+      "name": "SHAHDARA"
+    },
+    {
+      "id": null,
+      "code": "DEE",
+      "name": "SHAHEED CHOWK"
+    },
+    {
+      "id": null,
+      "code": "SKT",
+      "name": "SHAHKOT"
+    },
+    {
+      "id": null,
+      "code": "SAP",
+      "name": "SHAHPUR"
+    },
+    {
+      "id": null,
+      "code": "SPC",
+      "name": "SHAHPUR CHAKAR"
+    },
+    {
+      "id": null,
+      "code": "SGR",
+      "name": "SHAKAR GARH"
+    },
+    {
+      "id": null,
+      "code": "SWT",
+      "name": "SHANGLA"
+    },
+    {
+      "id": null,
+      "code": "SQR",
+      "name": "SHARAQPUR"
+    },
+    {
+      "id": null,
+      "code": "ASW",
+      "name": "Shawa Adda"
+    },
+    {
+      "id": null,
+      "code": "SRA",
+      "name": "SHEIKHUPURA"
+    },
+    {
+      "id": null,
+      "code": "SIP",
+      "name": "SHIKARPUR"
+    },
+    {
+      "id": null,
+      "code": "SNK",
+      "name": "SHINKIARI"
+    },
+    {
+      "id": null,
+      "code": "SQT",
+      "name": "SHORKOT"
+    },
+    {
+      "id": null,
+      "code": "SHJ",
+      "name": "SHUJAABAD"
+    },
+    {
+      "id": null,
+      "code": "SLT",
+      "name": "SIALKOT"
+    },
+    {
+      "id": null,
+      "code": "SMR",
+      "name": "SialMore"
+    },
+    {
+      "id": null,
+      "code": "SBI",
+      "name": "SIBI"
+    },
+    {
+      "id": null,
+      "code": "SLA",
+      "name": "SIHALA"
+    },
+    {
+      "id": null,
+      "code": "SNL",
+      "name": "SILANWALI"
+    },
+    {
+      "id": null,
+      "code": "SJO",
+      "name": "SINJHORO"
+    },
+    {
+      "id": null,
+      "code": "SIT",
+      "name": "SITA ROAD"
+    },
+    {
+      "id": null,
+      "code": "SBT",
+      "name": "Sohbatpur"
+    },
+    {
+      "id": null,
+      "code": "URA",
+      "name": "SORAB"
+    },
+    {
+      "id": null,
+      "code": "SAG",
+      "name": "SRAI ALAMGEER"
+    },
+    {
+      "id": null,
+      "code": "SUI",
+      "name": "SUI"
+    },
+    {
+      "id": null,
+      "code": "SUJ",
+      "name": "SUJAWAL"
+    },
+    {
+      "id": null,
+      "code": "SKZ",
+      "name": "SUKKUR"
+    },
+    {
+      "id": null,
+      "code": "SAL",
+      "name": "SUMBRIAL"
+    },
+    {
+      "id": null,
+      "code": "SUA",
+      "name": "SUNDAR ADDA"
+    },
+    {
+      "id": null,
+      "code": "SWA",
+      "name": "SWABI"
+    },
+    {
+      "id": null,
+      "code": "SWT",
+      "name": "SWAT"
+    },
+    {
+      "id": null,
+      "code": "TEW",
+      "name": "Tail Wala"
+    },
+    {
+      "id": null,
+      "code": "TBI",
+      "name": "TAKHAT BAI"
+    },
+    {
+      "id": null,
+      "code": "TLG",
+      "name": "TALAGANG"
+    },
+    {
+      "id": null,
+      "code": "TAL",
+      "name": "TALL"
+    },
+    {
+      "id": null,
+      "code": "TWL",
+      "name": "TANDLIANWALA"
+    },
+    {
+      "id": null,
+      "code": "TDM",
+      "name": "TANDO ADAM"
+    },
+    {
+      "id": null,
+      "code": "TDA",
+      "name": "TANDO ALLAYAR"
+    },
+    {
+      "id": null,
+      "code": "TDJ",
+      "name": "TANDO JAM"
+    },
+    {
+      "id": null,
+      "code": "TJH",
+      "name": "TANDO JAN MOHD"
+    },
+    {
+      "id": null,
+      "code": "TMK",
+      "name": "TANDO MOHD KHAN"
+    },
+    {
+      "id": null,
+      "code": "TNG",
+      "name": "TANGI"
+    },
+    {
+      "id": null,
+      "code": "TAN",
+      "name": "TANK"
+    },
+    {
+      "id": null,
+      "code": "IAW",
+      "name": "TARAND SAWAI KH"
+    },
+    {
+      "id": null,
+      "code": "TRB",
+      "name": "TARBELA"
+    },
+    {
+      "id": null,
+      "code": "TTY",
+      "name": "TATLAY AALI"
+    },
+    {
+      "id": null,
+      "code": "IAS",
+      "name": "TAUNSA SHARIF"
+    },
+    {
+      "id": null,
+      "code": "TXL",
+      "name": "TAXILA"
+    },
+    {
+      "id": null,
+      "code": "TMG",
+      "name": "TEMARGARAH"
+    },
+    {
+      "id": null,
+      "code": "TRL",
+      "name": "TERNOL"
+    },
+    {
+      "id": null,
+      "code": "T",
+      "name": "TEST"
+    },
+    {
+      "id": null,
+      "code": "TOK",
+      "name": "THAKOT"
+    },
+    {
+      "id": null,
+      "code": "TBK",
+      "name": "THANA BULA KHAN"
+    },
+    {
+      "id": null,
+      "code": "TSA",
+      "name": "THARO SHAH"
+    },
+    {
+      "id": null,
+      "code": "TVH",
+      "name": "THARRI MIR WAH"
+    },
+    {
+      "id": null,
+      "code": "THT",
+      "name": "THATTA"
+    },
+    {
+      "id": null,
+      "code": "TER",
+      "name": "THERHI"
+    },
+    {
+      "id": null,
+      "code": "THL",
+      "name": "THULL"
+    },
+    {
+      "id": null,
+      "code": "TSP",
+      "name": "TIBBA SULTAN"
+    },
+    {
+      "id": null,
+      "code": "TTS",
+      "name": "TOBATEK-SINGH"
+    },
+    {
+      "id": null,
+      "code": "STP",
+      "name": "TOOL PLAZA KHI"
+    },
+    {
+      "id": null,
+      "code": "TOP",
+      "name": "TOPI"
+    },
+    {
+      "id": null,
+      "code": "TRM",
+      "name": "Tor kham"
+    },
+    {
+      "id": null,
+      "code": "TGA",
+      "name": "TRAG"
+    },
+    {
+      "id": null,
+      "code": "TSW",
+      "name": "TRANDA SAWAI"
+    },
+    {
+      "id": null,
+      "code": "TPM",
+      "name": "TRANDHA M PANAH"
+    },
+    {
+      "id": null,
+      "code": "TKL",
+      "name": "TRARKHEL"
+    },
+    {
+      "id": null,
+      "code": "TUK",
+      "name": "TURBAT"
+    },
+    {
+      "id": null,
+      "code": "URO",
+      "name": "UBARO"
+    },
+    {
+      "id": null,
+      "code": "UCH",
+      "name": "UCH SHARIF"
+    },
+    {
+      "id": null,
+      "code": "ULI",
+      "name": "UCHALI"
+    },
+    {
+      "id": null,
+      "code": "UKT",
+      "name": "UMERKOT"
+    },
+    {
+      "id": null,
+      "code": "UPD",
+      "name": "UPPER DIR"
+    },
+    {
+      "id": null,
+      "code": "USM",
+      "name": "USTA MHMD"
+    },
+    {
+      "id": null,
+      "code": "UTL",
+      "name": "UTHAL"
+    },
+    {
+      "id": null,
+      "code": "VDR",
+      "name": "VARI DIR"
+    },
+    {
+      "id": null,
+      "code": "VRI",
+      "name": "VEHARI"
+    },
+    {
+      "id": null,
+      "code": "WGN",
+      "name": "WAGAN"
+    },
+    {
+      "id": null,
+      "code": "WAH",
+      "name": "WAH"
+    },
+    {
+      "id": null,
+      "code": "WBC",
+      "name": "WAN BACHRAN"
+    },
+    {
+      "id": null,
+      "code": "WNA",
+      "name": "WANA"
+    },
+    {
+      "id": null,
+      "code": "OND",
+      "name": "Wando"
+    },
+    {
+      "id": null,
+      "code": "WRH",
+      "name": "WARAH"
+    },
+    {
+      "id": null,
+      "code": "WZD",
+      "name": "WAZIRABAD"
+    },
+    {
+      "id": null,
+      "code": "WDR",
+      "name": "WINDER"
+    },
+    {
+      "id": null,
+      "code": "YZM",
+      "name": "YAZMAN MANDI"
+    },
+    {
+      "id": null,
+      "code": "ZFW",
+      "name": "ZAFARWAL"
+    },
+    {
+      "id": null,
+      "code": "ZPR",
+      "name": "ZAHIRPEER"
+    },
+    {
+      "id": null,
+      "code": "ZOB",
+      "name": "ZHOB"
+    },
+    {
+      "id": null,
+      "code": "ZRT",
+      "name": "ZIARAT"
+    }
+  ]
+}

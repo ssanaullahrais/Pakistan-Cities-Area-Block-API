@@ -1,0 +1,6573 @@
+{
+  "metadata": {
+    "source": "Pakistan location reference dataset",
+    "generated_at": "2026-08-25T10:59:45.270Z",
+    "country_code": "PK",
+    "counts": {
+      "city_records": 570,
+      "city_codes": 549,
+      "areas": 1093,
+      "blocks": 12638
+    }
+  },
+  "data": [
+    {
+      "id": 1093,
+      "code": "F0047",
+      "name": "Hazari",
+      "city_code": "AZR"
+    },
+    {
+      "id": 20,
+      "code": "R80302330",
+      "name": "Abbottabad",
+      "city_code": "ABT"
+    },
+    {
+      "id": 222,
+      "code": "R80302313",
+      "name": "Malikpura",
+      "city_code": "ABT"
+    },
+    {
+      "id": 235,
+      "code": "R80302343",
+      "name": "Nawanshehr",
+      "city_code": "ABT"
+    },
+    {
+      "id": 21,
+      "code": "R80302463",
+      "name": "Abdul Hakim",
+      "city_code": "AHT"
+    },
+    {
+      "id": 23,
+      "code": "R80302547",
+      "name": "Ahmadpur East",
+      "city_code": "APE"
+    },
+    {
+      "id": 102,
+      "code": "R80302693",
+      "name": "Dera Bakha",
+      "city_code": "APE"
+    },
+    {
+      "id": 248,
+      "code": "R80302699",
+      "name": "Rahim Yar Khan",
+      "city_code": "APL"
+    },
+    {
+      "id": 183,
+      "code": "R80302451",
+      "name": "Jhang",
+      "city_code": "APS"
+    },
+    {
+      "id": 1092,
+      "code": "F0046",
+      "name": "Ahmad pur Sial",
+      "city_code": "APS"
+    },
+    {
+      "id": 275,
+      "code": "R80302280",
+      "name": "Akora Khattak",
+      "city_code": "AKT"
+    },
+    {
+      "id": 26,
+      "code": "RPK56",
+      "name": "Alpuri",
+      "city_code": "AUI"
+    },
+    {
+      "id": 24,
+      "code": "R80302696",
+      "name": "Ali Pur Chattha",
+      "city_code": "APC"
+    },
+    {
+      "id": 25,
+      "code": "RPK3",
+      "name": "Alipur",
+      "city_code": "AIP"
+    },
+    {
+      "id": 28,
+      "code": "RPK58",
+      "name": "Aminpur Bangla",
+      "city_code": "AMB"
+    },
+    {
+      "id": 1070,
+      "code": "F0021",
+      "name": "Aminpur Banglow",
+      "city_code": "AMB"
+    },
+    {
+      "id": 29,
+      "code": "R80302680",
+      "name": "Arif Wala",
+      "city_code": "AFA"
+    },
+    {
+      "id": 249,
+      "code": "R80302694",
+      "name": "Rang Shah",
+      "city_code": "AFA"
+    },
+    {
+      "id": 362,
+      "code": "R80302425",
+      "name": "Gondal",
+      "city_code": "ATT"
+    },
+    {
+      "id": 559,
+      "code": "R80302623",
+      "name": "Khaur",
+      "city_code": "ATT"
+    },
+    {
+      "id": 31,
+      "code": "R80302608",
+      "name": "Attock",
+      "city_code": "ATT"
+    },
+    {
+      "id": 170,
+      "code": "R80302940",
+      "name": "Hattian Bala",
+      "city_code": "ATT"
+    },
+    {
+      "id": 250,
+      "code": "R80302509",
+      "name": "Rangoo",
+      "city_code": "ATT"
+    },
+    {
+      "id": 270,
+      "code": "R80302572",
+      "name": "Waisa",
+      "city_code": "ATT"
+    },
+    {
+      "id": 32,
+      "code": "RPK57",
+      "name": "Awaran",
+      "city_code": "AWR"
+    },
+    {
+      "id": 33,
+      "code": "RPK9",
+      "name": "Badin",
+      "city_code": "BDN"
+    },
+    {
+      "id": 59,
+      "code": "R80302839",
+      "name": "Bhanbore",
+      "city_code": "BDN"
+    },
+    {
+      "id": 214,
+      "code": "R80302928",
+      "name": "Khoski",
+      "city_code": "BDN"
+    },
+    {
+      "id": 237,
+      "code": "R80302862",
+      "name": "Ninda",
+      "city_code": "BDN"
+    },
+    {
+      "id": 240,
+      "code": "R80302822",
+      "name": "Pangrio",
+      "city_code": "BDN"
+    },
+    {
+      "id": 261,
+      "code": "R80302821",
+      "name": "Talhar",
+      "city_code": "BDN"
+    },
+    {
+      "id": 263,
+      "code": "R80302807",
+      "name": "Tando Bagho",
+      "city_code": "BDN"
+    },
+    {
+      "id": 34,
+      "code": "R8192015",
+      "name": "Bagh",
+      "city_code": "BGH"
+    },
+    {
+      "id": 343,
+      "code": "RPK49",
+      "name": "Dunga Bunga",
+      "city_code": "NGR"
+    },
+    {
+      "id": 36,
+      "code": "R80302783",
+      "name": "Bahawalnagar",
+      "city_code": "NGR"
+    },
+    {
+      "id": 37,
+      "code": "R80302398",
+      "name": "Bahawalpur",
+      "city_code": "BHV"
+    },
+    {
+      "id": 38,
+      "code": "RPK1677",
+      "name": "Bahawalpur - Central Jail",
+      "city_code": "BHV"
+    },
+    {
+      "id": 39,
+      "code": "RPK1670",
+      "name": "Bahawalpur - Darbal Mahal",
+      "city_code": "BHV"
+    },
+    {
+      "id": 40,
+      "code": "RPK1752",
+      "name": "Bahawalpur - Model Town A",
+      "city_code": "BHV"
+    },
+    {
+      "id": 41,
+      "code": "RPK1656",
+      "name": "Bahawalpur - Model Town B",
+      "city_code": "BHV"
+    },
+    {
+      "id": 42,
+      "code": "RPK1710",
+      "name": "Bahawalpur - Old City",
+      "city_code": "BHV"
+    },
+    {
+      "id": 43,
+      "code": "RPK1636",
+      "name": "Bahawalpur - Satellite Town",
+      "city_code": "BHV"
+    },
+    {
+      "id": 44,
+      "code": "RPK1646",
+      "name": "Bahawalpur - Shadrah",
+      "city_code": "BHV"
+    },
+    {
+      "id": 229,
+      "code": "RPK5766",
+      "name": "Multan - Bahawalpur Road",
+      "city_code": "BHV"
+    },
+    {
+      "id": 260,
+      "code": "R80302304",
+      "name": "Talash",
+      "city_code": "BJR"
+    },
+    {
+      "id": 46,
+      "code": "R80302342",
+      "name": "Balakot",
+      "city_code": "BQK"
+    },
+    {
+      "id": 135,
+      "code": "R80302351",
+      "name": "Garlat Balakot",
+      "city_code": "BQK"
+    },
+    {
+      "id": 47,
+      "code": "R6589887",
+      "name": "Bannu",
+      "city_code": "BNP"
+    },
+    {
+      "id": 113,
+      "code": "R80302431",
+      "name": "Domel",
+      "city_code": "BNP"
+    },
+    {
+      "id": 177,
+      "code": "RPK1664",
+      "name": "Islamabad - Banni Gaala",
+      "city_code": "BRK"
+    },
+    {
+      "id": 178,
+      "code": "RPK1705",
+      "name": "Islamabad - Bhara Kahu",
+      "city_code": "BRK"
+    },
+    {
+      "id": 48,
+      "code": "R80302286",
+      "name": "Bari Kot",
+      "city_code": "BOT"
+    },
+    {
+      "id": 49,
+      "code": "R80302936",
+      "name": "Barnala",
+      "city_code": "BRN"
+    },
+    {
+      "id": 1074,
+      "code": "F0025",
+      "name": "Millat Road",
+      "city_code": "BRN"
+    },
+    {
+      "id": 50,
+      "code": "R80302767",
+      "name": "Baseerpur",
+      "city_code": "BSR"
+    },
+    {
+      "id": 239,
+      "code": "R80302550",
+      "name": "Okara - Main City",
+      "city_code": "BSR"
+    },
+    {
+      "id": 53,
+      "code": "R80302366",
+      "name": "Battagram",
+      "city_code": "BGM"
+    },
+    {
+      "id": 27,
+      "code": "R80302295",
+      "name": "Aman Dara",
+      "city_code": "BTK"
+    },
+    {
+      "id": 45,
+      "code": "R80302984",
+      "name": "Bajaur Agency",
+      "city_code": "BTK"
+    },
+    {
+      "id": 52,
+      "code": "R80302283",
+      "name": "Bat Khela",
+      "city_code": "BTK"
+    },
+    {
+      "id": 221,
+      "code": "R80302305",
+      "name": "Malakand",
+      "city_code": "BTK"
+    },
+    {
+      "id": 245,
+      "code": "R80302371",
+      "name": "Qaldara",
+      "city_code": "BTK"
+    },
+    {
+      "id": 266,
+      "code": "R80302986",
+      "name": "Thana Malakand Agency",
+      "city_code": "BTK"
+    },
+    {
+      "id": 268,
+      "code": "R80302382",
+      "name": "Totakan",
+      "city_code": "BTK"
+    },
+    {
+      "id": 353,
+      "code": "R80302378",
+      "name": "Garhi Habibullah",
+      "city_code": "MNA"
+    },
+    {
+      "id": 295,
+      "code": "R80302344",
+      "name": "Batrasi",
+      "city_code": "MNA"
+    },
+    {
+      "id": 725,
+      "code": "R80302350",
+      "name": "Mansehra",
+      "city_code": "MNA"
+    },
+    {
+      "id": 962,
+      "code": "R80302581",
+      "name": "Sherpur",
+      "city_code": "MNA"
+    },
+    {
+      "id": 56,
+      "code": "R80302717",
+      "name": "Bhai Pheru",
+      "city_code": "BPR"
+    },
+    {
+      "id": 54,
+      "code": "R80302441",
+      "name": "Behal",
+      "city_code": "BKK"
+    },
+    {
+      "id": 57,
+      "code": "R80302443",
+      "name": "Bhakkar",
+      "city_code": "BKK"
+    },
+    {
+      "id": 58,
+      "code": "R80302564",
+      "name": "Bhalwal",
+      "city_code": "BWL"
+    },
+    {
+      "id": 219,
+      "code": "R80306612",
+      "name": "Lak Mor",
+      "city_code": "BWL"
+    },
+    {
+      "id": 227,
+      "code": "R80302478",
+      "name": "Moazzamabad",
+      "city_code": "BWL"
+    },
+    {
+      "id": 247,
+      "code": "R80302640",
+      "name": "Qudratabad",
+      "city_code": "BWL"
+    },
+    {
+      "id": 300,
+      "code": "R80302885",
+      "name": "Bhan Saeead Abad",
+      "city_code": "SBD"
+    },
+    {
+      "id": 61,
+      "code": "R80302545",
+      "name": "Bhawana",
+      "city_code": "BWA"
+    },
+    {
+      "id": 62,
+      "code": "R80302735",
+      "name": "Bhera",
+      "city_code": "BRA"
+    },
+    {
+      "id": 63,
+      "code": "R8183916",
+      "name": "Bhimber",
+      "city_code": "BMR"
+    },
+    {
+      "id": 225,
+      "code": "R80302949",
+      "name": "Mirpur A.K.",
+      "city_code": "BMR"
+    },
+    {
+      "id": 64,
+      "code": "R80302889",
+      "name": "Bhit Shah",
+      "city_code": "BSH"
+    },
+    {
+      "id": 66,
+      "code": "RPK42",
+      "name": "Buchiana",
+      "city_code": "BCM"
+    },
+    {
+      "id": 67,
+      "code": "R80302377",
+      "name": "Bunair",
+      "city_code": "BUR"
+    },
+    {
+      "id": 68,
+      "code": "R80302270",
+      "name": "Buner",
+      "city_code": "BUR"
+    },
+    {
+      "id": 69,
+      "code": "RPK16",
+      "name": "Burewala",
+      "city_code": "BRW"
+    },
+    {
+      "id": 119,
+      "code": "RPK1673",
+      "name": "Faisalabad Chak - Jhumra",
+      "city_code": "CJS"
+    },
+    {
+      "id": 1071,
+      "code": "F0022",
+      "name": "CHAK JHUMRA",
+      "city_code": "CJS"
+    },
+    {
+      "id": 1072,
+      "code": "F0023",
+      "name": "Jhumra",
+      "city_code": "CJS"
+    },
+    {
+      "id": 71,
+      "code": "R80302938",
+      "name": "Chak Swari",
+      "city_code": "CKR"
+    },
+    {
+      "id": 70,
+      "code": "R80302282",
+      "name": "Chak Dara",
+      "city_code": "CRA"
+    },
+    {
+      "id": 554,
+      "code": "R80302606",
+      "name": "Khanpur",
+      "city_code": "CKL"
+    },
+    {
+      "id": 60,
+      "code": "R80302702",
+      "name": "Bhaun",
+      "city_code": "CKL"
+    },
+    {
+      "id": 72,
+      "code": "R80302787",
+      "name": "Chakwal",
+      "city_code": "CKL"
+    },
+    {
+      "id": 107,
+      "code": "R80302439",
+      "name": "Dhudial",
+      "city_code": "CKL"
+    },
+    {
+      "id": 228,
+      "code": "R80302723",
+      "name": "Mulhal Mughlan",
+      "city_code": "CKL"
+    },
+    {
+      "id": 230,
+      "code": "R80302637",
+      "name": "Mureed",
+      "city_code": "CKL"
+    },
+    {
+      "id": 243,
+      "code": "R80302571",
+      "name": "Pindi Gujran",
+      "city_code": "CKL"
+    },
+    {
+      "id": 267,
+      "code": "R80302668",
+      "name": "Thaneel Fatoohi",
+      "city_code": "CKL"
+    },
+    {
+      "id": 73,
+      "code": "R80302959",
+      "name": "Chaman",
+      "city_code": "CMN"
+    },
+    {
+      "id": 246,
+      "code": "RPK53",
+      "name": "Qila Abdullah",
+      "city_code": "CMN"
+    },
+    {
+      "id": 262,
+      "code": "R80302899",
+      "name": "Tando Allahyar",
+      "city_code": "CHM"
+    },
+    {
+      "id": 74,
+      "code": "R80302456",
+      "name": "Changa Manga",
+      "city_code": "CMG"
+    },
+    {
+      "id": 75,
+      "code": "R80302357",
+      "name": "Charsadda",
+      "city_code": "CSD"
+    },
+    {
+      "id": 187,
+      "code": "R80302363",
+      "name": "Kangra",
+      "city_code": "CSD"
+    },
+    {
+      "id": 238,
+      "code": "R80302331",
+      "name": "Nissata",
+      "city_code": "CSD"
+    },
+    {
+      "id": 255,
+      "code": "R80302297",
+      "name": "Ser Dheri",
+      "city_code": "CSD"
+    },
+    {
+      "id": 269,
+      "code": "R80302307",
+      "name": "Umarzai",
+      "city_code": "CSD"
+    },
+    {
+      "id": 842,
+      "code": "RPK5762",
+      "name": "Peshawar - Charsadda Road",
+      "city_code": "CSD"
+    },
+    {
+      "id": 313,
+      "code": "R80302615",
+      "name": "Chashma",
+      "city_code": "SMA"
+    },
+    {
+      "id": 76,
+      "code": "R80302656",
+      "name": "Chawinda",
+      "city_code": "CWD"
+    },
+    {
+      "id": 77,
+      "code": "R80302761",
+      "name": "Cheenab Nagar",
+      "city_code": "AWH"
+    },
+    {
+      "id": 1060,
+      "code": "F0001",
+      "name": "Rabwah",
+      "city_code": "AWH"
+    },
+    {
+      "id": 78,
+      "code": "R80302496",
+      "name": "Chichawatni",
+      "city_code": "CCW"
+    },
+    {
+      "id": 79,
+      "code": "R80302987",
+      "name": "Chilas",
+      "city_code": "CLL"
+    },
+    {
+      "id": 317,
+      "code": "RPK12",
+      "name": "Chiniot",
+      "city_code": "IOT"
+    },
+    {
+      "id": 391,
+      "code": "R80302518",
+      "name": "Hussain Abad",
+      "city_code": "IOT"
+    },
+    {
+      "id": 785,
+      "code": "R80302659",
+      "name": "Murad Wala",
+      "city_code": "IOT"
+    },
+    {
+      "id": 35,
+      "code": "R80302658",
+      "name": "Baglow Yatimwala",
+      "city_code": "CHT"
+    },
+    {
+      "id": 80,
+      "code": "R80302488",
+      "name": "Chishtian",
+      "city_code": "CHT"
+    },
+    {
+      "id": 81,
+      "code": "R80302355",
+      "name": "Chitral",
+      "city_code": "CTL"
+    },
+    {
+      "id": 319,
+      "code": "R80302874",
+      "name": "Chohar Jamali",
+      "city_code": "THT"
+    },
+    {
+      "id": 328,
+      "code": "R80302805",
+      "name": "Daro",
+      "city_code": "THT"
+    },
+    {
+      "id": 332,
+      "code": "R80302854",
+      "name": "Dhabeji",
+      "city_code": "THT"
+    },
+    {
+      "id": 458,
+      "code": "R80302855",
+      "name": "Jhimpir",
+      "city_code": "THT"
+    },
+    {
+      "id": 750,
+      "code": "R6087710",
+      "name": "Mirpur Bathoro",
+      "city_code": "THT"
+    },
+    {
+      "id": 824,
+      "code": "RPK63",
+      "name": "Thatta",
+      "city_code": "THT"
+    },
+    {
+      "id": 220,
+      "code": "R80302578",
+      "name": "Layyah",
+      "city_code": "CAZ"
+    },
+    {
+      "id": 85,
+      "code": "R80302844",
+      "name": "Dadu",
+      "city_code": "DDU"
+    },
+    {
+      "id": 242,
+      "code": "R80302836",
+      "name": "Phulji Station",
+      "city_code": "DDU"
+    },
+    {
+      "id": 86,
+      "code": "R8187464",
+      "name": "Dadyal",
+      "city_code": "DYL"
+    },
+    {
+      "id": 87,
+      "code": "R80302820",
+      "name": "Daharki",
+      "city_code": "DKI"
+    },
+    {
+      "id": 185,
+      "code": "R80302939",
+      "name": "Jing",
+      "city_code": "DKI"
+    },
+    {
+      "id": 88,
+      "code": "R80302486",
+      "name": "Dahranwala",
+      "city_code": "DWA"
+    },
+    {
+      "id": 106,
+      "code": "R80302477",
+      "name": "Dharanwala",
+      "city_code": "DWA"
+    },
+    {
+      "id": 325,
+      "code": "R80302629",
+      "name": "Dajal",
+      "city_code": "LDJ"
+    },
+    {
+      "id": 89,
+      "code": "R80302325",
+      "name": "Dakota",
+      "city_code": "DKT"
+    },
+    {
+      "id": 93,
+      "code": "R80302983",
+      "name": "Darra Adam Khel",
+      "city_code": "DDK"
+    },
+    {
+      "id": 91,
+      "code": "R80302338",
+      "name": "Dargai",
+      "city_code": "DRG"
+    },
+    {
+      "id": 92,
+      "code": "R80302266",
+      "name": "Dargai Malakand",
+      "city_code": "DRG"
+    },
+    {
+      "id": 1061,
+      "code": "F0003",
+      "name": "Darya Khan",
+      "city_code": "DAH"
+    },
+    {
+      "id": 22,
+      "code": "R80302422",
+      "name": "Adamke Cheema",
+      "city_code": "DKA"
+    },
+    {
+      "id": 65,
+      "code": "R80302682",
+      "name": "Bhopalwala",
+      "city_code": "DKA"
+    },
+    {
+      "id": 95,
+      "code": "R80302419",
+      "name": "Daska",
+      "city_code": "DKA"
+    },
+    {
+      "id": 182,
+      "code": "R80302652",
+      "name": "Jasarwala",
+      "city_code": "DKA"
+    },
+    {
+      "id": 226,
+      "code": "R80302465",
+      "name": "Mitran Wala",
+      "city_code": "DKA"
+    },
+    {
+      "id": 251,
+      "code": "R80302340",
+      "name": "Ranjai",
+      "city_code": "DKA"
+    },
+    {
+      "id": 96,
+      "code": "R80302602",
+      "name": "Daud Khel",
+      "city_code": "DKL"
+    },
+    {
+      "id": 97,
+      "code": "R80302920",
+      "name": "Daulatpur",
+      "city_code": "DTR"
+    },
+    {
+      "id": 98,
+      "code": "R80302775",
+      "name": "Daultala",
+      "city_code": "DTA"
+    },
+    {
+      "id": 100,
+      "code": "R80316270",
+      "name": "Depalpur",
+      "city_code": "DPA"
+    },
+    {
+      "id": 101,
+      "code": "R80302970",
+      "name": "Dera Allahyar",
+      "city_code": "DAY"
+    },
+    {
+      "id": 179,
+      "code": "R80302974",
+      "name": "Jafarabad",
+      "city_code": "DAY"
+    },
+    {
+      "id": 258,
+      "code": "R80302908",
+      "name": "Sukkur",
+      "city_code": "DAY"
+    },
+    {
+      "id": 82,
+      "code": "R80302739",
+      "name": "Choti",
+      "city_code": "DGK"
+    },
+    {
+      "id": 83,
+      "code": "R80302552",
+      "name": "D.G Khan",
+      "city_code": "DGK"
+    },
+    {
+      "id": 256,
+      "code": "R80302430",
+      "name": "Shadan Lund",
+      "city_code": "DGK"
+    },
+    {
+      "id": 84,
+      "code": "R80302285",
+      "name": "D.I.Khan",
+      "city_code": "DIK"
+    },
+    {
+      "id": 103,
+      "code": "R80302956",
+      "name": "Dera Murad Jamali",
+      "city_code": "DMJ"
+    },
+    {
+      "id": 104,
+      "code": "R80302982",
+      "name": "Dhadar",
+      "city_code": "DDR"
+    },
+    {
+      "id": 327,
+      "code": "R80302687",
+      "name": "Dandot",
+      "city_code": "DNT"
+    },
+    {
+      "id": 105,
+      "code": "R80302500",
+      "name": "Dhannot",
+      "city_code": "DNT"
+    },
+    {
+      "id": 108,
+      "code": "R80302856",
+      "name": "Digri",
+      "city_code": "DIG"
+    },
+    {
+      "id": 234,
+      "code": "R80302802",
+      "name": "Naukot",
+      "city_code": "DIG"
+    },
+    {
+      "id": 264,
+      "code": "R80302830",
+      "name": "Tando Gulam Ali",
+      "city_code": "DIG"
+    },
+    {
+      "id": 109,
+      "code": "R80302704",
+      "name": "Dijkot",
+      "city_code": "DIJ"
+    },
+    {
+      "id": 110,
+      "code": "R80302742",
+      "name": "Dina",
+      "city_code": "DIN"
+    },
+    {
+      "id": 749,
+      "code": "R80302691",
+      "name": "Mirpur",
+      "city_code": "DIN"
+    },
+    {
+      "id": 111,
+      "code": "R80302562",
+      "name": "Dinga",
+      "city_code": "DNG"
+    },
+    {
+      "id": 112,
+      "code": "R6109506",
+      "name": "Diplo",
+      "city_code": "DLO"
+    },
+    {
+      "id": 761,
+      "code": "R80302929",
+      "name": "Mohenjo Daro",
+      "city_code": "ORI"
+    },
+    {
+      "id": 99,
+      "code": "R80302851",
+      "name": "Daur",
+      "city_code": "DOR"
+    },
+    {
+      "id": 342,
+      "code": "R80302473",
+      "name": "Dukki",
+      "city_code": "UKI"
+    },
+    {
+      "id": 1062,
+      "code": "F0004",
+      "name": "Dulle Wala",
+      "city_code": "DLW"
+    },
+    {
+      "id": 114,
+      "code": "RPK39",
+      "name": "Dunyapur",
+      "city_code": "DUN"
+    },
+    {
+      "id": 115,
+      "code": "R80302435",
+      "name": "Ellah Abad",
+      "city_code": "ELA"
+    },
+    {
+      "id": 309,
+      "code": "R80302585",
+      "name": "Chak",
+      "city_code": "FSD"
+    },
+    {
+      "id": 346,
+      "code": "RPK14",
+      "name": "Faisalabad Chak - Khurianwala",
+      "city_code": "FSD"
+    },
+    {
+      "id": 116,
+      "code": "R80302669",
+      "name": "Faisalabad - Chak",
+      "city_code": "FSD"
+    },
+    {
+      "id": 117,
+      "code": "R80302405",
+      "name": "Faisalabad - City",
+      "city_code": "FSD"
+    },
+    {
+      "id": 118,
+      "code": "RPK1675",
+      "name": "Faisalabad Chak - Dasuha",
+      "city_code": "FSD"
+    },
+    {
+      "id": 120,
+      "code": "RPK1692",
+      "name": "Faisalabad City - Ghulam Muhammad Abad",
+      "city_code": "FSD"
+    },
+    {
+      "id": 122,
+      "code": "R80306622",
+      "name": "Farooqa",
+      "city_code": "FSD"
+    },
+    {
+      "id": 131,
+      "code": "RPK37",
+      "name": "Gangapur",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1073,
+      "code": "F0024",
+      "name": "Sargodha Road",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1075,
+      "code": "F0026",
+      "name": "NARWALA BANGLA",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1076,
+      "code": "F0027",
+      "name": "Jaranwala Road",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1077,
+      "code": "F0028",
+      "name": "Dasuha",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1078,
+      "code": "F0029",
+      "name": "Narwala Road",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1079,
+      "code": "F0030",
+      "name": "Rasalay Wala Road",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1080,
+      "code": "F0031",
+      "name": "Samundari Road",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1081,
+      "code": "F0032",
+      "name": "Madina Town",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1082,
+      "code": "F0033",
+      "name": "Satyana Road",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1083,
+      "code": "F0034",
+      "name": "Jhang Road",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1084,
+      "code": "F0035",
+      "name": "Samundri Road",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1085,
+      "code": "F0036",
+      "name": "Ghulam Muhammad Abad",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1086,
+      "code": "F0037",
+      "name": "Sahianwala",
+      "city_code": "FSD"
+    },
+    {
+      "id": 1016,
+      "code": "RPK46",
+      "name": "Sahuwala",
+      "city_code": "FSD"
+    },
+    {
+      "id": 121,
+      "code": "R80302781",
+      "name": "Faqirwali",
+      "city_code": "FQW"
+    },
+    {
+      "id": 123,
+      "code": "R80302568",
+      "name": "Fateh Jang",
+      "city_code": "FTG"
+    },
+    {
+      "id": 124,
+      "code": "RPK48",
+      "name": "Fatehpur",
+      "city_code": "FPR"
+    },
+    {
+      "id": 125,
+      "code": "R80302660",
+      "name": "Fazil Pur",
+      "city_code": "FZP"
+    },
+    {
+      "id": 126,
+      "code": "R80302750",
+      "name": "Feroz Watan",
+      "city_code": "FWA"
+    },
+    {
+      "id": 127,
+      "code": "RPK1",
+      "name": "Fort Abbas",
+      "city_code": "FAB"
+    },
+    {
+      "id": 128,
+      "code": "R80302365",
+      "name": "Gadoon",
+      "city_code": "GDN"
+    },
+    {
+      "id": 130,
+      "code": "R80302321",
+      "name": "Gandaf",
+      "city_code": "GDN"
+    },
+    {
+      "id": 216,
+      "code": "R80302403",
+      "name": "Kotha",
+      "city_code": "GDN"
+    },
+    {
+      "id": 259,
+      "code": "R80302306",
+      "name": "Swabi",
+      "city_code": "GDN"
+    },
+    {
+      "id": 132,
+      "code": "R80302490",
+      "name": "Garh More",
+      "city_code": "GRM"
+    },
+    {
+      "id": 133,
+      "code": "R80302923",
+      "name": "Garhi Khairo",
+      "city_code": "GKR"
+    },
+    {
+      "id": 166,
+      "code": "R80302965",
+      "name": "Gwadar",
+      "city_code": "GWR"
+    },
+    {
+      "id": 136,
+      "code": "R80302755",
+      "name": "Ghakkar",
+      "city_code": "GHK"
+    },
+    {
+      "id": 137,
+      "code": "R80302921",
+      "name": "Gharo",
+      "city_code": "GRO"
+    },
+    {
+      "id": 140,
+      "code": "RPK5",
+      "name": "Ghotki",
+      "city_code": "GTI"
+    },
+    {
+      "id": 244,
+      "code": "R80302395",
+      "name": "Qadir Pur",
+      "city_code": "GTI"
+    },
+    {
+      "id": 138,
+      "code": "R80302845",
+      "name": "Ghaus Pur",
+      "city_code": "GPR"
+    },
+    {
+      "id": 141,
+      "code": "R80302989",
+      "name": "Gilgit",
+      "city_code": "GIL"
+    },
+    {
+      "id": 361,
+      "code": "RPK2",
+      "name": "Gojra",
+      "city_code": "RRA"
+    },
+    {
+      "id": 142,
+      "code": "R80302901",
+      "name": "Golarchi",
+      "city_code": "GOL"
+    },
+    {
+      "id": 143,
+      "code": "R80302808",
+      "name": "Guddu",
+      "city_code": "GDU"
+    },
+    {
+      "id": 55,
+      "code": "R80302551",
+      "name": "Bewal",
+      "city_code": "GKN"
+    },
+    {
+      "id": 144,
+      "code": "R80302748",
+      "name": "Gujar Khan",
+      "city_code": "GKN"
+    },
+    {
+      "id": 224,
+      "code": "R80302706",
+      "name": "Mandra",
+      "city_code": "GKN"
+    },
+    {
+      "id": 257,
+      "code": "R80302538",
+      "name": "Sohawa",
+      "city_code": "GKN"
+    },
+    {
+      "id": 365,
+      "code": "RPK1731",
+      "name": "Gujranwala - Canal View Housing Scheme",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 366,
+      "code": "RPK1726",
+      "name": "Gujranwala - Gulzar Colony",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 367,
+      "code": "RPK1649",
+      "name": "Gujranwala - Industrial Estate 1",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 368,
+      "code": "RPK1668",
+      "name": "Gujranwala - Industrial Estate 2",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 369,
+      "code": "RPK1701",
+      "name": "Gujranwala - Master City Housing Scheme",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 370,
+      "code": "RPK1718",
+      "name": "Gujranwala - Model Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 371,
+      "code": "RPK1661",
+      "name": "Gujranwala - Quaid E Azam Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 372,
+      "code": "RPK1750",
+      "name": "Gujranwala - University Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 30,
+      "code": "R80302593",
+      "name": "Aroop Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 134,
+      "code": "R80302726",
+      "name": "Garjakh",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 145,
+      "code": "RPK1689",
+      "name": "Gujranwala - Citi Housing",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 146,
+      "code": "R80302563",
+      "name": "Gujranwala - City Area",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 147,
+      "code": "RPK1665",
+      "name": "Gujranwala - Civil Lines",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 148,
+      "code": "RPK1747",
+      "name": "Gujranwala - DC Colony",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 149,
+      "code": "RPK1708",
+      "name": "Gujranwala - Fareed Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 150,
+      "code": "RPK1709",
+      "name": "Gujranwala - G Magnolia Park",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 151,
+      "code": "RPK1722",
+      "name": "Gujranwala - Garden Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 152,
+      "code": "RPK1698",
+      "name": "Gujranwala - Gondla Wala Bazaar",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 153,
+      "code": "RPK1683",
+      "name": "Gujranwala - Green Valley",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 154,
+      "code": "RPK1723",
+      "name": "Gujranwala - Guru Nanakpura",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 155,
+      "code": "RPK1688",
+      "name": "Gujranwala - Jagna",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 156,
+      "code": "RPK1721",
+      "name": "Gujranwala - Mohalla Noor Bawa",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 157,
+      "code": "RPK1695",
+      "name": "Gujranwala - Peoples Colony",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 158,
+      "code": "RPK1682",
+      "name": "Gujranwala - Rahwali",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 159,
+      "code": "R80302498",
+      "name": "Gujranwala - Rahwali Cantonment",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 160,
+      "code": "RPK1714",
+      "name": "Gujranwala - Satellite Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 161,
+      "code": "RPK1735",
+      "name": "Gujranwala - Shaheenabad",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 162,
+      "code": "RPK1733",
+      "name": "Gujranwala - Shalimar Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 163,
+      "code": "RPK1703",
+      "name": "Gujranwala - Wapda Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 180,
+      "code": "R80302703",
+      "name": "Jalal Pur Bhattian",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 213,
+      "code": "R80302672",
+      "name": "Khiali Shahpur",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 232,
+      "code": "R80302684",
+      "name": "Nandi Pur Town",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 252,
+      "code": "R80302686",
+      "name": "Ratta Bajwa",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 794,
+      "code": "R80302515",
+      "name": "Nandipur",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 878,
+      "code": "R80302567",
+      "name": "Raj Kot",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 933,
+      "code": "R80302271",
+      "name": "Nizampur",
+      "city_code": "GUJ"
+    },
+    {
+      "id": 382,
+      "code": "R80302546",
+      "name": "Haryawala",
+      "city_code": "GJT"
+    },
+    {
+      "id": 139,
+      "code": "R80302516",
+      "name": "Ghazipur",
+      "city_code": "GJT"
+    },
+    {
+      "id": 164,
+      "code": "R80302679",
+      "name": "Gujrat",
+      "city_code": "GJT"
+    },
+    {
+      "id": 211,
+      "code": "R80302530",
+      "name": "Karianwala",
+      "city_code": "GJT"
+    },
+    {
+      "id": 218,
+      "code": "RPK52",
+      "name": "Kunjah",
+      "city_code": "GJT"
+    },
+    {
+      "id": 298,
+      "code": "R80302756",
+      "name": "Bhaddar",
+      "city_code": "GJT"
+    },
+    {
+      "id": 799,
+      "code": "R80302655",
+      "name": "Naseera",
+      "city_code": "GJT"
+    },
+    {
+      "id": 377,
+      "code": "R80302522",
+      "name": "Hafizabad",
+      "city_code": "HZD"
+    },
+    {
+      "id": 453,
+      "code": "R80302556",
+      "name": "Jhairanwala",
+      "city_code": "HZD"
+    },
+    {
+      "id": 580,
+      "code": "R80302631",
+      "name": "Kot Nakka",
+      "city_code": "HZD"
+    },
+    {
+      "id": 940,
+      "code": "R80302416",
+      "name": "Qila Ram Rang",
+      "city_code": "HZD"
+    },
+    {
+      "id": 941,
+      "code": "R80302745",
+      "name": "Qila Sahib Singh",
+      "city_code": "HZD"
+    },
+    {
+      "id": 1102,
+      "code": "F0061",
+      "name": "HAFIZWALA",
+      "city_code": "HFZ"
+    },
+    {
+      "id": 1103,
+      "code": "F0062",
+      "name": "Harnoli",
+      "city_code": "HFZ"
+    },
+    {
+      "id": 167,
+      "code": "R80302942",
+      "name": "Hajira",
+      "city_code": "HAJ"
+    },
+    {
+      "id": 378,
+      "code": "R80302812",
+      "name": "Hala",
+      "city_code": "HLA"
+    },
+    {
+      "id": 379,
+      "code": "R80302320",
+      "name": "Hangu",
+      "city_code": "HNG"
+    },
+    {
+      "id": 338,
+      "code": "R80302386",
+      "name": "Dingi",
+      "city_code": "HRI"
+    },
+    {
+      "id": 380,
+      "code": "R80302287",
+      "name": "Haripur",
+      "city_code": "HRI"
+    },
+    {
+      "id": 786,
+      "code": "R80302598",
+      "name": "Muradabad",
+      "city_code": "HRI"
+    },
+    {
+      "id": 935,
+      "code": "R80302360",
+      "name": "Panian",
+      "city_code": "HRI"
+    },
+    {
+      "id": 937,
+      "code": "R80302385",
+      "name": "Sikandarpur",
+      "city_code": "HRI"
+    },
+    {
+      "id": 938,
+      "code": "R80302368",
+      "name": "Sobra City",
+      "city_code": "HRI"
+    },
+    {
+      "id": 381,
+      "code": "R80302980",
+      "name": "Harnai",
+      "city_code": "HNI"
+    },
+    {
+      "id": 169,
+      "code": "R80302654",
+      "name": "Haroonabad",
+      "city_code": "HRN"
+    },
+    {
+      "id": 383,
+      "code": "R80302450",
+      "name": "Hasilpur",
+      "city_code": "HSL"
+    },
+    {
+      "id": 446,
+      "code": "R80302402",
+      "name": "Jamalpur",
+      "city_code": "HSL"
+    },
+    {
+      "id": 384,
+      "code": "R80302782",
+      "name": "Hassan Abdal",
+      "city_code": "HSN"
+    },
+    {
+      "id": 385,
+      "code": "R80302296",
+      "name": "Hattar",
+      "city_code": "HTR"
+    },
+    {
+      "id": 579,
+      "code": "R80302383",
+      "name": "Kot Najeeb Ullah",
+      "city_code": "HTR"
+    },
+    {
+      "id": 386,
+      "code": "RPK5794",
+      "name": "Havelian",
+      "city_code": "HVL"
+    },
+    {
+      "id": 790,
+      "code": "R80302464",
+      "name": "Muslimabad",
+      "city_code": "HVL"
+    },
+    {
+      "id": 171,
+      "code": "R80302513",
+      "name": "Hazro",
+      "city_code": "HOO"
+    },
+    {
+      "id": 934,
+      "code": "R80302701",
+      "name": "Shinka",
+      "city_code": "HOO"
+    },
+    {
+      "id": 388,
+      "code": "R80302960",
+      "name": "Hub",
+      "city_code": "HUB"
+    },
+    {
+      "id": 703,
+      "code": "R80302966",
+      "name": "Lasbela",
+      "city_code": "HUB"
+    },
+    {
+      "id": 389,
+      "code": "R80302724",
+      "name": "Hujra Shah Muqeem",
+      "city_code": "HSM"
+    },
+    {
+      "id": 390,
+      "code": "RPK61",
+      "name": "Hunza",
+      "city_code": "HNZ"
+    },
+    {
+      "id": 172,
+      "code": "RPK1645",
+      "name": "Hyderabad - Cantonment",
+      "city_code": "HDD"
+    },
+    {
+      "id": 173,
+      "code": "RPK1686",
+      "name": "Hyderabad - Central City",
+      "city_code": "HDD"
+    },
+    {
+      "id": 174,
+      "code": "RPK1736",
+      "name": "Hyderabad - Halanaka",
+      "city_code": "HDD"
+    },
+    {
+      "id": 175,
+      "code": "RPK1657",
+      "name": "Hyderabad - Latifabad",
+      "city_code": "HDD"
+    },
+    {
+      "id": 176,
+      "code": "R80302914",
+      "name": "Hyderabad - Qasimabad",
+      "city_code": "HDD"
+    },
+    {
+      "id": 373,
+      "code": "R80302570",
+      "name": "Gullen Khel",
+      "city_code": "IKD"
+    },
+    {
+      "id": 392,
+      "code": "R80302620",
+      "name": "Iskandarabad",
+      "city_code": "IKD"
+    },
+    {
+      "id": 393,
+      "code": "R80302992",
+      "name": "Islamabad - Ali Pur",
+      "city_code": "ISB"
+    },
+    {
+      "id": 394,
+      "code": "RPK1678",
+      "name": "Islamabad - Chak Shahzad",
+      "city_code": "ISB"
+    },
+    {
+      "id": 395,
+      "code": "RPK1739",
+      "name": "Islamabad - Chatta Bakhtawar",
+      "city_code": "ISB"
+    },
+    {
+      "id": 396,
+      "code": "RPK5753",
+      "name": "Islamabad - D - 12",
+      "city_code": "ISB"
+    },
+    {
+      "id": 397,
+      "code": "RPK5793",
+      "name": "Islamabad - E - 10",
+      "city_code": "ISB"
+    },
+    {
+      "id": 398,
+      "code": "RPK1741",
+      "name": "Islamabad - E - 11",
+      "city_code": "ISB"
+    },
+    {
+      "id": 399,
+      "code": "RPK1639",
+      "name": "Islamabad - E - 7",
+      "city_code": "ISB"
+    },
+    {
+      "id": 400,
+      "code": "RPK5754",
+      "name": "Islamabad - E - 8",
+      "city_code": "ISB"
+    },
+    {
+      "id": 401,
+      "code": "RPK5779",
+      "name": "Islamabad - E - 9",
+      "city_code": "ISB"
+    },
+    {
+      "id": 402,
+      "code": "RPK1690",
+      "name": "Islamabad - F - 10",
+      "city_code": "ISB"
+    },
+    {
+      "id": 403,
+      "code": "RPK1648",
+      "name": "Islamabad - F - 11",
+      "city_code": "ISB"
+    },
+    {
+      "id": 404,
+      "code": "RPK1650",
+      "name": "Islamabad - F - 5",
+      "city_code": "ISB"
+    },
+    {
+      "id": 405,
+      "code": "RPK1746",
+      "name": "Islamabad - F - 6",
+      "city_code": "ISB"
+    },
+    {
+      "id": 406,
+      "code": "RPK1681",
+      "name": "Islamabad - F - 7",
+      "city_code": "ISB"
+    },
+    {
+      "id": 407,
+      "code": "RPK1713",
+      "name": "Islamabad - F - 8",
+      "city_code": "ISB"
+    },
+    {
+      "id": 408,
+      "code": "RPK1737",
+      "name": "Islamabad - F - 9",
+      "city_code": "ISB"
+    },
+    {
+      "id": 409,
+      "code": "RPK1662",
+      "name": "Islamabad - G - 10",
+      "city_code": "ISB"
+    },
+    {
+      "id": 410,
+      "code": "RPK1699",
+      "name": "Islamabad - G - 11",
+      "city_code": "ISB"
+    },
+    {
+      "id": 411,
+      "code": "RPK1651",
+      "name": "Islamabad - G - 12",
+      "city_code": "ISB"
+    },
+    {
+      "id": 412,
+      "code": "RPK1742",
+      "name": "Islamabad - G - 13",
+      "city_code": "ISB"
+    },
+    {
+      "id": 413,
+      "code": "RPK1745",
+      "name": "Islamabad - G - 14",
+      "city_code": "ISB"
+    },
+    {
+      "id": 414,
+      "code": "RPK1637",
+      "name": "Islamabad - G - 15",
+      "city_code": "ISB"
+    },
+    {
+      "id": 415,
+      "code": "RPK1672",
+      "name": "Islamabad - G - 5",
+      "city_code": "ISB"
+    },
+    {
+      "id": 416,
+      "code": "RPK1724",
+      "name": "Islamabad - G - 6",
+      "city_code": "ISB"
+    },
+    {
+      "id": 417,
+      "code": "RPK1697",
+      "name": "Islamabad - G - 7",
+      "city_code": "ISB"
+    },
+    {
+      "id": 418,
+      "code": "RPK1751",
+      "name": "Islamabad - G - 8",
+      "city_code": "ISB"
+    },
+    {
+      "id": 419,
+      "code": "RPK1711",
+      "name": "Islamabad - G - 9",
+      "city_code": "ISB"
+    },
+    {
+      "id": 420,
+      "code": "R80307705",
+      "name": "Islamabad - Ghauri Town",
+      "city_code": "ISB"
+    },
+    {
+      "id": 421,
+      "code": "RPK1716",
+      "name": "Islamabad - H - 10",
+      "city_code": "ISB"
+    },
+    {
+      "id": 422,
+      "code": "RPK1663",
+      "name": "Islamabad - H - 11",
+      "city_code": "ISB"
+    },
+    {
+      "id": 423,
+      "code": "RPK1738",
+      "name": "Islamabad - H - 12",
+      "city_code": "ISB"
+    },
+    {
+      "id": 424,
+      "code": "RPK1674",
+      "name": "Islamabad - H - 8",
+      "city_code": "ISB"
+    },
+    {
+      "id": 425,
+      "code": "RPK1679",
+      "name": "Islamabad - H - 9",
+      "city_code": "ISB"
+    },
+    {
+      "id": 426,
+      "code": "RPK1655",
+      "name": "Islamabad - H -13",
+      "city_code": "ISB"
+    },
+    {
+      "id": 427,
+      "code": "RPK1748",
+      "name": "Islamabad - I - 10",
+      "city_code": "ISB"
+    },
+    {
+      "id": 428,
+      "code": "RPK1667",
+      "name": "Islamabad - I - 11",
+      "city_code": "ISB"
+    },
+    {
+      "id": 429,
+      "code": "RPK1717",
+      "name": "Islamabad - I - 12",
+      "city_code": "ISB"
+    },
+    {
+      "id": 430,
+      "code": "RPK1700",
+      "name": "Islamabad - I - 14",
+      "city_code": "ISB"
+    },
+    {
+      "id": 431,
+      "code": "RPK1653",
+      "name": "Islamabad - I - 8",
+      "city_code": "ISB"
+    },
+    {
+      "id": 432,
+      "code": "RPK1715",
+      "name": "Islamabad - I - 9",
+      "city_code": "ISB"
+    },
+    {
+      "id": 433,
+      "code": "RPK1687",
+      "name": "Islamabad - Rawal Town",
+      "city_code": "ISB"
+    },
+    {
+      "id": 434,
+      "code": "RPK1660",
+      "name": "Islamabad - Sohan",
+      "city_code": "ISB"
+    },
+    {
+      "id": 435,
+      "code": "RPK1730",
+      "name": "Islamabad - Tarlai Kalan",
+      "city_code": "ISB"
+    },
+    {
+      "id": 437,
+      "code": "R6109507",
+      "name": "Islamkot",
+      "city_code": "IMK"
+    },
+    {
+      "id": 1104,
+      "code": "F0065",
+      "name": "ISSA KHEL",
+      "city_code": "IKL"
+    },
+    {
+      "id": 439,
+      "code": "R80302823",
+      "name": "Jacobabad",
+      "city_code": "JCB"
+    },
+    {
+      "id": 442,
+      "code": "R80302734",
+      "name": "Jalalpur Jattan",
+      "city_code": "JLJ"
+    },
+    {
+      "id": 775,
+      "code": "RPK5781",
+      "name": "Multan - Jalalpur Pir Wala",
+      "city_code": "JPP"
+    },
+    {
+      "id": 444,
+      "code": "R80302519",
+      "name": "Jamal Din Wali",
+      "city_code": "JDW"
+    },
+    {
+      "id": 447,
+      "code": "R80302762",
+      "name": "Jampur",
+      "city_code": "JMP"
+    },
+    {
+      "id": 181,
+      "code": "R80302895",
+      "name": "Jamshoro",
+      "city_code": "JMO"
+    },
+    {
+      "id": 449,
+      "code": "R80302688",
+      "name": "Jand",
+      "city_code": "JND"
+    },
+    {
+      "id": 1063,
+      "code": "F0005",
+      "name": "Jand Wala",
+      "city_code": "JLA"
+    },
+    {
+      "id": 1064,
+      "code": "F0006",
+      "name": "Jandanwala",
+      "city_code": "JLA"
+    },
+    {
+      "id": 942,
+      "code": "R80302583",
+      "name": "Nawan Jandanwala",
+      "city_code": "JLA"
+    },
+    {
+      "id": 345,
+      "code": "R80306277",
+      "name": "Faisalabad Chak - Jaranwala",
+      "city_code": "JWA"
+    },
+    {
+      "id": 282,
+      "code": "R80302394",
+      "name": "Awagat",
+      "city_code": "JWA"
+    },
+    {
+      "id": 1100,
+      "code": "F0059",
+      "name": "Jaranwala",
+      "city_code": "JWA"
+    },
+    {
+      "id": 456,
+      "code": "R80302784",
+      "name": "Jhawarian",
+      "city_code": "JVR"
+    },
+    {
+      "id": 321,
+      "code": "R80302574",
+      "name": "Chund Bharwana",
+      "city_code": "JHG"
+    },
+    {
+      "id": 351,
+      "code": "R80302676",
+      "name": "Garh Maharaja",
+      "city_code": "JHG"
+    },
+    {
+      "id": 352,
+      "code": "R80302722",
+      "name": "Garh Mahraja",
+      "city_code": "JHG"
+    },
+    {
+      "id": 440,
+      "code": "RPK55",
+      "name": "Jahanian",
+      "city_code": "JHN"
+    },
+    {
+      "id": 455,
+      "code": "R80302408",
+      "name": "Jhanian",
+      "city_code": "JHN"
+    },
+    {
+      "id": 322,
+      "code": "R80302800",
+      "name": "Cod Kala",
+      "city_code": "JLM"
+    },
+    {
+      "id": 357,
+      "code": "R80302611",
+      "name": "Gharmala",
+      "city_code": "JLM"
+    },
+    {
+      "id": 457,
+      "code": "R80302747",
+      "name": "Jhelum",
+      "city_code": "JLM"
+    },
+    {
+      "id": 551,
+      "code": "R80302448",
+      "name": "Khambi",
+      "city_code": "JLM"
+    },
+    {
+      "id": 302,
+      "code": "R80302594",
+      "name": "Bhowanj",
+      "city_code": "JLM"
+    },
+    {
+      "id": 943,
+      "code": "R80302341",
+      "name": "Pakhwal",
+      "city_code": "JLM"
+    },
+    {
+      "id": 944,
+      "code": "R80302674",
+      "name": "Rajar",
+      "city_code": "JLM"
+    },
+    {
+      "id": 945,
+      "code": "R80302442",
+      "name": "Shamaspur",
+      "city_code": "JLM"
+    },
+    {
+      "id": 810,
+      "code": "RPK8",
+      "name": "Sanghar",
+      "city_code": "JYL"
+    },
+    {
+      "id": 184,
+      "code": "R80302891",
+      "name": "Jhuddo",
+      "city_code": "OJD"
+    },
+    {
+      "id": 460,
+      "code": "R80302910",
+      "name": "Johi",
+      "city_code": "JHI"
+    },
+    {
+      "id": 324,
+      "code": "R80302561",
+      "name": "Daiwal",
+      "city_code": "JRD"
+    },
+    {
+      "id": 459,
+      "code": "R80302773",
+      "name": "Joharabad",
+      "city_code": "JRD"
+    },
+    {
+      "id": 946,
+      "code": "R80302582",
+      "name": "Padhrar",
+      "city_code": "JRD"
+    },
+    {
+      "id": 186,
+      "code": "R80302294",
+      "name": "Kabal",
+      "city_code": "BLL"
+    },
+    {
+      "id": 461,
+      "code": "RPK50",
+      "name": "Kabirwala",
+      "city_code": "KBB"
+    },
+    {
+      "id": 463,
+      "code": "R80302455",
+      "name": "Kahuta",
+      "city_code": "KTA"
+    },
+    {
+      "id": 464,
+      "code": "R80302635",
+      "name": "Kalabagh",
+      "city_code": "KBH"
+    },
+    {
+      "id": 570,
+      "code": "R80302618",
+      "name": "Kot Chandna",
+      "city_code": "KBH"
+    },
+    {
+      "id": 465,
+      "code": "R80302420",
+      "name": "Kallar Sayedan",
+      "city_code": "KLS"
+    },
+    {
+      "id": 947,
+      "code": "R80302786",
+      "name": "Sagri",
+      "city_code": "KLS"
+    },
+    {
+      "id": 466,
+      "code": "R80302954",
+      "name": "Kallat",
+      "city_code": "KLT"
+    },
+    {
+      "id": 467,
+      "code": "R80302472",
+      "name": "Kaloor Kot",
+      "city_code": "OOR"
+    },
+    {
+      "id": 469,
+      "code": "RPK10",
+      "name": "Kamalia",
+      "city_code": "KLA"
+    },
+    {
+      "id": 471,
+      "code": "R80302846",
+      "name": "Kamber",
+      "city_code": "KAK"
+    },
+    {
+      "id": 472,
+      "code": "R80302837",
+      "name": "Kamber Ali Khan",
+      "city_code": "KAK"
+    },
+    {
+      "id": 1106,
+      "code": "F0068",
+      "name": "Kamer Moshani",
+      "city_code": "KMI"
+    },
+    {
+      "id": 473,
+      "code": "R80302661",
+      "name": "Kamoke",
+      "city_code": "KMK"
+    },
+    {
+      "id": 764,
+      "code": "R80302636",
+      "name": "More Emin Abad",
+      "city_code": "KMK"
+    },
+    {
+      "id": 474,
+      "code": "R80302523",
+      "name": "Kamra",
+      "city_code": "KMA"
+    },
+    {
+      "id": 475,
+      "code": "R80302813",
+      "name": "Kandhkot",
+      "city_code": "KKK"
+    },
+    {
+      "id": 476,
+      "code": "R80302804",
+      "name": "Kandiaro",
+      "city_code": "KND"
+    },
+    {
+      "id": 479,
+      "code": "R80316328",
+      "name": "Karachi - Abyssinia Lines",
+      "city_code": "KHI"
+    },
+    {
+      "id": 480,
+      "code": "RPK65",
+      "name": "Karachi - Akhter Colony",
+      "city_code": "KHI"
+    },
+    {
+      "id": 481,
+      "code": "R80302934",
+      "name": "Karachi - Askari",
+      "city_code": "KHI"
+    },
+    {
+      "id": 482,
+      "code": "RPK1719",
+      "name": "Karachi - Bahadurabad",
+      "city_code": "KHI"
+    },
+    {
+      "id": 483,
+      "code": "R80302848",
+      "name": "Karachi - Bahria Town",
+      "city_code": "KHI"
+    },
+    {
+      "id": 484,
+      "code": "R80316306",
+      "name": "Karachi - Baldia Town",
+      "city_code": "KHI"
+    },
+    {
+      "id": 485,
+      "code": "R80316307",
+      "name": "Karachi - Baloch Colony",
+      "city_code": "KHI"
+    },
+    {
+      "id": 486,
+      "code": "R80316290",
+      "name": "Karachi - Bhimpora",
+      "city_code": "KHI"
+    },
+    {
+      "id": 487,
+      "code": "R80316291",
+      "name": "Karachi - Bohra Pir",
+      "city_code": "KHI"
+    },
+    {
+      "id": 488,
+      "code": "R80316278",
+      "name": "Karachi - Cantonment C.O.D",
+      "city_code": "KHI"
+    },
+    {
+      "id": 489,
+      "code": "R80316282",
+      "name": "Karachi - Cantonment FTC",
+      "city_code": "KHI"
+    },
+    {
+      "id": 490,
+      "code": "R80316283",
+      "name": "Karachi - Cantonment NHS",
+      "city_code": "KHI"
+    },
+    {
+      "id": 491,
+      "code": "R80316285",
+      "name": "Karachi - Cantonment PAF Base",
+      "city_code": "KHI"
+    },
+    {
+      "id": 492,
+      "code": "R80316279",
+      "name": "Karachi - Cantonment Railway Station",
+      "city_code": "KHI"
+    },
+    {
+      "id": 493,
+      "code": "R80316287",
+      "name": "Karachi - Civil Lines",
+      "city_code": "KHI"
+    },
+    {
+      "id": 494,
+      "code": "R80302932",
+      "name": "Karachi - Clifton",
+      "city_code": "KHI"
+    },
+    {
+      "id": 495,
+      "code": "R80302857",
+      "name": "Karachi - DHA",
+      "city_code": "KHI"
+    },
+    {
+      "id": 496,
+      "code": "R80302858",
+      "name": "Karachi - F.B Area",
+      "city_code": "KHI"
+    },
+    {
+      "id": 497,
+      "code": "R80302814",
+      "name": "Karachi - F.C Area",
+      "city_code": "KHI"
+    },
+    {
+      "id": 498,
+      "code": "R80316308",
+      "name": "Karachi - Firdous Colony",
+      "city_code": "KHI"
+    },
+    {
+      "id": 499,
+      "code": "R80302892",
+      "name": "Karachi - Garden",
+      "city_code": "KHI"
+    },
+    {
+      "id": 500,
+      "code": "R80302868",
+      "name": "Karachi - Gulistan-e-Johar",
+      "city_code": "KHI"
+    },
+    {
+      "id": 501,
+      "code": "R80302931",
+      "name": "Karachi - Gulshan-e-Hadeed",
+      "city_code": "KHI"
+    },
+    {
+      "id": 502,
+      "code": "R80302922",
+      "name": "Karachi - Gulshan-e-Iqbal",
+      "city_code": "KHI"
+    },
+    {
+      "id": 503,
+      "code": "R80316309",
+      "name": "Karachi - Gulshan-e-Maymar",
+      "city_code": "KHI"
+    },
+    {
+      "id": 504,
+      "code": "R80316310",
+      "name": "Karachi - Hawksbay",
+      "city_code": "KHI"
+    },
+    {
+      "id": 505,
+      "code": "RPK5786",
+      "name": "Karachi - Ittehad Town",
+      "city_code": "KHI"
+    },
+    {
+      "id": 506,
+      "code": "RPK5764",
+      "name": "Karachi - Jacob Lines",
+      "city_code": "KHI"
+    },
+    {
+      "id": 507,
+      "code": "R80316293",
+      "name": "Karachi - Jodia Bazar",
+      "city_code": "KHI"
+    },
+    {
+      "id": 508,
+      "code": "R80316297",
+      "name": "Karachi - Khada Market",
+      "city_code": "KHI"
+    },
+    {
+      "id": 509,
+      "code": "R80316327",
+      "name": "Karachi - Khudadad Colony",
+      "city_code": "KHI"
+    },
+    {
+      "id": 510,
+      "code": "R80302903",
+      "name": "Karachi - Korangi",
+      "city_code": "KHI"
+    },
+    {
+      "id": 511,
+      "code": "R80302933",
+      "name": "Karachi - Landhi",
+      "city_code": "KHI"
+    },
+    {
+      "id": 512,
+      "code": "R80316299",
+      "name": "Karachi - Lee Market",
+      "city_code": "KHI"
+    },
+    {
+      "id": 513,
+      "code": "RPK5797",
+      "name": "Karachi - Lines Area",
+      "city_code": "KHI"
+    },
+    {
+      "id": 514,
+      "code": "R80302876",
+      "name": "Karachi - Malir",
+      "city_code": "KHI"
+    },
+    {
+      "id": 515,
+      "code": "R80316317",
+      "name": "Karachi - Manora",
+      "city_code": "KHI"
+    },
+    {
+      "id": 516,
+      "code": "RPK5801",
+      "name": "Karachi - Maripur",
+      "city_code": "KHI"
+    },
+    {
+      "id": 517,
+      "code": "RPK64",
+      "name": "Karachi - Mehmoodabad",
+      "city_code": "KHI"
+    },
+    {
+      "id": 518,
+      "code": "R80316300",
+      "name": "Karachi - Mithadar",
+      "city_code": "KHI"
+    },
+    {
+      "id": 519,
+      "code": "R80316288",
+      "name": "Karachi - Muhammad Ali Society",
+      "city_code": "KHI"
+    },
+    {
+      "id": 520,
+      "code": "R80316330",
+      "name": "Karachi - Muslimabad Society",
+      "city_code": "KHI"
+    },
+    {
+      "id": 521,
+      "code": "R80302828",
+      "name": "Karachi - Nazimabad",
+      "city_code": "KHI"
+    },
+    {
+      "id": 522,
+      "code": "R6080948",
+      "name": "Karachi - New Karachi",
+      "city_code": "KHI"
+    },
+    {
+      "id": 523,
+      "code": "R80316318",
+      "name": "Karachi - New Surjani",
+      "city_code": "KHI"
+    },
+    {
+      "id": 524,
+      "code": "R80316302",
+      "name": "Karachi - Nishter Road",
+      "city_code": "KHI"
+    },
+    {
+      "id": 525,
+      "code": "R80302912",
+      "name": "Karachi - North Nazimabad",
+      "city_code": "KHI"
+    },
+    {
+      "id": 526,
+      "code": "R80302890",
+      "name": "Karachi - Orangi Town",
+      "city_code": "KHI"
+    },
+    {
+      "id": 527,
+      "code": "R80302919",
+      "name": "Karachi - P.E.C.H.S",
+      "city_code": "KHI"
+    },
+    {
+      "id": 528,
+      "code": "R80316303",
+      "name": "Karachi - Pan Mandi",
+      "city_code": "KHI"
+    },
+    {
+      "id": 529,
+      "code": "R80316319",
+      "name": "Karachi - PIB Colony",
+      "city_code": "KHI"
+    },
+    {
+      "id": 530,
+      "code": "R80316320",
+      "name": "Karachi - Pipri Goth",
+      "city_code": "KHI"
+    },
+    {
+      "id": 531,
+      "code": "RPK62",
+      "name": "Karachi - Qayummabad",
+      "city_code": "KHI"
+    },
+    {
+      "id": 532,
+      "code": "R80316304",
+      "name": "Karachi - Ramswami",
+      "city_code": "KHI"
+    },
+    {
+      "id": 533,
+      "code": "R80316305",
+      "name": "Karachi - Ranchorline",
+      "city_code": "KHI"
+    },
+    {
+      "id": 534,
+      "code": "R80302873",
+      "name": "Karachi - S.I.T.E",
+      "city_code": "KHI"
+    },
+    {
+      "id": 535,
+      "code": "R80316329",
+      "name": "Karachi - Saddar",
+      "city_code": "KHI"
+    },
+    {
+      "id": 536,
+      "code": "R80316323",
+      "name": "Karachi - Shabbirabad",
+      "city_code": "KHI"
+    },
+    {
+      "id": 537,
+      "code": "R80302835",
+      "name": "Karachi - Shah Faisal Colony",
+      "city_code": "KHI"
+    },
+    {
+      "id": 538,
+      "code": "R80316325",
+      "name": "Karachi - Sher Shah",
+      "city_code": "KHI"
+    },
+    {
+      "id": 188,
+      "code": "R80316292",
+      "name": "Karachi - Bombay Bazar",
+      "city_code": "KHI"
+    },
+    {
+      "id": 189,
+      "code": "R80302879",
+      "name": "Karachi - BufferZone",
+      "city_code": "KHI"
+    },
+    {
+      "id": 190,
+      "code": "R80316281",
+      "name": "Karachi - Cantonment Daud Pota Road",
+      "city_code": "KHI"
+    },
+    {
+      "id": 191,
+      "code": "R80316284",
+      "name": "Karachi - Cantonment Regent Plaza",
+      "city_code": "KHI"
+    },
+    {
+      "id": 192,
+      "code": "R80316280",
+      "name": "Karachi - Cantonment Shahra-e-Faisal",
+      "city_code": "KHI"
+    },
+    {
+      "id": 193,
+      "code": "R80316311",
+      "name": "Karachi - I.I Chundrigarh",
+      "city_code": "KHI"
+    },
+    {
+      "id": 194,
+      "code": "R80316312",
+      "name": "Karachi - Jamshed Road",
+      "city_code": "KHI"
+    },
+    {
+      "id": 195,
+      "code": "R80316313",
+      "name": "Karachi - K.D.A Officers",
+      "city_code": "KHI"
+    },
+    {
+      "id": 196,
+      "code": "R80316294",
+      "name": "Karachi - Kagzi Bazar",
+      "city_code": "KHI"
+    },
+    {
+      "id": 197,
+      "code": "R80316295",
+      "name": "Karachi - Kakri Ground",
+      "city_code": "KHI"
+    },
+    {
+      "id": 198,
+      "code": "R80316296",
+      "name": "Karachi - Kamil Gali",
+      "city_code": "KHI"
+    },
+    {
+      "id": 199,
+      "code": "R80316314",
+      "name": "Karachi - Kemari",
+      "city_code": "KHI"
+    },
+    {
+      "id": 200,
+      "code": "R80316298",
+      "name": "Karachi - Kharadar",
+      "city_code": "KHI"
+    },
+    {
+      "id": 201,
+      "code": "R80302918",
+      "name": "Karachi - Liaquatabad",
+      "city_code": "KHI"
+    },
+    {
+      "id": 202,
+      "code": "R80316315",
+      "name": "Karachi - Liyari",
+      "city_code": "KHI"
+    },
+    {
+      "id": 203,
+      "code": "R80316316",
+      "name": "Karachi - M.A Jinnah Road",
+      "city_code": "KHI"
+    },
+    {
+      "id": 204,
+      "code": "R80316301",
+      "name": "Karachi - Nanwara",
+      "city_code": "KHI"
+    },
+    {
+      "id": 205,
+      "code": "RPK60",
+      "name": "Karachi - North Karachi",
+      "city_code": "KHI"
+    },
+    {
+      "id": 206,
+      "code": "R80302913",
+      "name": "Karachi - Old Town",
+      "city_code": "KHI"
+    },
+    {
+      "id": 207,
+      "code": "R80316322",
+      "name": "Karachi - Scheme 33",
+      "city_code": "KHI"
+    },
+    {
+      "id": 208,
+      "code": "R80316324",
+      "name": "Karachi - Shadman Town",
+      "city_code": "KHI"
+    },
+    {
+      "id": 209,
+      "code": "R80316286",
+      "name": "Karachi - Sultanabad",
+      "city_code": "KHI"
+    },
+    {
+      "id": 210,
+      "code": "R80316326",
+      "name": "Karachi - Surjani",
+      "city_code": "KHI"
+    },
+    {
+      "id": 539,
+      "code": "R80302370",
+      "name": "Karak",
+      "city_code": "KRK"
+    },
+    {
+      "id": 948,
+      "code": "R80302353",
+      "name": "Tappi",
+      "city_code": "KRK"
+    },
+    {
+      "id": 462,
+      "code": "RPK15",
+      "name": "Kahror Pakka",
+      "city_code": "KPC"
+    },
+    {
+      "id": 544,
+      "code": "R80302847",
+      "name": "Kashmore",
+      "city_code": "KHM"
+    },
+    {
+      "id": 337,
+      "code": "R80302692",
+      "name": "Din Garh",
+      "city_code": "KSR"
+    },
+    {
+      "id": 545,
+      "code": "R80302548",
+      "name": "Kasur",
+      "city_code": "KSR"
+    },
+    {
+      "id": 571,
+      "code": "R80302790",
+      "name": "Kot Fateh Din",
+      "city_code": "KSR"
+    },
+    {
+      "id": 573,
+      "code": "R80302479",
+      "name": "Kot Haleem Khan",
+      "city_code": "KSR"
+    },
+    {
+      "id": 578,
+      "code": "R80302429",
+      "name": "Kot Murad Khan",
+      "city_code": "KSR"
+    },
+    {
+      "id": 791,
+      "code": "R80302540",
+      "name": "Mustafa Abad",
+      "city_code": "KSR"
+    },
+    {
+      "id": 951,
+      "code": "R80302533",
+      "name": "Niaz Nagar",
+      "city_code": "KSR"
+    },
+    {
+      "id": 546,
+      "code": "R80302359",
+      "name": "Katlang",
+      "city_code": "KLG"
+    },
+    {
+      "id": 550,
+      "code": "R80302427",
+      "name": "Khairpur Tamewali",
+      "city_code": "KTW"
+    },
+    {
+      "id": 548,
+      "code": "R80302886",
+      "name": "Khairpur Mir's",
+      "city_code": "KHP"
+    },
+    {
+      "id": 549,
+      "code": "R80302888",
+      "name": "Khairpur Nathan Shah",
+      "city_code": "KNS"
+    },
+    {
+      "id": 552,
+      "code": "R80302541",
+      "name": "Khan Bella",
+      "city_code": "KBL"
+    },
+    {
+      "id": 212,
+      "code": "R80302508",
+      "name": "Khan Garh",
+      "city_code": "GRH"
+    },
+    {
+      "id": 331,
+      "code": "R80302569",
+      "name": "Dera Taj",
+      "city_code": "KWL"
+    },
+    {
+      "id": 553,
+      "code": "R80302764",
+      "name": "Khanewal",
+      "city_code": "KWL"
+    },
+    {
+      "id": 308,
+      "code": "R80302452",
+      "name": "Chachran Sharif",
+      "city_code": "NPR"
+    },
+    {
+      "id": 279,
+      "code": "R80302489",
+      "name": "Aminabad",
+      "city_code": "NPR"
+    },
+    {
+      "id": 766,
+      "code": "R80302293",
+      "name": "Mouza Muhammad Khan",
+      "city_code": "NPR"
+    },
+    {
+      "id": 969,
+      "code": "R80302573",
+      "name": "Nawan Kot",
+      "city_code": "NPR"
+    },
+    {
+      "id": 556,
+      "code": "R80302990",
+      "name": "Khaplu",
+      "city_code": "KPL"
+    },
+    {
+      "id": 557,
+      "code": "R80302971",
+      "name": "Kharan",
+      "city_code": "KHR"
+    },
+    {
+      "id": 305,
+      "code": "R80302549",
+      "name": "Biddar Marjan",
+      "city_code": "KRN"
+    },
+    {
+      "id": 334,
+      "code": "R80302413",
+      "name": "Dhoria",
+      "city_code": "KRN"
+    },
+    {
+      "id": 335,
+      "code": "R80302709",
+      "name": "Dhunni",
+      "city_code": "KRN"
+    },
+    {
+      "id": 558,
+      "code": "R80302411",
+      "name": "Kharian",
+      "city_code": "KRN"
+    },
+    {
+      "id": 277,
+      "code": "R80302778",
+      "name": "Amara Kalan",
+      "city_code": "KRN"
+    },
+    {
+      "id": 281,
+      "code": "R80302588",
+      "name": "Attowala",
+      "city_code": "KRN"
+    },
+    {
+      "id": 949,
+      "code": "R80302517",
+      "name": "Noonan Wali",
+      "city_code": "KRN"
+    },
+    {
+      "id": 950,
+      "code": "R80302410",
+      "name": "Noor Jamal",
+      "city_code": "KRN"
+    },
+    {
+      "id": 566,
+      "code": "R80302288",
+      "name": "Khwazakhela",
+      "city_code": "KZK"
+    },
+    {
+      "id": 561,
+      "code": "R80302461",
+      "name": "Khewra",
+      "city_code": "PDK"
+    },
+    {
+      "id": 973,
+      "code": "R80302708",
+      "name": "Pind Dadan Khan",
+      "city_code": "PDK"
+    },
+    {
+      "id": 1114,
+      "code": "F0087",
+      "name": "KHIDDER WALA",
+      "city_code": "KDW"
+    },
+    {
+      "id": 562,
+      "code": "R80302852",
+      "name": "Khipro",
+      "city_code": "KPR"
+    },
+    {
+      "id": 478,
+      "code": "R80302967",
+      "name": "Kanozai",
+      "city_code": "KNZ"
+    },
+    {
+      "id": 563,
+      "code": "R80302651",
+      "name": "Khushab",
+      "city_code": "SAB"
+    },
+    {
+      "id": 565,
+      "code": "R80302976",
+      "name": "Khuzdar",
+      "city_code": "UDR"
+    },
+    {
+      "id": 567,
+      "code": "R80302332",
+      "name": "Kohat",
+      "city_code": "OHT"
+    },
+    {
+      "id": 592,
+      "code": "R80302289",
+      "name": "Lachi",
+      "city_code": "OHT"
+    },
+    {
+      "id": 837,
+      "code": "R80302388",
+      "name": "Para Chinar",
+      "city_code": "OHT"
+    },
+    {
+      "id": 568,
+      "code": "R80307352",
+      "name": "Kohlu",
+      "city_code": "IHU"
+    },
+    {
+      "id": 294,
+      "code": "RPK44",
+      "name": "Barkhan",
+      "city_code": "IHU"
+    },
+    {
+      "id": 387,
+      "code": "R80302475",
+      "name": "Hidayatabad",
+      "city_code": "LHE"
+    },
+    {
+      "id": 593,
+      "code": "R80306631",
+      "name": "Lahore - Abbot Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 594,
+      "code": "R80302397",
+      "name": "Lahore - Agrics",
+      "city_code": "LHE"
+    },
+    {
+      "id": 595,
+      "code": "R80302511",
+      "name": "Lahore - Askari",
+      "city_code": "LHE"
+    },
+    {
+      "id": 596,
+      "code": "R80306634",
+      "name": "Lahore - Badami Bagh",
+      "city_code": "LHE"
+    },
+    {
+      "id": 597,
+      "code": "R80306640",
+      "name": "Lahore - Baghbanpura",
+      "city_code": "LHE"
+    },
+    {
+      "id": 598,
+      "code": "R80302727",
+      "name": "Lahore - Bahria Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 599,
+      "code": "R80306664",
+      "name": "Lahore - Barki Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 600,
+      "code": "R80306670",
+      "name": "Lahore - Bata Pur",
+      "city_code": "LHE"
+    },
+    {
+      "id": 601,
+      "code": "RPK5776",
+      "name": "Lahore - Bedian Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 602,
+      "code": "RPK5780",
+      "name": "Lahore - Begamkot",
+      "city_code": "LHE"
+    },
+    {
+      "id": 603,
+      "code": "R80302531",
+      "name": "Lahore - BOR Society",
+      "city_code": "LHE"
+    },
+    {
+      "id": 604,
+      "code": "R80302401",
+      "name": "Lahore - Canal City",
+      "city_code": "LHE"
+    },
+    {
+      "id": 605,
+      "code": "R80302697",
+      "name": "Lahore - Canal Garden",
+      "city_code": "LHE"
+    },
+    {
+      "id": 606,
+      "code": "R80306678",
+      "name": "Lahore - Cantt",
+      "city_code": "LHE"
+    },
+    {
+      "id": 607,
+      "code": "R80306707",
+      "name": "Lahore - Chaburji",
+      "city_code": "LHE"
+    },
+    {
+      "id": 608,
+      "code": "RPK5787",
+      "name": "Lahore - China Scheme",
+      "city_code": "LHE"
+    },
+    {
+      "id": 609,
+      "code": "R80302414",
+      "name": "Lahore - Chung",
+      "city_code": "LHE"
+    },
+    {
+      "id": 610,
+      "code": "R80302524",
+      "name": "Lahore - College Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 611,
+      "code": "R80306715",
+      "name": "Lahore - Daroghawala",
+      "city_code": "LHE"
+    },
+    {
+      "id": 612,
+      "code": "R80306722",
+      "name": "Lahore - Davis Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 613,
+      "code": "R80306728",
+      "name": "Lahore - Defence Road Raiwind",
+      "city_code": "LHE"
+    },
+    {
+      "id": 614,
+      "code": "R80302793",
+      "name": "Lahore - DHA",
+      "city_code": "LHE"
+    },
+    {
+      "id": 615,
+      "code": "R80306737",
+      "name": "Lahore - Dharampura",
+      "city_code": "LHE"
+    },
+    {
+      "id": 616,
+      "code": "R80302423",
+      "name": "Lahore - Eden",
+      "city_code": "LHE"
+    },
+    {
+      "id": 617,
+      "code": "R80302779",
+      "name": "Lahore - Eden Value Home",
+      "city_code": "LHE"
+    },
+    {
+      "id": 618,
+      "code": "R80306744",
+      "name": "Lahore - Egerton Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 619,
+      "code": "R80302471",
+      "name": "Lahore - EME",
+      "city_code": "LHE"
+    },
+    {
+      "id": 620,
+      "code": "R80306748",
+      "name": "Lahore - Empress Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 621,
+      "code": "R80302532",
+      "name": "Lahore - Engineers Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 622,
+      "code": "R80302543",
+      "name": "Lahore - Faisal Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 623,
+      "code": "R80302770",
+      "name": "Lahore - Ferozpur Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 624,
+      "code": "R80306771",
+      "name": "Lahore - Garden Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 625,
+      "code": "R80306786",
+      "name": "Lahore - Garhi Shahu",
+      "city_code": "LHE"
+    },
+    {
+      "id": 626,
+      "code": "R80302753",
+      "name": "Lahore - Green Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 627,
+      "code": "R80302412",
+      "name": "Lahore - Gulberg",
+      "city_code": "LHE"
+    },
+    {
+      "id": 628,
+      "code": "R80302754",
+      "name": "Lahore - Gul-e-Daman",
+      "city_code": "LHE"
+    },
+    {
+      "id": 629,
+      "code": "R80302462",
+      "name": "Lahore - Gulshan-e-Ravi",
+      "city_code": "LHE"
+    },
+    {
+      "id": 630,
+      "code": "R80306813",
+      "name": "Lahore - Harbanspura",
+      "city_code": "LHE"
+    },
+    {
+      "id": 631,
+      "code": "RPK5775",
+      "name": "Lahore - Imamia Colony",
+      "city_code": "LHE"
+    },
+    {
+      "id": 632,
+      "code": "R80302458",
+      "name": "Lahore - Iqbal Avenue",
+      "city_code": "LHE"
+    },
+    {
+      "id": 633,
+      "code": "R80302769",
+      "name": "Lahore - Iqbal Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 634,
+      "code": "R80302731",
+      "name": "Lahore - Izmir Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 635,
+      "code": "R80306839",
+      "name": "Lahore - Jail Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 636,
+      "code": "R80306847",
+      "name": "Lahore - Jallo",
+      "city_code": "LHE"
+    },
+    {
+      "id": 637,
+      "code": "R80302400",
+      "name": "Lahore - Johar Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 638,
+      "code": "R80302600",
+      "name": "Lahore - Judicial Colony",
+      "city_code": "LHE"
+    },
+    {
+      "id": 639,
+      "code": "R80302705",
+      "name": "Lahore - Kasoor Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 640,
+      "code": "R80302638",
+      "name": "Lahore - Khayaban-e-Jinnah Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 641,
+      "code": "RPK5782",
+      "name": "Lahore - Kot Abdul Malik",
+      "city_code": "LHE"
+    },
+    {
+      "id": 642,
+      "code": "R80302493",
+      "name": "Lahore - Kot Lakh Pat",
+      "city_code": "LHE"
+    },
+    {
+      "id": 643,
+      "code": "R80306865",
+      "name": "Lahore - Lawrence Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 644,
+      "code": "R80306869",
+      "name": "Lahore - Mall Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 645,
+      "code": "R80306880",
+      "name": "Lahore - Manawan",
+      "city_code": "LHE"
+    },
+    {
+      "id": 646,
+      "code": "RPK5788",
+      "name": "Lahore - Manga Mandi",
+      "city_code": "LHE"
+    },
+    {
+      "id": 647,
+      "code": "R80306885",
+      "name": "Lahore - Mansoorah",
+      "city_code": "LHE"
+    },
+    {
+      "id": 648,
+      "code": "RPK5768",
+      "name": "Lahore - Maraka",
+      "city_code": "LHE"
+    },
+    {
+      "id": 649,
+      "code": "R80306894",
+      "name": "Lahore - Mcleod Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 650,
+      "code": "R80302603",
+      "name": "Lahore - Military Accounts",
+      "city_code": "LHE"
+    },
+    {
+      "id": 651,
+      "code": "R80302683",
+      "name": "Lahore - Model Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 652,
+      "code": "R80306907",
+      "name": "Lahore - Mozang",
+      "city_code": "LHE"
+    },
+    {
+      "id": 653,
+      "code": "R80306921",
+      "name": "Lahore - Mughulpura",
+      "city_code": "LHE"
+    },
+    {
+      "id": 654,
+      "code": "R80302396",
+      "name": "Lahore - Muhafiz Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 655,
+      "code": "RPK5803",
+      "name": "Lahore - Multan Chungi",
+      "city_code": "LHE"
+    },
+    {
+      "id": 656,
+      "code": "R80302525",
+      "name": "Lahore - Nespak",
+      "city_code": "LHE"
+    },
+    {
+      "id": 657,
+      "code": "R80302624",
+      "name": "Lahore - P&D Colony",
+      "city_code": "LHE"
+    },
+    {
+      "id": 658,
+      "code": "R80302428",
+      "name": "Lahore - Pak Arab Society",
+      "city_code": "LHE"
+    },
+    {
+      "id": 659,
+      "code": "R80302690",
+      "name": "Lahore - PCSIR Staff Colony",
+      "city_code": "LHE"
+    },
+    {
+      "id": 660,
+      "code": "R80306946",
+      "name": "Lahore - PIA Road PGECHS",
+      "city_code": "LHE"
+    },
+    {
+      "id": 661,
+      "code": "R80302713",
+      "name": "Lahore - PIA Society",
+      "city_code": "LHE"
+    },
+    {
+      "id": 662,
+      "code": "R80302752",
+      "name": "Lahore - Punjab Society",
+      "city_code": "LHE"
+    },
+    {
+      "id": 663,
+      "code": "R80306948",
+      "name": "Lahore - Railway Station",
+      "city_code": "LHE"
+    },
+    {
+      "id": 664,
+      "code": "R80302438",
+      "name": "Lahore - Raiwind Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 665,
+      "code": "R80302575",
+      "name": "Lahore - Rajpoot Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 666,
+      "code": "R80306961",
+      "name": "Lahore - Ravi Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 667,
+      "code": "R80302527",
+      "name": "Lahore - River View Society",
+      "city_code": "LHE"
+    },
+    {
+      "id": 668,
+      "code": "R80302415",
+      "name": "Lahore - Sabzazar",
+      "city_code": "LHE"
+    },
+    {
+      "id": 669,
+      "code": "RPK5796",
+      "name": "Lahore - Saggian",
+      "city_code": "LHE"
+    },
+    {
+      "id": 670,
+      "code": "R80306970",
+      "name": "Lahore - Salamat Pura",
+      "city_code": "LHE"
+    },
+    {
+      "id": 671,
+      "code": "R80306981",
+      "name": "Lahore - Samnabad",
+      "city_code": "LHE"
+    },
+    {
+      "id": 672,
+      "code": "R80302433",
+      "name": "Lahore - Sanda Islampura",
+      "city_code": "LHE"
+    },
+    {
+      "id": 673,
+      "code": "R80307677",
+      "name": "Lahore - Shad Bagh",
+      "city_code": "LHE"
+    },
+    {
+      "id": 674,
+      "code": "R80307026",
+      "name": "Lahore - Shadman",
+      "city_code": "LHE"
+    },
+    {
+      "id": 675,
+      "code": "R80302743",
+      "name": "Lahore - Shahdra",
+      "city_code": "LHE"
+    },
+    {
+      "id": 676,
+      "code": "RPK5804",
+      "name": "Lahore - Shahpur Kanjra",
+      "city_code": "LHE"
+    },
+    {
+      "id": 677,
+      "code": "R80307030",
+      "name": "Lahore - Shalimar Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 678,
+      "code": "RPK5757",
+      "name": "Lahore - Shamkay Bhattian",
+      "city_code": "LHE"
+    },
+    {
+      "id": 679,
+      "code": "RPK5763",
+      "name": "Lahore - Sharqpur Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 680,
+      "code": "R80307041",
+      "name": "Lahore - Sher Ali Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 681,
+      "code": "R80307045",
+      "name": "Lahore - Singh Pura",
+      "city_code": "LHE"
+    },
+    {
+      "id": 682,
+      "code": "R80302759",
+      "name": "Lahore - Sitara Colony",
+      "city_code": "LHE"
+    },
+    {
+      "id": 683,
+      "code": "R80302610",
+      "name": "Lahore - Sukh Chain Garden",
+      "city_code": "LHE"
+    },
+    {
+      "id": 684,
+      "code": "RPK5765",
+      "name": "Lahore - Sundar Sharif",
+      "city_code": "LHE"
+    },
+    {
+      "id": 685,
+      "code": "R80302633",
+      "name": "Lahore - Thokar Canal Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 686,
+      "code": "R80307065",
+      "name": "Lahore - Thokar Multan Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 687,
+      "code": "R80302763",
+      "name": "Lahore - Town Ship",
+      "city_code": "LHE"
+    },
+    {
+      "id": 688,
+      "code": "R80302457",
+      "name": "Lahore - Triocon Village",
+      "city_code": "LHE"
+    },
+    {
+      "id": 689,
+      "code": "R80307072",
+      "name": "Lahore - Upper Mall",
+      "city_code": "LHE"
+    },
+    {
+      "id": 690,
+      "code": "R80307079",
+      "name": "Lahore - Valencia",
+      "city_code": "LHE"
+    },
+    {
+      "id": 691,
+      "code": "R80307085",
+      "name": "Lahore - Wahdat Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 692,
+      "code": "R80307098",
+      "name": "Lahore - Walled City",
+      "city_code": "LHE"
+    },
+    {
+      "id": 693,
+      "code": "R80307118",
+      "name": "Lahore - Walton",
+      "city_code": "LHE"
+    },
+    {
+      "id": 694,
+      "code": "R80302454",
+      "name": "Lahore - Wapda Town",
+      "city_code": "LHE"
+    },
+    {
+      "id": 695,
+      "code": "R80307121",
+      "name": "Lahore - Yateem Khana",
+      "city_code": "LHE"
+    },
+    {
+      "id": 696,
+      "code": "R80302447",
+      "name": "Lahore - Zarar Shaheed Road",
+      "city_code": "LHE"
+    },
+    {
+      "id": 952,
+      "code": "R80302718",
+      "name": "Wagah",
+      "city_code": "LHE"
+    },
+    {
+      "id": 323,
+      "code": "R80302632",
+      "name": "Daira Din Panah",
+      "city_code": "KOT"
+    },
+    {
+      "id": 333,
+      "code": "R80302421",
+      "name": "Dhodak",
+      "city_code": "KOT"
+    },
+    {
+      "id": 569,
+      "code": "RPK4",
+      "name": "Kot Addu",
+      "city_code": "KOT"
+    },
+    {
+      "id": 572,
+      "code": "R80302909",
+      "name": "Kot Ghulam Mohammad",
+      "city_code": "KGM"
+    },
+    {
+      "id": 575,
+      "code": "R80302503",
+      "name": "Kot Mithan",
+      "city_code": "KTM"
+    },
+    {
+      "id": 755,
+      "code": "R80302796",
+      "name": "Mithan Kot",
+      "city_code": "KTM"
+    },
+    {
+      "id": 576,
+      "code": "R80302418",
+      "name": "Kot Momen",
+      "city_code": "KMN"
+    },
+    {
+      "id": 577,
+      "code": "R80306590",
+      "name": "Kot Momin",
+      "city_code": "KMN"
+    },
+    {
+      "id": 297,
+      "code": "R80302736",
+      "name": "Bhabra",
+      "city_code": "KMN"
+    },
+    {
+      "id": 582,
+      "code": "R80302760",
+      "name": "Kot Rada Kishan",
+      "city_code": "KDC"
+    },
+    {
+      "id": 583,
+      "code": "R80302469",
+      "name": "Kot Samabha",
+      "city_code": "KSB"
+    },
+    {
+      "id": 584,
+      "code": "R80302645",
+      "name": "Kotla Arab Ali Khan",
+      "city_code": "KTL"
+    },
+    {
+      "id": 1065,
+      "code": "F0007",
+      "name": "KOTLA JAM",
+      "city_code": "KJA"
+    },
+    {
+      "id": 586,
+      "code": "R80302943",
+      "name": "Kotli",
+      "city_code": "KLY"
+    },
+    {
+      "id": 588,
+      "code": "R80316262",
+      "name": "Kuchlak",
+      "city_code": "KCU"
+    },
+    {
+      "id": 590,
+      "code": "R80302627",
+      "name": "Kundian",
+      "city_code": "KNN"
+    },
+    {
+      "id": 591,
+      "code": "R80302904",
+      "name": "Kunri",
+      "city_code": "KNI"
+    },
+    {
+      "id": 697,
+      "code": "R6589888",
+      "name": "Lakki Marwat",
+      "city_code": "LKI"
+    },
+    {
+      "id": 1107,
+      "code": "F0072",
+      "name": "LAKI MARWAT",
+      "city_code": "LKI"
+    },
+    {
+      "id": 953,
+      "code": "R80302349",
+      "name": "Tajori",
+      "city_code": "LKI"
+    },
+    {
+      "id": 541,
+      "code": "R80302712",
+      "name": "Karimpura",
+      "city_code": "LLM"
+    },
+    {
+      "id": 698,
+      "code": "R80316271",
+      "name": "Lala Musa",
+      "city_code": "LLM"
+    },
+    {
+      "id": 711,
+      "code": "R80302526",
+      "name": "Machiwala",
+      "city_code": "LLM"
+    },
+    {
+      "id": 954,
+      "code": "R80302560",
+      "name": "Rehmat Abad",
+      "city_code": "LLM"
+    },
+    {
+      "id": 699,
+      "code": "R80302453",
+      "name": "Lalian",
+      "city_code": "LLI"
+    },
+    {
+      "id": 700,
+      "code": "R80306610",
+      "name": "Laliyan",
+      "city_code": "LLI"
+    },
+    {
+      "id": 701,
+      "code": "R80302334",
+      "name": "Landikotal - Khyber Agency",
+      "city_code": "LNK"
+    },
+    {
+      "id": 340,
+      "code": "R80302729",
+      "name": "Dodah",
+      "city_code": "LAR"
+    },
+    {
+      "id": 341,
+      "code": "R80302911",
+      "name": "Dokri",
+      "city_code": "LAR"
+    },
+    {
+      "id": 702,
+      "code": "R80302801",
+      "name": "Larkana",
+      "city_code": "LAR"
+    },
+    {
+      "id": 704,
+      "code": "R80302497",
+      "name": "Liaquatpur",
+      "city_code": "LQR"
+    },
+    {
+      "id": 348,
+      "code": "R80302700",
+      "name": "Gailywal",
+      "city_code": "LOD"
+    },
+    {
+      "id": 273,
+      "code": "R80302440",
+      "name": "Adam Wehain",
+      "city_code": "LOD"
+    },
+    {
+      "id": 286,
+      "code": "R80302544",
+      "name": "Bahawal Garh",
+      "city_code": "LOD"
+    },
+    {
+      "id": 705,
+      "code": "R80302730",
+      "name": "Lodhran",
+      "city_code": "LOD"
+    },
+    {
+      "id": 706,
+      "code": "R80302950",
+      "name": "Loralai",
+      "city_code": "LRI"
+    },
+    {
+      "id": 710,
+      "code": "R80302838",
+      "name": "Machi Goth",
+      "city_code": "MGT"
+    },
+    {
+      "id": 966,
+      "code": "R80302352",
+      "name": "Swat",
+      "city_code": "MYN"
+    },
+    {
+      "id": 709,
+      "code": "R80302744",
+      "name": "Luddhan",
+      "city_code": "MLT"
+    },
+    {
+      "id": 712,
+      "code": "RPK6",
+      "name": "Mailsi",
+      "city_code": "MLT"
+    },
+    {
+      "id": 713,
+      "code": "R80302521",
+      "name": "Makhdoompur",
+      "city_code": "MPD"
+    },
+    {
+      "id": 714,
+      "code": "R80302566",
+      "name": "Malakwal",
+      "city_code": "MLK"
+    },
+    {
+      "id": 716,
+      "code": "RPK45",
+      "name": "Mamu Kanjan",
+      "city_code": "MKN"
+    },
+    {
+      "id": 717,
+      "code": "R80302586",
+      "name": "Mamunkanjan",
+      "city_code": "MKN"
+    },
+    {
+      "id": 718,
+      "code": "RPK1676",
+      "name": "Mananwala",
+      "city_code": "WLA"
+    },
+    {
+      "id": 719,
+      "code": "R80302757",
+      "name": "Manawala",
+      "city_code": "WLA"
+    },
+    {
+      "id": 316,
+      "code": "R80302671",
+      "name": "Chillianwala",
+      "city_code": "MBD"
+    },
+    {
+      "id": 355,
+      "code": "R80302649",
+      "name": "Ghaniaan",
+      "city_code": "MBD"
+    },
+    {
+      "id": 223,
+      "code": "R80302557",
+      "name": "Mandi Bhauddin",
+      "city_code": "MBD"
+    },
+    {
+      "id": 762,
+      "code": "R80306618",
+      "name": "Mona",
+      "city_code": "MBD"
+    },
+    {
+      "id": 763,
+      "code": "R80306620",
+      "name": "Mona Depot",
+      "city_code": "MBD"
+    },
+    {
+      "id": 955,
+      "code": "R80302481",
+      "name": "Wasu",
+      "city_code": "MBD"
+    },
+    {
+      "id": 555,
+      "code": "R80302719",
+      "name": "Khanqah Dogran",
+      "city_code": "SRA"
+    },
+    {
+      "id": 720,
+      "code": "R80302426",
+      "name": "Mandi Faiz Abad",
+      "city_code": "SRA"
+    },
+    {
+      "id": 1025,
+      "code": "R80302625",
+      "name": "Sheikhupura",
+      "city_code": "SRA"
+    },
+    {
+      "id": 1026,
+      "code": "R80302596",
+      "name": "Sheikhupura - Farooqabad",
+      "city_code": "SRA"
+    },
+    {
+      "id": 722,
+      "code": "R80302941",
+      "name": "Mangla",
+      "city_code": "MGL"
+    },
+    {
+      "id": 1066,
+      "code": "F0008",
+      "name": "MANKERA",
+      "city_code": "MKR"
+    },
+    {
+      "id": 364,
+      "code": "R80302301",
+      "name": "Gujjar Garhi",
+      "city_code": "MDN"
+    },
+    {
+      "id": 441,
+      "code": "R80302298",
+      "name": "Jalala",
+      "city_code": "MDN"
+    },
+    {
+      "id": 445,
+      "code": "R80302361",
+      "name": "Jamal Garhi",
+      "city_code": "MDN"
+    },
+    {
+      "id": 560,
+      "code": "R80302487",
+      "name": "Khawaja Gunj",
+      "city_code": "MDN"
+    },
+    {
+      "id": 564,
+      "code": "R80302268",
+      "name": "Khushhal Kot",
+      "city_code": "MDN"
+    },
+    {
+      "id": 288,
+      "code": "R80302319",
+      "name": "Bala Garhi",
+      "city_code": "MDN"
+    },
+    {
+      "id": 727,
+      "code": "R80302336",
+      "name": "Mardan",
+      "city_code": "MDN"
+    },
+    {
+      "id": 734,
+      "code": "R80302276",
+      "name": "Mayyar",
+      "city_code": "MDN"
+    },
+    {
+      "id": 958,
+      "code": "R80302322",
+      "name": "Rashakai",
+      "city_code": "MDN"
+    },
+    {
+      "id": 959,
+      "code": "R80302335",
+      "name": "Shirin Kotay",
+      "city_code": "MDN"
+    },
+    {
+      "id": 960,
+      "code": "R80302281",
+      "name": "Toru",
+      "city_code": "MDN"
+    },
+    {
+      "id": 730,
+      "code": "R80302979",
+      "name": "Mastung",
+      "city_code": "MTG"
+    },
+    {
+      "id": 731,
+      "code": "R80302925",
+      "name": "Matiari",
+      "city_code": "MRI"
+    },
+    {
+      "id": 732,
+      "code": "R80302827",
+      "name": "Matli",
+      "city_code": "MTI"
+    },
+    {
+      "id": 735,
+      "code": "R80302824",
+      "name": "Mehar",
+      "city_code": "MHR"
+    },
+    {
+      "id": 376,
+      "code": "R80302318",
+      "name": "Gurmani",
+      "city_code": "MKT"
+    },
+    {
+      "id": 736,
+      "code": "R80302663",
+      "name": "Mehmood Kot",
+      "city_code": "MKT"
+    },
+    {
+      "id": 961,
+      "code": "R80302520",
+      "name": "Qasba Gujrat",
+      "city_code": "MKT"
+    },
+    {
+      "id": 168,
+      "code": "R80302818",
+      "name": "Halani",
+      "city_code": "MRP"
+    },
+    {
+      "id": 738,
+      "code": "R80302506",
+      "name": "Mehrabad",
+      "city_code": "MRP"
+    },
+    {
+      "id": 739,
+      "code": "R80302880",
+      "name": "Mehrabpur",
+      "city_code": "MRP"
+    },
+    {
+      "id": 741,
+      "code": "RPK34",
+      "name": "Mian Channu",
+      "city_code": "MCN"
+    },
+    {
+      "id": 956,
+      "code": "R80302771",
+      "name": "Tulamba",
+      "city_code": "MCN"
+    },
+    {
+      "id": 957,
+      "code": "R80302710",
+      "name": "Vanjari",
+      "city_code": "MCN"
+    },
+    {
+      "id": 742,
+      "code": "R80302657",
+      "name": "Miani",
+      "city_code": "DAM"
+    },
+    {
+      "id": 470,
+      "code": "R80302436",
+      "name": "Kamar Mushani",
+      "city_code": "MWI"
+    },
+    {
+      "id": 1108,
+      "code": "F0074",
+      "name": "Wan Bachran",
+      "city_code": "MWI"
+    },
+    {
+      "id": 743,
+      "code": "R80302662",
+      "name": "Mianwali",
+      "city_code": "MWI"
+    },
+    {
+      "id": 744,
+      "code": "R80302768",
+      "name": "Minchinabad",
+      "city_code": "MHD"
+    },
+    {
+      "id": 724,
+      "code": "R80302299",
+      "name": "Mangora",
+      "city_code": "MGA"
+    },
+    {
+      "id": 311,
+      "code": "R80302311",
+      "name": "Char Bagh",
+      "city_code": "SWT"
+    },
+    {
+      "id": 312,
+      "code": "R80302309",
+      "name": "Charbaagh",
+      "city_code": "SWT"
+    },
+    {
+      "id": 374,
+      "code": "R80302269",
+      "name": "Gumbad Maria",
+      "city_code": "SWT"
+    },
+    {
+      "id": 438,
+      "code": "R80302381",
+      "name": "Islampur",
+      "city_code": "SWT"
+    },
+    {
+      "id": 272,
+      "code": "R80302302",
+      "name": "Aboha",
+      "city_code": "SWT"
+    },
+    {
+      "id": 276,
+      "code": "R80302314",
+      "name": "Aman Kot",
+      "city_code": "SWT"
+    },
+    {
+      "id": 721,
+      "code": "R80302356",
+      "name": "Mandian",
+      "city_code": "SWT"
+    },
+    {
+      "id": 723,
+      "code": "R80302354",
+      "name": "Manglawar",
+      "city_code": "SWT"
+    },
+    {
+      "id": 726,
+      "code": "R80302316",
+      "name": "Manyar",
+      "city_code": "SWT"
+    },
+    {
+      "id": 728,
+      "code": "R80302277",
+      "name": "Marghazar",
+      "city_code": "SWT"
+    },
+    {
+      "id": 733,
+      "code": "R80302347",
+      "name": "Matta",
+      "city_code": "SWT"
+    },
+    {
+      "id": 745,
+      "code": "R80302375",
+      "name": "Mingora",
+      "city_code": "SWT"
+    },
+    {
+      "id": 876,
+      "code": "R80302678",
+      "name": "Rahimabad",
+      "city_code": "SWT"
+    },
+    {
+      "id": 974,
+      "code": "R80302634",
+      "name": "Puran",
+      "city_code": "SWT"
+    },
+    {
+      "id": 1032,
+      "code": "R80302300",
+      "name": "Panr",
+      "city_code": "SWT"
+    },
+    {
+      "id": 1033,
+      "code": "RPK59",
+      "name": "Saidu Sharif",
+      "city_code": "SWT"
+    },
+    {
+      "id": 1034,
+      "code": "R80302337",
+      "name": "Sangota",
+      "city_code": "SWT"
+    },
+    {
+      "id": 1035,
+      "code": "R80302372",
+      "name": "Shagai",
+      "city_code": "SWT"
+    },
+    {
+      "id": 746,
+      "code": "R80302985",
+      "name": "Miran Shah",
+      "city_code": "MNH"
+    },
+    {
+      "id": 748,
+      "code": "R80302815",
+      "name": "Mirokhan",
+      "city_code": "MRK"
+    },
+    {
+      "id": 306,
+      "code": "R80302587",
+      "name": "Bindi",
+      "city_code": "QML"
+    },
+    {
+      "id": 314,
+      "code": "R80302681",
+      "name": "Chechian",
+      "city_code": "QML"
+    },
+    {
+      "id": 436,
+      "code": "R80302948",
+      "name": "Islamgarh",
+      "city_code": "QML"
+    },
+    {
+      "id": 450,
+      "code": "R80302947",
+      "name": "Jandala",
+      "city_code": "QML"
+    },
+    {
+      "id": 468,
+      "code": "R80302944",
+      "name": "Kalyal",
+      "city_code": "QML"
+    },
+    {
+      "id": 293,
+      "code": "R80302559",
+      "name": "Barjah",
+      "city_code": "QML"
+    },
+    {
+      "id": 751,
+      "code": "R80302843",
+      "name": "Mirpur Khas",
+      "city_code": "MPK"
+    },
+    {
+      "id": 752,
+      "code": "R6087709",
+      "name": "Mirpur Sakro",
+      "city_code": "MSO"
+    },
+    {
+      "id": 758,
+      "code": "R6109508",
+      "name": "Mithi",
+      "city_code": "MIT"
+    },
+    {
+      "id": 1101,
+      "code": "F0060",
+      "name": "Mor Kunda",
+      "city_code": "MOK"
+    },
+    {
+      "id": 756,
+      "code": "R80302951",
+      "name": "Mithani",
+      "city_code": "MRO"
+    },
+    {
+      "id": 765,
+      "code": "R80302819",
+      "name": "Moro",
+      "city_code": "MRO"
+    },
+    {
+      "id": 767,
+      "code": "R80302485",
+      "name": "Mubarakpur",
+      "city_code": "MMP"
+    },
+    {
+      "id": 768,
+      "code": "R80302459",
+      "name": "Muhammadpur",
+      "city_code": "UMR"
+    },
+    {
+      "id": 769,
+      "code": "RPK5767",
+      "name": "Multan - Band Bosan Road",
+      "city_code": "MUX"
+    },
+    {
+      "id": 770,
+      "code": "RPK5769",
+      "name": "Multan - Basti Nawabpur",
+      "city_code": "MUX"
+    },
+    {
+      "id": 771,
+      "code": "RPK5761",
+      "name": "Multan - Basti Qadirpur",
+      "city_code": "MUX"
+    },
+    {
+      "id": 772,
+      "code": "RPK5760",
+      "name": "Multan - Cantonment",
+      "city_code": "MUX"
+    },
+    {
+      "id": 773,
+      "code": "R80302795",
+      "name": "Multan - Gulgasht",
+      "city_code": "MUX"
+    },
+    {
+      "id": 774,
+      "code": "RPK5789",
+      "name": "Multan - Inner City",
+      "city_code": "MUX"
+    },
+    {
+      "id": 776,
+      "code": "RPK5778",
+      "name": "Multan - Khanewal Road",
+      "city_code": "MUX"
+    },
+    {
+      "id": 777,
+      "code": "RPK5777",
+      "name": "Multan - MDA",
+      "city_code": "MUX"
+    },
+    {
+      "id": 778,
+      "code": "RPK5783",
+      "name": "Multan - Mumtazabad",
+      "city_code": "MUX"
+    },
+    {
+      "id": 779,
+      "code": "RPK5792",
+      "name": "Multan - Muzaffargarh Bypass",
+      "city_code": "MUX"
+    },
+    {
+      "id": 780,
+      "code": "RPK5759",
+      "name": "Multan - New Multan",
+      "city_code": "MUX"
+    },
+    {
+      "id": 781,
+      "code": "RPK5790",
+      "name": "Multan - Northern Bypass",
+      "city_code": "MUX"
+    },
+    {
+      "id": 782,
+      "code": "RPK5758",
+      "name": "Multan - Shershah",
+      "city_code": "MUX"
+    },
+    {
+      "id": 783,
+      "code": "RPK5755",
+      "name": "Multan - Vehari Chowk",
+      "city_code": "MUX"
+    },
+    {
+      "id": 784,
+      "code": "RPK5770",
+      "name": "Multan - Vehari Road",
+      "city_code": "MUX"
+    },
+    {
+      "id": 963,
+      "code": "R80302780",
+      "name": "Nawab Pur",
+      "city_code": "MUX"
+    },
+    {
+      "id": 964,
+      "code": "R80302417",
+      "name": "Qasim Bela",
+      "city_code": "MUX"
+    },
+    {
+      "id": 965,
+      "code": "R80302553",
+      "name": "Qasim Pur",
+      "city_code": "MUX"
+    },
+    {
+      "id": 787,
+      "code": "RPK47",
+      "name": "Murid Wala",
+      "city_code": "IAA"
+    },
+    {
+      "id": 231,
+      "code": "R80316272",
+      "name": "Muridke",
+      "city_code": "MRY"
+    },
+    {
+      "id": 797,
+      "code": "R80302776",
+      "name": "Narang Mandi",
+      "city_code": "MRY"
+    },
+    {
+      "id": 931,
+      "code": "R80302953",
+      "name": "Zia Abad",
+      "city_code": "MRY"
+    },
+    {
+      "id": 304,
+      "code": "R80302601",
+      "name": "Bhurban",
+      "city_code": "REE"
+    },
+    {
+      "id": 356,
+      "code": "R80302791",
+      "name": "Gharial",
+      "city_code": "REE"
+    },
+    {
+      "id": 292,
+      "code": "R80302751",
+      "name": "Barian",
+      "city_code": "REE"
+    },
+    {
+      "id": 707,
+      "code": "R80302628",
+      "name": "Lower Barian",
+      "city_code": "REE"
+    },
+    {
+      "id": 708,
+      "code": "R80302554",
+      "name": "Lower Topa",
+      "city_code": "REE"
+    },
+    {
+      "id": 788,
+      "code": "R80302604",
+      "name": "Murree",
+      "city_code": "REE"
+    },
+    {
+      "id": 991,
+      "code": "R80302797",
+      "name": "Upper Topa",
+      "city_code": "REE"
+    },
+    {
+      "id": 789,
+      "code": "R80302972",
+      "name": "Muslim Bagh",
+      "city_code": "LMB"
+    },
+    {
+      "id": 280,
+      "code": "RPK54",
+      "name": "Athmuqam",
+      "city_code": "MAK"
+    },
+    {
+      "id": 792,
+      "code": "R80302937",
+      "name": "Muzafarabad",
+      "city_code": "MAK"
+    },
+    {
+      "id": 793,
+      "code": "R80302667",
+      "name": "Muzaffargarh",
+      "city_code": "MAK"
+    },
+    {
+      "id": 274,
+      "code": "R80302675",
+      "name": "Ahsanpur",
+      "city_code": "MZG"
+    },
+    {
+      "id": 967,
+      "code": "R80302794",
+      "name": "Shah Nal",
+      "city_code": "MZG"
+    },
+    {
+      "id": 796,
+      "code": "R80302677",
+      "name": "Nankana Sahib",
+      "city_code": "NKS"
+    },
+    {
+      "id": 451,
+      "code": "R80302434",
+      "name": "Jassar",
+      "city_code": "NRL"
+    },
+    {
+      "id": 233,
+      "code": "R80302711",
+      "name": "Narowal",
+      "city_code": "NRL"
+    },
+    {
+      "id": 283,
+      "code": "R80302644",
+      "name": "Baddomalhi",
+      "city_code": "NRL"
+    },
+    {
+      "id": 970,
+      "code": "R80302595",
+      "name": "Qila Kalar Wala",
+      "city_code": "NRL"
+    },
+    {
+      "id": 819,
+      "code": "R80302884",
+      "name": "Tando Adam",
+      "city_code": "TDM"
+    },
+    {
+      "id": 800,
+      "code": "R80302785",
+      "name": "Naudero",
+      "city_code": "NDR"
+    },
+    {
+      "id": 801,
+      "code": "R80302869",
+      "name": "Naudero Larkhana",
+      "city_code": "NDR"
+    },
+    {
+      "id": 1097,
+      "code": "F0054",
+      "name": "Naushera",
+      "city_code": "ERA"
+    },
+    {
+      "id": 443,
+      "code": "R80302865",
+      "name": "Jam",
+      "city_code": "WNS"
+    },
+    {
+      "id": 94,
+      "code": "R80302917",
+      "name": "Darya Khan Mari",
+      "city_code": "WNS"
+    },
+    {
+      "id": 289,
+      "code": "R80302924",
+      "name": "Bandhi",
+      "city_code": "WNS"
+    },
+    {
+      "id": 803,
+      "code": "R80302881",
+      "name": "Nawabshah",
+      "city_code": "WNS"
+    },
+    {
+      "id": 815,
+      "code": "R80302887",
+      "name": "Shaheed Benazirabad",
+      "city_code": "WNS"
+    },
+    {
+      "id": 1096,
+      "code": "F0053",
+      "name": "NAYA LAHORE",
+      "city_code": "YAL"
+    },
+    {
+      "id": 804,
+      "code": "R80302882",
+      "name": "Nooriabad",
+      "city_code": "NUD"
+    },
+    {
+      "id": 828,
+      "code": "R80302968",
+      "name": "Nushki",
+      "city_code": "NOK"
+    },
+    {
+      "id": 802,
+      "code": "R80307357",
+      "name": "Naushero Feroze",
+      "city_code": "NFZ"
+    },
+    {
+      "id": 452,
+      "code": "R80302362",
+      "name": "Jehangira",
+      "city_code": "NOW"
+    },
+    {
+      "id": 547,
+      "code": "R80302339",
+      "name": "Khairabad",
+      "city_code": "NOW"
+    },
+    {
+      "id": 589,
+      "code": "R80302291",
+      "name": "Kund",
+      "city_code": "NOW"
+    },
+    {
+      "id": 826,
+      "code": "R80302290",
+      "name": "Nowshera",
+      "city_code": "NOW"
+    },
+    {
+      "id": 968,
+      "code": "R80302390",
+      "name": "Pir Piay",
+      "city_code": "NOW"
+    },
+    {
+      "id": 827,
+      "code": "R80302484",
+      "name": "Nowshera Virkan",
+      "city_code": "NWV"
+    },
+    {
+      "id": 1098,
+      "code": "F0056",
+      "name": "Nurpur Thal",
+      "city_code": "NPT"
+    },
+    {
+      "id": 830,
+      "code": "RPK1707",
+      "name": "Okara - Central City",
+      "city_code": "OKR"
+    },
+    {
+      "id": 831,
+      "code": "RPK1727",
+      "name": "Okara - Depalpur",
+      "city_code": "OKR"
+    },
+    {
+      "id": 832,
+      "code": "RPK1734",
+      "name": "Okara - Govt Colony",
+      "city_code": "OKR"
+    },
+    {
+      "id": 833,
+      "code": "RPK1647",
+      "name": "Okara - Jawad Avenue",
+      "city_code": "OKR"
+    },
+    {
+      "id": 834,
+      "code": "RPK1644",
+      "name": "Okara - Renala",
+      "city_code": "OKR"
+    },
+    {
+      "id": 829,
+      "code": "RPK1659",
+      "name": "Okara - Cantt",
+      "city_code": "OKC"
+    },
+    {
+      "id": 971,
+      "code": "R80302323",
+      "name": "Pabbi",
+      "city_code": "PBI"
+    },
+    {
+      "id": 805,
+      "code": "R80302930",
+      "name": "Pacca Chang",
+      "city_code": "PCC"
+    },
+    {
+      "id": 1068,
+      "code": "F0018",
+      "name": "Pahar pur",
+      "city_code": "PHP"
+    },
+    {
+      "id": 1105,
+      "code": "F0066",
+      "name": "PAIKHEL",
+      "city_code": "IPK"
+    },
+    {
+      "id": 760,
+      "code": "R80302639",
+      "name": "Moch",
+      "city_code": "IPK"
+    },
+    {
+      "id": 1087,
+      "code": "F0038",
+      "name": "PAINSRA",
+      "city_code": "PAN"
+    },
+    {
+      "id": 307,
+      "code": "R80302501",
+      "name": "Bonga Hayyat",
+      "city_code": "PPS"
+    },
+    {
+      "id": 835,
+      "code": "R80302607",
+      "name": "Pak Pattan",
+      "city_code": "PPS"
+    },
+    {
+      "id": 982,
+      "code": "R80302648",
+      "name": "Pir Ghani",
+      "city_code": "PPS"
+    },
+    {
+      "id": 985,
+      "code": "R80302946",
+      "name": "Pallandri",
+      "city_code": "PUL"
+    },
+    {
+      "id": 1067,
+      "code": "F0010",
+      "name": "PANJGIRAN",
+      "city_code": "PGN"
+    },
+    {
+      "id": 241,
+      "code": "R80302975",
+      "name": "Panj Gur",
+      "city_code": "PJG"
+    },
+    {
+      "id": 836,
+      "code": "R80302897",
+      "name": "Panno Aqil",
+      "city_code": "PNQ"
+    },
+    {
+      "id": 838,
+      "code": "R80302969",
+      "name": "Pasni",
+      "city_code": "PSN"
+    },
+    {
+      "id": 839,
+      "code": "R80302622",
+      "name": "Pasroor",
+      "city_code": "PRR"
+    },
+    {
+      "id": 840,
+      "code": "RPK40",
+      "name": "Pattoki",
+      "city_code": "PTI"
+    },
+    {
+      "id": 984,
+      "code": "R80302698",
+      "name": "Talwandi",
+      "city_code": "PTI"
+    },
+    {
+      "id": 310,
+      "code": "R80302333",
+      "name": "Chamkani",
+      "city_code": "PEW"
+    },
+    {
+      "id": 344,
+      "code": "R80302609",
+      "name": "Duranpur",
+      "city_code": "PEW"
+    },
+    {
+      "id": 448,
+      "code": "RPK5773",
+      "name": "Jamrud - Khyber Agency",
+      "city_code": "PEW"
+    },
+    {
+      "id": 585,
+      "code": "R80302346",
+      "name": "Kotla Mohsin Khan",
+      "city_code": "PEW"
+    },
+    {
+      "id": 165,
+      "code": "R80302379",
+      "name": "Gumbat",
+      "city_code": "PEW"
+    },
+    {
+      "id": 271,
+      "code": "R80302369",
+      "name": "Abdara",
+      "city_code": "PEW"
+    },
+    {
+      "id": 287,
+      "code": "R80302345",
+      "name": "Bakshi Pul",
+      "city_code": "PEW"
+    },
+    {
+      "id": 291,
+      "code": "RPK5785",
+      "name": "Bara - Khyber Agency",
+      "city_code": "PEW"
+    },
+    {
+      "id": 841,
+      "code": "RPK5800",
+      "name": "Peshawar - Cantt",
+      "city_code": "PEW"
+    },
+    {
+      "id": 843,
+      "code": "RPK5799",
+      "name": "Peshawar - Dalazak Road",
+      "city_code": "PEW"
+    },
+    {
+      "id": 844,
+      "code": "RPK5771",
+      "name": "Peshawar - GT Road Area",
+      "city_code": "PEW"
+    },
+    {
+      "id": 845,
+      "code": "RPK5791",
+      "name": "Peshawar - Hayatabad",
+      "city_code": "PEW"
+    },
+    {
+      "id": 846,
+      "code": "RPK5798",
+      "name": "Peshawar - Kohat Road",
+      "city_code": "PEW"
+    },
+    {
+      "id": 847,
+      "code": "RPK5772",
+      "name": "Peshawar - Nasir Bagh",
+      "city_code": "PEW"
+    },
+    {
+      "id": 848,
+      "code": "RPK5784",
+      "name": "Peshawar - Old City",
+      "city_code": "PEW"
+    },
+    {
+      "id": 849,
+      "code": "RPK5774",
+      "name": "Peshawar - Pajjaggi Road",
+      "city_code": "PEW"
+    },
+    {
+      "id": 850,
+      "code": "RPK5802",
+      "name": "Peshawar - Ring Road",
+      "city_code": "PEW"
+    },
+    {
+      "id": 851,
+      "code": "RPK5756",
+      "name": "Peshawar - Saddar",
+      "city_code": "PEW"
+    },
+    {
+      "id": 852,
+      "code": "R80302358",
+      "name": "Peshawar - University Road",
+      "city_code": "PEW"
+    },
+    {
+      "id": 853,
+      "code": "RPK5795",
+      "name": "Peshawar - Warsak Road",
+      "city_code": "PEW"
+    },
+    {
+      "id": 975,
+      "code": "R80302317",
+      "name": "Pir Bala",
+      "city_code": "PEW"
+    },
+    {
+      "id": 976,
+      "code": "R80302387",
+      "name": "Sathi Town",
+      "city_code": "PEW"
+    },
+    {
+      "id": 977,
+      "code": "R80302273",
+      "name": "Waligram",
+      "city_code": "PEW"
+    },
+    {
+      "id": 978,
+      "code": "R80302367",
+      "name": "Wazir Bagh",
+      "city_code": "PEW"
+    },
+    {
+      "id": 872,
+      "code": "R80302579",
+      "name": "Phalia",
+      "city_code": "PHL"
+    },
+    {
+      "id": 1124,
+      "code": "F0108",
+      "name": "Phalor",
+      "city_code": "PHR"
+    },
+    {
+      "id": 873,
+      "code": "R80302728",
+      "name": "Phularwan",
+      "city_code": "UWU"
+    },
+    {
+      "id": 1091,
+      "code": "F0045",
+      "name": "Pindi Bhatian",
+      "city_code": "PBN"
+    },
+    {
+      "id": 972,
+      "code": "RPK11",
+      "name": "Pindi Bhattian",
+      "city_code": "PBN"
+    },
+    {
+      "id": 979,
+      "code": "R80302716",
+      "name": "Pind Gheb",
+      "city_code": "PGB"
+    },
+    {
+      "id": 980,
+      "code": "R80302584",
+      "name": "Pindi Gheb",
+      "city_code": "PGB"
+    },
+    {
+      "id": 1109,
+      "code": "F0075",
+      "name": "Piplan",
+      "city_code": "PLN"
+    },
+    {
+      "id": 983,
+      "code": "R80302831",
+      "name": "Pir Jo Goth",
+      "city_code": "PRG"
+    },
+    {
+      "id": 874,
+      "code": "R80302577",
+      "name": "Pir Mahal",
+      "city_code": "PML"
+    },
+    {
+      "id": 981,
+      "code": "R80302673",
+      "name": "Pirmahal",
+      "city_code": "PML"
+    },
+    {
+      "id": 854,
+      "code": "R80302981",
+      "name": "Pishin",
+      "city_code": "NPI"
+    },
+    {
+      "id": 987,
+      "code": "R80302312",
+      "name": "Qaboola Sharif",
+      "city_code": "QBL"
+    },
+    {
+      "id": 989,
+      "code": "R80302720",
+      "name": "Qadir Pur Rawan",
+      "city_code": "QPR"
+    },
+    {
+      "id": 1094,
+      "code": "F0051",
+      "name": "QAIM BHARWANA",
+      "city_code": "BQA"
+    },
+    {
+      "id": 986,
+      "code": "R80302389",
+      "name": "Qalander Abad",
+      "city_code": "QAL"
+    },
+    {
+      "id": 807,
+      "code": "R80302871",
+      "name": "Qazi Ahmad",
+      "city_code": "QAZ"
+    },
+    {
+      "id": 856,
+      "code": "R80302792",
+      "name": "Qila Daidar Singh Town",
+      "city_code": "QDS"
+    },
+    {
+      "id": 857,
+      "code": "R80302746",
+      "name": "Qila Didar Singh",
+      "city_code": "QDS"
+    },
+    {
+      "id": 875,
+      "code": "RPK36",
+      "name": "Qila Saifullah",
+      "city_code": "KSF"
+    },
+    {
+      "id": 858,
+      "code": "R80302957",
+      "name": "Quetta - Airport",
+      "city_code": "UET"
+    },
+    {
+      "id": 859,
+      "code": "RPK1652",
+      "name": "Quetta - Alamdar Road",
+      "city_code": "UET"
+    },
+    {
+      "id": 860,
+      "code": "RPK1743",
+      "name": "Quetta - Bazaar Area",
+      "city_code": "UET"
+    },
+    {
+      "id": 861,
+      "code": "RPK1685",
+      "name": "Quetta - Brewery Road",
+      "city_code": "UET"
+    },
+    {
+      "id": 862,
+      "code": "RPK1728",
+      "name": "Quetta - Cantt",
+      "city_code": "UET"
+    },
+    {
+      "id": 863,
+      "code": "RPK1696",
+      "name": "Quetta - Nawakilli",
+      "city_code": "UET"
+    },
+    {
+      "id": 864,
+      "code": "RPK1654",
+      "name": "Quetta - Pishin Stop",
+      "city_code": "UET"
+    },
+    {
+      "id": 865,
+      "code": "RPK1669",
+      "name": "Quetta - Samungli",
+      "city_code": "UET"
+    },
+    {
+      "id": 866,
+      "code": "RPK1634",
+      "name": "Quetta - Sariab",
+      "city_code": "UET"
+    },
+    {
+      "id": 867,
+      "code": "RPK1680",
+      "name": "Quetta - Sattlite Town",
+      "city_code": "UET"
+    },
+    {
+      "id": 868,
+      "code": "RPK1725",
+      "name": "Quetta - Zarghoon Road",
+      "city_code": "UET"
+    },
+    {
+      "id": 923,
+      "code": "RPK1642",
+      "name": "Taftan",
+      "city_code": "UET"
+    },
+    {
+      "id": 808,
+      "code": "R80302841",
+      "name": "Radhan",
+      "city_code": "RDN"
+    },
+    {
+      "id": 330,
+      "code": "R80302444",
+      "name": "Dera Faridi",
+      "city_code": "RYK"
+    },
+    {
+      "id": 581,
+      "code": "R80302732",
+      "name": "Kot Qutab",
+      "city_code": "RYK"
+    },
+    {
+      "id": 278,
+      "code": "R80302749",
+      "name": "Amin Garh",
+      "city_code": "RYK"
+    },
+    {
+      "id": 877,
+      "code": "R80302597",
+      "name": "Raiwind",
+      "city_code": "RND"
+    },
+    {
+      "id": 879,
+      "code": "R80302537",
+      "name": "Rajana",
+      "city_code": "RAJ"
+    },
+    {
+      "id": 740,
+      "code": "R80302614",
+      "name": "Mehray Wala",
+      "city_code": "RJP"
+    },
+    {
+      "id": 880,
+      "code": "R80302685",
+      "name": "Rajanpur",
+      "city_code": "RJP"
+    },
+    {
+      "id": 993,
+      "code": "R80302612",
+      "name": "Rani Pur",
+      "city_code": "RNI"
+    },
+    {
+      "id": 994,
+      "code": "R80302898",
+      "name": "Ranipur",
+      "city_code": "RNI"
+    },
+    {
+      "id": 995,
+      "code": "R80302803",
+      "name": "Sobho Dero",
+      "city_code": "RNI"
+    },
+    {
+      "id": 290,
+      "code": "R80302875",
+      "name": "Bangul Dero",
+      "city_code": "RTD"
+    },
+    {
+      "id": 997,
+      "code": "R80302896",
+      "name": "Ratodero",
+      "city_code": "RTD"
+    },
+    {
+      "id": 882,
+      "code": "R80302945",
+      "name": "Rawalakot",
+      "city_code": "RKT"
+    },
+    {
+      "id": 992,
+      "code": "R80302303",
+      "name": "Rawlakot",
+      "city_code": "RKT"
+    },
+    {
+      "id": 347,
+      "code": "R80302393",
+      "name": "Faizabad",
+      "city_code": "RWP"
+    },
+    {
+      "id": 715,
+      "code": "R80302278",
+      "name": "Malikabad",
+      "city_code": "RWP"
+    },
+    {
+      "id": 883,
+      "code": "R80302788",
+      "name": "Rawalpindi - Adyala",
+      "city_code": "RWP"
+    },
+    {
+      "id": 884,
+      "code": "R80302653",
+      "name": "Rawalpindi - Airport Society",
+      "city_code": "RWP"
+    },
+    {
+      "id": 885,
+      "code": "R80302494",
+      "name": "Rawalpindi - Bahria Town",
+      "city_code": "RWP"
+    },
+    {
+      "id": 886,
+      "code": "R80302665",
+      "name": "Rawalpindi - CBR Town",
+      "city_code": "RWP"
+    },
+    {
+      "id": 887,
+      "code": "R80302536",
+      "name": "Rawalpindi - Chaklala",
+      "city_code": "RWP"
+    },
+    {
+      "id": 888,
+      "code": "R80302619",
+      "name": "Rawalpindi - DHA",
+      "city_code": "RWP"
+    },
+    {
+      "id": 889,
+      "code": "R80302707",
+      "name": "Rawalpindi - Dhamyal",
+      "city_code": "RWP"
+    },
+    {
+      "id": 890,
+      "code": "R80302505",
+      "name": "Rawalpindi - Dhok Gangal",
+      "city_code": "RWP"
+    },
+    {
+      "id": 891,
+      "code": "R80302466",
+      "name": "Rawalpindi - Dhok Kala Khan",
+      "city_code": "RWP"
+    },
+    {
+      "id": 892,
+      "code": "R80302514",
+      "name": "Rawalpindi - Fizaiya Colony",
+      "city_code": "RWP"
+    },
+    {
+      "id": 893,
+      "code": "R80302733",
+      "name": "Rawalpindi - Gulberg Green",
+      "city_code": "RWP"
+    },
+    {
+      "id": 894,
+      "code": "R80302483",
+      "name": "Rawalpindi - Gulberg Residencia",
+      "city_code": "RWP"
+    },
+    {
+      "id": 895,
+      "code": "R80302449",
+      "name": "Rawalpindi - Gulraiz",
+      "city_code": "RWP"
+    },
+    {
+      "id": 896,
+      "code": "RPK1749",
+      "name": "Rawalpindi - Humak",
+      "city_code": "RWP"
+    },
+    {
+      "id": 897,
+      "code": "RPK1740",
+      "name": "Rawalpindi - IJP Road",
+      "city_code": "RWP"
+    },
+    {
+      "id": 898,
+      "code": "RPK1640",
+      "name": "Rawalpindi - Jinnah Garden",
+      "city_code": "RWP"
+    },
+    {
+      "id": 899,
+      "code": "RPK1633",
+      "name": "Rawalpindi - Khanna",
+      "city_code": "RWP"
+    },
+    {
+      "id": 900,
+      "code": "RPK1706",
+      "name": "Rawalpindi - Kuri Road",
+      "city_code": "RWP"
+    },
+    {
+      "id": 901,
+      "code": "RPK1744",
+      "name": "Rawalpindi - Lalkurti",
+      "city_code": "RWP"
+    },
+    {
+      "id": 902,
+      "code": "RPK1693",
+      "name": "Rawalpindi - Lohi Bhair",
+      "city_code": "RWP"
+    },
+    {
+      "id": 903,
+      "code": "RPK1666",
+      "name": "Rawalpindi - Media Town",
+      "city_code": "RWP"
+    },
+    {
+      "id": 904,
+      "code": "RPK1732",
+      "name": "Rawalpindi - Model Town",
+      "city_code": "RWP"
+    },
+    {
+      "id": 905,
+      "code": "R80302432",
+      "name": "Rawalpindi - Muree Road",
+      "city_code": "RWP"
+    },
+    {
+      "id": 906,
+      "code": "RPK1638",
+      "name": "Rawalpindi - Muslim Town",
+      "city_code": "RWP"
+    },
+    {
+      "id": 907,
+      "code": "RPK1720",
+      "name": "Rawalpindi - National Police Foundation",
+      "city_code": "RWP"
+    },
+    {
+      "id": 908,
+      "code": "RPK1702",
+      "name": "Rawalpindi - Naval Anchorage",
+      "city_code": "RWP"
+    },
+    {
+      "id": 909,
+      "code": "RPK1643",
+      "name": "Rawalpindi - Pakistan Town",
+      "city_code": "RWP"
+    },
+    {
+      "id": 910,
+      "code": "RPK1691",
+      "name": "Rawalpindi - Peshawar Road",
+      "city_code": "RWP"
+    },
+    {
+      "id": 911,
+      "code": "RPK1658",
+      "name": "Rawalpindi - PWD",
+      "city_code": "RWP"
+    },
+    {
+      "id": 912,
+      "code": "RPK1641",
+      "name": "Rawalpindi - Raja Bazar",
+      "city_code": "RWP"
+    },
+    {
+      "id": 914,
+      "code": "RPK1694",
+      "name": "Rawalpindi - Saddar",
+      "city_code": "RWP"
+    },
+    {
+      "id": 915,
+      "code": "R80302774",
+      "name": "Rawalpindi - Sadiqabad",
+      "city_code": "RWP"
+    },
+    {
+      "id": 916,
+      "code": "R80302725",
+      "name": "Rawalpindi - Satellite Town",
+      "city_code": "RWP"
+    },
+    {
+      "id": 917,
+      "code": "RPK1684",
+      "name": "Rawalpindi - Soan Garden",
+      "city_code": "RWP"
+    },
+    {
+      "id": 918,
+      "code": "RPK1712",
+      "name": "Rawalpindi - Tench",
+      "city_code": "RWP"
+    },
+    {
+      "id": 913,
+      "code": "R80302741",
+      "name": "Rawalpindi - Rawat",
+      "city_code": "RVT"
+    },
+    {
+      "id": 1095,
+      "code": "F0052",
+      "name": "RODO SULTAN",
+      "city_code": "RSN"
+    },
+    {
+      "id": 757,
+      "code": "R80302495",
+      "name": "Mithankot Chachran Sharif",
+      "city_code": "SKZ"
+    },
+    {
+      "id": 1015,
+      "code": "R80302849",
+      "name": "Rohri",
+      "city_code": "SKZ"
+    },
+    {
+      "id": 303,
+      "code": "R80302470",
+      "name": "Bhung",
+      "city_code": "SDA"
+    },
+    {
+      "id": 253,
+      "code": "R80302799",
+      "name": "Sadiqabad",
+      "city_code": "SDA"
+    },
+    {
+      "id": 301,
+      "code": "R80302480",
+      "name": "Bhong",
+      "city_code": "SDA"
+    },
+    {
+      "id": 1029,
+      "code": "R80302392",
+      "name": "Qadir Abad",
+      "city_code": "SWL"
+    },
+    {
+      "id": 1030,
+      "code": "R80302565",
+      "name": "Sahiwal",
+      "city_code": "SWL"
+    },
+    {
+      "id": 1031,
+      "code": "R80302714",
+      "name": "Yousaf Wala",
+      "city_code": "SWL"
+    },
+    {
+      "id": 350,
+      "code": "R80302988",
+      "name": "Gamba Skardu",
+      "city_code": "RDU"
+    },
+    {
+      "id": 990,
+      "code": "R80302991",
+      "name": "Skardu",
+      "city_code": "RDU"
+    },
+    {
+      "id": 809,
+      "code": "R80302863",
+      "name": "Sakrand",
+      "city_code": "SAK"
+    },
+    {
+      "id": 999,
+      "code": "R80302558",
+      "name": "Shahpur Jahania",
+      "city_code": "SAK"
+    },
+    {
+      "id": 477,
+      "code": "RPK38",
+      "name": "Kanjwani",
+      "city_code": "SAM"
+    },
+    {
+      "id": 1113,
+      "code": "F0084",
+      "name": "Sumundari",
+      "city_code": "SAM"
+    },
+    {
+      "id": 1001,
+      "code": "R80302721",
+      "name": "Samundari",
+      "city_code": "SAM"
+    },
+    {
+      "id": 254,
+      "code": "R80302900",
+      "name": "Samaro",
+      "city_code": "AMO"
+    },
+    {
+      "id": 1000,
+      "code": "R80302576",
+      "name": "Sambrial",
+      "city_code": "SAL"
+    },
+    {
+      "id": 1022,
+      "code": "R80302491",
+      "name": "Sanawan",
+      "city_code": "SNW"
+    },
+    {
+      "id": 1111,
+      "code": "F0078",
+      "name": "SANDHILIAN WALI",
+      "city_code": "SND"
+    },
+    {
+      "id": 1112,
+      "code": "F0079",
+      "name": "Sandhilianwali",
+      "city_code": "SND"
+    },
+    {
+      "id": 817,
+      "code": "R80302872",
+      "name": "Singhoro",
+      "city_code": "SAN"
+    },
+    {
+      "id": 1011,
+      "code": "RPK13",
+      "name": "Sangla Hill",
+      "city_code": "SHL"
+    },
+    {
+      "id": 1012,
+      "code": "R80302265",
+      "name": "Shangla Hill",
+      "city_code": "SHL"
+    },
+    {
+      "id": 320,
+      "code": "R80306592",
+      "name": "Chota Sahiwal - Sargodha",
+      "city_code": "SGD"
+    },
+    {
+      "id": 454,
+      "code": "R80306616",
+      "name": "Jhal Chakian",
+      "city_code": "SGD"
+    },
+    {
+      "id": 299,
+      "code": "R80306596",
+      "name": "Bhagtanwala",
+      "city_code": "SGD"
+    },
+    {
+      "id": 1116,
+      "code": "F0094",
+      "name": "Sb Side",
+      "city_code": "SGD"
+    },
+    {
+      "id": 1117,
+      "code": "F0095",
+      "name": "Nb Side",
+      "city_code": "SGD"
+    },
+    {
+      "id": 1118,
+      "code": "F0096",
+      "name": "sb",
+      "city_code": "SGD"
+    },
+    {
+      "id": 1119,
+      "code": "F0097",
+      "name": "sargodah",
+      "city_code": "SGD"
+    },
+    {
+      "id": 1120,
+      "code": "F0098",
+      "name": "NB",
+      "city_code": "SGD"
+    },
+    {
+      "id": 1121,
+      "code": "F0099",
+      "name": "NB",
+      "city_code": "SGD"
+    },
+    {
+      "id": 729,
+      "code": "R80306614",
+      "name": "Mari Lak",
+      "city_code": "SGD"
+    },
+    {
+      "id": 737,
+      "code": "RPK51",
+      "name": "Mehra",
+      "city_code": "SGD"
+    },
+    {
+      "id": 753,
+      "code": "R80306604",
+      "name": "Mitha Tiwana",
+      "city_code": "SGD"
+    },
+    {
+      "id": 754,
+      "code": "R80306598",
+      "name": "Mithalak",
+      "city_code": "SGD"
+    },
+    {
+      "id": 869,
+      "code": "R80302407",
+      "name": "Sargodha",
+      "city_code": "SGD"
+    },
+    {
+      "id": 939,
+      "code": "R80306606",
+      "name": "Shahpur City",
+      "city_code": "SGD"
+    },
+    {
+      "id": 1036,
+      "code": "R80306600",
+      "name": "Shaheeenabad",
+      "city_code": "SGD"
+    },
+    {
+      "id": 812,
+      "code": "R80302832",
+      "name": "Sarhari",
+      "city_code": "IRS"
+    },
+    {
+      "id": 1088,
+      "code": "F0039",
+      "name": "SATIANA BANGLA",
+      "city_code": "SBN"
+    },
+    {
+      "id": 1089,
+      "code": "F0040",
+      "name": "TANDLIWALA",
+      "city_code": "SBN"
+    },
+    {
+      "id": 813,
+      "code": "R80302905",
+      "name": "Sehwan Sharif",
+      "city_code": "SES"
+    },
+    {
+      "id": 1027,
+      "code": "R80302272",
+      "name": "Potha",
+      "city_code": "SSA"
+    },
+    {
+      "id": 1018,
+      "code": "R80302328",
+      "name": "Sarae Norang",
+      "city_code": "SNG"
+    },
+    {
+      "id": 1023,
+      "code": "R80302380",
+      "name": "Shabqadar",
+      "city_code": "SQD"
+    },
+    {
+      "id": 855,
+      "code": "R80302829",
+      "name": "Qambar Shahdadkot",
+      "city_code": "SHH"
+    },
+    {
+      "id": 1009,
+      "code": "R80302935",
+      "name": "Shahdad Kot",
+      "city_code": "SHH"
+    },
+    {
+      "id": 814,
+      "code": "R80302806",
+      "name": "Shahdadpur",
+      "city_code": "SPR"
+    },
+    {
+      "id": 215,
+      "code": "R80302535",
+      "name": "Khurianwala",
+      "city_code": "SKT"
+    },
+    {
+      "id": 1123,
+      "code": "F0104",
+      "name": "Khurrianwala",
+      "city_code": "SKT"
+    },
+    {
+      "id": 1002,
+      "code": "R80302492",
+      "name": "Shahpur",
+      "city_code": "SAP"
+    },
+    {
+      "id": 1003,
+      "code": "R80306608",
+      "name": "Shahpur Sadar",
+      "city_code": "SAP"
+    },
+    {
+      "id": 1004,
+      "code": "R80302504",
+      "name": "Wagowal",
+      "city_code": "SAP"
+    },
+    {
+      "id": 816,
+      "code": "R80302907",
+      "name": "Shahpur Chakar",
+      "city_code": "SPC"
+    },
+    {
+      "id": 1006,
+      "code": "R80302534",
+      "name": "Noor Kot",
+      "city_code": "SGR"
+    },
+    {
+      "id": 1007,
+      "code": "RPK1704",
+      "name": "Shakar Garh",
+      "city_code": "SGR"
+    },
+    {
+      "id": 1013,
+      "code": "R80302809",
+      "name": "Shikarpur",
+      "city_code": "SIP"
+    },
+    {
+      "id": 1014,
+      "code": "R80302902",
+      "name": "Sultan Kot",
+      "city_code": "SIP"
+    },
+    {
+      "id": 1019,
+      "code": "R80302391",
+      "name": "Shinkayari",
+      "city_code": "SNK"
+    },
+    {
+      "id": 1024,
+      "code": "RPK41",
+      "name": "Shorkot",
+      "city_code": "SQT"
+    },
+    {
+      "id": 1010,
+      "code": "R80302740",
+      "name": "Shujaabad",
+      "city_code": "SHJ"
+    },
+    {
+      "id": 315,
+      "code": "R80302510",
+      "name": "Chela",
+      "city_code": "SLT"
+    },
+    {
+      "id": 318,
+      "code": "R80302542",
+      "name": "Chitti Sheikhan",
+      "city_code": "SLT"
+    },
+    {
+      "id": 326,
+      "code": "R80302777",
+      "name": "Dalowali",
+      "city_code": "SLT"
+    },
+    {
+      "id": 359,
+      "code": "R80302715",
+      "name": "Ghunike",
+      "city_code": "SLT"
+    },
+    {
+      "id": 360,
+      "code": "R80302599",
+      "name": "Gohad Pur",
+      "city_code": "SLT"
+    },
+    {
+      "id": 363,
+      "code": "R80302766",
+      "name": "Gopalpur",
+      "city_code": "SLT"
+    },
+    {
+      "id": 375,
+      "code": "R80302670",
+      "name": "Gunna",
+      "city_code": "SLT"
+    },
+    {
+      "id": 587,
+      "code": "R80302642",
+      "name": "Kotli Loharan",
+      "city_code": "SLT"
+    },
+    {
+      "id": 284,
+      "code": "R80302592",
+      "name": "Badiana",
+      "city_code": "SLT"
+    },
+    {
+      "id": 285,
+      "code": "R80302738",
+      "name": "Bagwal Awan",
+      "city_code": "SLT"
+    },
+    {
+      "id": 795,
+      "code": "R80302409",
+      "name": "Nangal",
+      "city_code": "SLT"
+    },
+    {
+      "id": 936,
+      "code": "R80302482",
+      "name": "Sialkot",
+      "city_code": "SLT"
+    },
+    {
+      "id": 1017,
+      "code": "R80302650",
+      "name": "Ugoki",
+      "city_code": "SLT"
+    },
+    {
+      "id": 1115,
+      "code": "F0093",
+      "name": "Sial More",
+      "city_code": "SMR"
+    },
+    {
+      "id": 1122,
+      "code": "F0100",
+      "name": "SialMore",
+      "city_code": "SMR"
+    },
+    {
+      "id": 1005,
+      "code": "R80302952",
+      "name": "Sibbi",
+      "city_code": "SBI"
+    },
+    {
+      "id": 1020,
+      "code": "R80302507",
+      "name": "Silanwali",
+      "city_code": "SNL"
+    },
+    {
+      "id": 1021,
+      "code": "R80306594",
+      "name": "Sillanwali",
+      "city_code": "SNL"
+    },
+    {
+      "id": 1048,
+      "code": "R80302964",
+      "name": "Sorab",
+      "city_code": "URA"
+    },
+    {
+      "id": 998,
+      "code": "R80302399",
+      "name": "Sarai Alamgir",
+      "city_code": "SAG"
+    },
+    {
+      "id": 329,
+      "code": "RPK43",
+      "name": "Dera Bugti",
+      "city_code": "SUI"
+    },
+    {
+      "id": 1028,
+      "code": "R80302955",
+      "name": "Sui",
+      "city_code": "SUI"
+    },
+    {
+      "id": 818,
+      "code": "R80302916",
+      "name": "Sujawal",
+      "city_code": "SUJ"
+    },
+    {
+      "id": 543,
+      "code": "R80302327",
+      "name": "Karnal Sher Kallay",
+      "city_code": "SWA"
+    },
+    {
+      "id": 1038,
+      "code": "R80302373",
+      "name": "Takht Bai",
+      "city_code": "TBI"
+    },
+    {
+      "id": 1040,
+      "code": "RPK7",
+      "name": "Talagang",
+      "city_code": "TLG"
+    },
+    {
+      "id": 1090,
+      "code": "F0043",
+      "name": "Satyana Bangla",
+      "city_code": "TWL"
+    },
+    {
+      "id": 1046,
+      "code": "RPK35",
+      "name": "Tandlian Wala",
+      "city_code": "TWL"
+    },
+    {
+      "id": 798,
+      "code": "R80302817",
+      "name": "Nasarpur",
+      "city_code": "TDA"
+    },
+    {
+      "id": 811,
+      "code": "R80302811",
+      "name": "Sanjar Chang",
+      "city_code": "TDA"
+    },
+    {
+      "id": 822,
+      "code": "R80302826",
+      "name": "Tando Soomro",
+      "city_code": "TDA"
+    },
+    {
+      "id": 820,
+      "code": "R80302927",
+      "name": "Tando Jam",
+      "city_code": "TDJ"
+    },
+    {
+      "id": 821,
+      "code": "R6105285",
+      "name": "Tando Muhammad Khan",
+      "city_code": "TMK"
+    },
+    {
+      "id": 881,
+      "code": "R80302589",
+      "name": "Rana Wahan",
+      "city_code": "TAN"
+    },
+    {
+      "id": 1037,
+      "code": "R80302292",
+      "name": "Tank",
+      "city_code": "TAN"
+    },
+    {
+      "id": 358,
+      "code": "R80302326",
+      "name": "Ghazi",
+      "city_code": "TRB"
+    },
+    {
+      "id": 1043,
+      "code": "R80302590",
+      "name": "Tarbela Dam",
+      "city_code": "TRB"
+    },
+    {
+      "id": 1044,
+      "code": "R80302275",
+      "name": "Terbela Ghazi",
+      "city_code": "TRB"
+    },
+    {
+      "id": 920,
+      "code": "R80302445",
+      "name": "Taxila",
+      "city_code": "TXL"
+    },
+    {
+      "id": 1041,
+      "code": "R80302364",
+      "name": "Temar Garah",
+      "city_code": "TMG"
+    },
+    {
+      "id": 1045,
+      "code": "R80302404",
+      "name": "Tarnol",
+      "city_code": "TRL"
+    },
+    {
+      "id": 265,
+      "code": "R80302859",
+      "name": "Thana Bola Khan",
+      "city_code": "TBK"
+    },
+    {
+      "id": 823,
+      "code": "R80302860",
+      "name": "Tharo Shah",
+      "city_code": "TSA"
+    },
+    {
+      "id": 919,
+      "code": "R80302864",
+      "name": "Thari Mirwah",
+      "city_code": "TVH"
+    },
+    {
+      "id": 1039,
+      "code": "R80302842",
+      "name": "Thul",
+      "city_code": "THL"
+    },
+    {
+      "id": 871,
+      "code": "R80302406",
+      "name": "Toba Tek Singh",
+      "city_code": "TTS"
+    },
+    {
+      "id": 1042,
+      "code": "R80302279",
+      "name": "Topi",
+      "city_code": "TOP"
+    },
+    {
+      "id": 1110,
+      "code": "F0076",
+      "name": "Trag",
+      "city_code": "TGA"
+    },
+    {
+      "id": 747,
+      "code": "R80302977",
+      "name": "Miri Kalat Kech",
+      "city_code": "TUK"
+    },
+    {
+      "id": 921,
+      "code": "R80302958",
+      "name": "Turbat",
+      "city_code": "TUK"
+    },
+    {
+      "id": 51,
+      "code": "R80302308",
+      "name": "Bashir Abad",
+      "city_code": "URO"
+    },
+    {
+      "id": 1049,
+      "code": "R80302816",
+      "name": "Ubaouro",
+      "city_code": "URO"
+    },
+    {
+      "id": 922,
+      "code": "R80302616",
+      "name": "Uch Sharif",
+      "city_code": "UCH"
+    },
+    {
+      "id": 825,
+      "code": "R80307354",
+      "name": "Umarkot",
+      "city_code": "UKT"
+    },
+    {
+      "id": 339,
+      "code": "R80302376",
+      "name": "Dir",
+      "city_code": "UPD"
+    },
+    {
+      "id": 1047,
+      "code": "R80302310",
+      "name": "Upper Dir",
+      "city_code": "UPD"
+    },
+    {
+      "id": 1050,
+      "code": "R80302978",
+      "name": "Usta Mohammad",
+      "city_code": "USM"
+    },
+    {
+      "id": 1051,
+      "code": "R80302973",
+      "name": "Uthal",
+      "city_code": "UTL"
+    },
+    {
+      "id": 540,
+      "code": "R80302883",
+      "name": "Karampur",
+      "city_code": "VRI"
+    },
+    {
+      "id": 759,
+      "code": "R80302474",
+      "name": "Mitro",
+      "city_code": "VRI"
+    },
+    {
+      "id": 924,
+      "code": "R80302695",
+      "name": "Vehari",
+      "city_code": "VRI"
+    },
+    {
+      "id": 1053,
+      "code": "R80302926",
+      "name": "Waggan",
+      "city_code": "WGN"
+    },
+    {
+      "id": 925,
+      "code": "R80302499",
+      "name": "Wah",
+      "city_code": "WAH"
+    },
+    {
+      "id": 926,
+      "code": "R80302467",
+      "name": "Wah Cantt",
+      "city_code": "WAH"
+    },
+    {
+      "id": 1069,
+      "code": "F0020",
+      "name": "WANA",
+      "city_code": "WNA"
+    },
+    {
+      "id": 1054,
+      "code": "R80302853",
+      "name": "Warah",
+      "city_code": "WRH"
+    },
+    {
+      "id": 336,
+      "code": "R80302460",
+      "name": "Dilawar Cheema",
+      "city_code": "WZD"
+    },
+    {
+      "id": 349,
+      "code": "R80302617",
+      "name": "Gakhar Chanan",
+      "city_code": "WZD"
+    },
+    {
+      "id": 354,
+      "code": "R80302664",
+      "name": "Ghakka Mitter",
+      "city_code": "WZD"
+    },
+    {
+      "id": 542,
+      "code": "R80302689",
+      "name": "Karmabad",
+      "city_code": "WZD"
+    },
+    {
+      "id": 574,
+      "code": "R80302502",
+      "name": "Kot Khizri",
+      "city_code": "WZD"
+    },
+    {
+      "id": 296,
+      "code": "R80302626",
+      "name": "Begowal",
+      "city_code": "WZD"
+    },
+    {
+      "id": 927,
+      "code": "R80302613",
+      "name": "Wazirabad",
+      "city_code": "WZD"
+    },
+    {
+      "id": 1055,
+      "code": "R80302621",
+      "name": "Nawan Pind",
+      "city_code": "WZD"
+    },
+    {
+      "id": 1056,
+      "code": "R80302591",
+      "name": "Nizamabad",
+      "city_code": "WZD"
+    },
+    {
+      "id": 1052,
+      "code": "R80302961",
+      "name": "Winder",
+      "city_code": "WDR"
+    },
+    {
+      "id": 870,
+      "code": "R80302765",
+      "name": "Yazman",
+      "city_code": "YZM"
+    },
+    {
+      "id": 928,
+      "code": "R80302528",
+      "name": "Zafar Wal",
+      "city_code": "ZFW"
+    },
+    {
+      "id": 929,
+      "code": "R80302630",
+      "name": "Zahir Pir",
+      "city_code": "ZPR"
+    },
+    {
+      "id": 930,
+      "code": "R80302962",
+      "name": "Zhob",
+      "city_code": "ZOB"
+    },
+    {
+      "id": 932,
+      "code": "R80316267",
+      "name": "Ziarat",
+      "city_code": "ZRT"
+    }
+  ]
+}

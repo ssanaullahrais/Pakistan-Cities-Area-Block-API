@@ -1,0 +1,11 @@
+{
+  "source": "Pakistan location reference dataset",
+  "generated_at": "2026-08-25T10:59:45.270Z",
+  "country_code": "PK",
+  "counts": {
+    "city_records": 570,
+    "city_codes": 549,
+    "areas": 1093,
+    "blocks": 12638
+  }
+}
