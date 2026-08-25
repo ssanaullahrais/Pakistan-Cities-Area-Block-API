@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Pakistan Cities, Areas and Blocks API",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "A read-only API exposing a Pakistan city, area and block hierarchy with stable codes for delivery integrations."
   },
   "servers": [

@@ -43,7 +43,7 @@
         <div class="config">
           <label>
             API base URL
-            <input id="apiBase" value="http://127.0.0.1:3100" spellcheck="false" />
+            <input id="apiBase" spellcheck="false" />
           </label>
           <button id="connect" type="button">Connect</button>
         </div>
@@ -87,6 +87,10 @@
 
       let selectedCity;
       let selectedArea;
+
+      elements.apiBase.value = window.location.origin.startsWith("http")
+        ? window.location.origin
+        : "http://127.0.0.1:3100";
 
       const baseUrl = () => elements.apiBase.value.trim().replace(/\/$/, "");
       const request = async (path) => {

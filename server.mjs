@@ -1,8 +1,16 @@
+#!/usr/bin/env node
 import { readFile } from "node:fs/promises";
 import { createServer } from "node:http";
 
-const PORT = Number(process.env.PORT || 3100);
-const HOST = process.env.HOST || "127.0.0.1";
+const argument = (name) => {
+  const index = process.argv.indexOf(name);
+  return index >= 0 ? process.argv[index + 1] : undefined;
+};
+const PORT = Number(argument("--port") || process.env.PORT || 3100);
+const HOST = argument("--host") || process.env.HOST || "127.0.0.1";
+if (!Number.isInteger(PORT) || PORT < 1 || PORT > 65535) {
+  throw new Error("PORT must be an integer between 1 and 65535.");
+}
 const DATA_DIRECTORY = new URL("./data/", import.meta.url);
 
 const readData = async (filename) =>

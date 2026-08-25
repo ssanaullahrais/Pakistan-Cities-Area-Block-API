@@ -1,4 +1,8 @@
 node_modules/
+dist/
+*.log
+*.tgz
+vendor/
 .env
 .DS_Store
 npm-debug.log*

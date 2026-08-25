@@ -14,6 +14,7 @@ $dataDirectory = $configured !== false && $configured !== ''
     ? rtrim($configured, DIRECTORY_SEPARATOR)
     : dirname(__DIR__) . DIRECTORY_SEPARATOR . 'data';
 
+$projectDirectory = dirname(__DIR__);
 $metadata = loadJson($dataDirectory . DIRECTORY_SEPARATOR . 'metadata.json');
 $cities = loadJson($dataDirectory . DIRECTORY_SEPARATOR . 'cities.json')['data'];
 $areas = loadJson($dataDirectory . DIRECTORY_SEPARATOR . 'areas.json')['data'];
@@ -24,9 +25,19 @@ $path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) ?: '/';
 $parts = array_values(array_filter(explode('/', trim($path, '/')), 'strlen'));
 $search = strtolower(trim((string) ($_GET['q'] ?? '')));
 
-if ($path === '/' || $path === '/health') respond(200, ['status' => 'ok', 'name' => 'Pakistan Cities, Areas and Blocks API', 'metadata' => $metadata]);
+if ($path === '/' || $path === '/demo') {
+    $demo = $projectDirectory . DIRECTORY_SEPARATOR . 'public' . DIRECTORY_SEPARATOR . 'index.html';
+    if (!is_file($demo)) respond(500, ['error' => 'Demo file not found']);
+    header('Content-Type: text/html; charset=utf-8'); readfile($demo); exit;
+}
+if ($path === '/health') respond(200, [
+    'status' => 'ok',
+    'name' => 'Pakistan Cities, Areas and Blocks API',
+    'metadata' => $metadata,
+    'endpoints' => ['/api/v1/cities', '/api/v1/cities/RWP', '/api/v1/cities/RWP/areas', '/api/v1/areas/R80302494/blocks', '/api/v1/cities/RWP/hierarchy', '/api/v1/relationships', '/openapi.json', '/demo'],
+]);
 if ($path === '/openapi.json') {
-    $spec = dirname(__DIR__) . DIRECTORY_SEPARATOR . 'openapi.json';
+    $spec = $projectDirectory . DIRECTORY_SEPARATOR . 'openapi.json';
     if (!is_file($spec)) notFound();
     header('Content-Type: application/json; charset=utf-8'); readfile($spec); exit;
 }

@@ -3,6 +3,18 @@
 A portable, read-only location dataset and API for checkout pages, address
 validation, delivery forms and logistics integrations.
 
+## Fastest start
+
+```bash
+git clone https://github.com/ssanaullahrais/Pakistan-Cities-Area-Block-API.git
+cd Pakistan-Cities-Area-Block-API
+npm start
+```
+
+Open `http://127.0.0.1:3100`. The ready-made tester loads the complete
+City → Area → Block selector. There are no Node package dependencies and no
+database or configuration step.
+
 ## Included data
 
 | Dataset | Records |
@@ -43,6 +55,19 @@ npm start
 No `npm install` is required. The backend uses only Node.js built-ins. Node.js
 20 or newer is recommended. The default URL is `http://127.0.0.1:3100`.
 
+Choose another host or port when needed:
+
+```bash
+node server.mjs --host 0.0.0.0 --port 8080
+```
+
+Install directly into an existing Node project and launch the included API:
+
+```bash
+npm install github:ssanaullahrais/Pakistan-Cities-Area-Block-API
+npx pakistan-location-api --port 3100
+```
+
 ### Ready PHP API
 
 Copy `data/`, `openapi.json` and `php-api/`, then run with PHP 8:
@@ -55,13 +80,43 @@ For Apache or Nginx, route requests to `php-api/index.php`. By default, `data/`
 must sit beside `php-api/`. Set `LOCATION_DATA_DIR` to an absolute path if the
 dataset is stored elsewhere.
 
+Opening the PHP server root displays the same interactive tester as Node.
+
+To call a hosted instance from Laravel, Symfony or plain PHP, copy
+`sdk/PakistanLocationClient.php` and require it:
+
+```php
+require __DIR__ . '/sdk/PakistanLocationClient.php';
+
+$api = new PakistanLocationClient('https://locations.example.com');
+$cities = $api->cities('rawal');
+$areas = $api->areas('RWP');
+$blocks = $api->blocks('R80302494');
+```
+
+Composer projects can install from GitHub without Packagist:
+
+```bash
+composer config repositories.pakistan-locations vcs https://github.com/ssanaullahrais/Pakistan-Cities-Area-Block-API
+composer require ssanaullahrais/pakistan-cities-area-block-api:dev-main
+```
+
+Then `require vendor/autoload.php`; the same `PakistanLocationClient` class is
+available automatically.
+
 ### JavaScript SDK — React, Vue, Next.js, Node.js or HTML
 
-Copy `sdk/location-api-client.js`. It uses standard `fetch` and has no
-dependencies:
+Install from GitHub or copy `sdk/location-api-client.js`. It uses standard
+`fetch` and has no runtime dependencies. TypeScript declarations are included.
+
+```bash
+npm install github:ssanaullahrais/Pakistan-Cities-Area-Block-API
+```
+
+ES modules, including React, Vue, Vite and modern Node.js:
 
 ```js
-import { PakistanLocationClient } from "./sdk/location-api-client.js"
+import { PakistanLocationClient } from "pakistan-cities-area-block-api"
 
 const locations = new PakistanLocationClient("http://127.0.0.1:3100")
 const cities = await locations.getCities()
@@ -69,11 +124,20 @@ const areas = await locations.getAreas("RWP")
 const blocks = await locations.getBlocks("R80302494")
 ```
 
+CommonJS projects:
+
+```js
+const { PakistanLocationClient } = require("pakistan-cities-area-block-api")
+
+const locations = new PakistanLocationClient("http://127.0.0.1:3100")
+const areas = await locations.getAreas("RWP")
+```
+
 React example:
 
 ```jsx
 import { useEffect, useState } from "react"
-import { PakistanLocationClient } from "./sdk/location-api-client.js"
+import { PakistanLocationClient } from "pakistan-cities-area-block-api"
 
 const api = new PakistanLocationClient("https://locations.example.com")
 
@@ -98,6 +162,54 @@ export function CitySelect() {
 
 React is a frontend library, so it calls either the Node/PHP adapter or hosted
 JSON files. It does not create backend routes by itself.
+
+### Plain HTML or WordPress
+
+Copy `sdk/location-api-client.js` into the site and load it as a module. The API
+can be hosted by either included backend:
+
+```html
+<select id="city"></select>
+
+<script type="module">
+  import { PakistanLocationClient } from "/assets/location-api-client.js"
+
+  const api = new PakistanLocationClient("https://locations.example.com")
+  const response = await api.getCities()
+  const city = document.querySelector("#city")
+
+  city.innerHTML = response.data
+    .map(({ code, name }) => `<option value="${code}">${name}</option>`)
+    .join("")
+</script>
+```
+
+For a ready-made three-field implementation, copy `public/index.html`. It
+automatically uses the domain and port from which it is served; no URL edit is
+required.
+
+A complete cascading React project is included in `examples/react`:
+
+```bash
+cd examples/react
+npm install
+npm run dev
+```
+
+It defaults to `http://127.0.0.1:3100`. Set `VITE_LOCATION_API_URL` when the API
+uses another address.
+
+## SDK method map
+
+| Operation | JavaScript | PHP |
+| --- | --- | --- |
+| Health | `getHealth()` | `health()` |
+| List/search cities | `getCities(search)` | `cities($search)` |
+| Get city code | `getCity(code)` | `city($code)` |
+| Areas for city | `getAreas(code, search)` | `areas($code, $search)` |
+| Blocks for area | `getBlocks(code, search)` | `blocks($code, $search)` |
+| Nested hierarchy | `getHierarchy(code)` | `hierarchy($code)` |
+| Relationship maps | `getRelationships()` | `relationships()` |
 
 ## Endpoints and example responses
 
@@ -250,7 +362,17 @@ imported into Postman, Insomnia, Swagger UI or an API gateway.
 npm test
 ```
 
-The validation checks counts, duplicate identifiers and all parent-child links.
+The test suite validates counts, duplicate identifiers and every parent-child
+link. It then starts fresh Node and PHP servers and calls every SDK method
+against both adapters. PHP checks are skipped only when PHP is not installed.
+
+Run the standalone consumer examples while either API adapter is active:
+
+```bash
+node examples/node/consume.mjs
+node examples/node/consume.cjs
+php examples/php/consume.php
+```
 
 ## Docker
 
@@ -266,7 +388,12 @@ data/                       Portable JSON dataset
 php-api/                    PHP 8 HTTP adapter
 public/index.html           Interactive browser tester
 sdk/location-api-client.js  Framework-neutral JavaScript SDK
+sdk/location-api-client.cjs CommonJS JavaScript SDK
+sdk/location-api-client.d.ts TypeScript declarations
+sdk/PakistanLocationClient.php PHP SDK
+examples/                    Ready Node, PHP and React consumers
 scripts/validate-data.mjs   Dataset validation
+scripts/test-integrations.mjs Cross-adapter integration tests
 openapi.json                OpenAPI 3.1 specification
 server.mjs                  Node.js HTTP adapter
 Dockerfile                  Container deployment

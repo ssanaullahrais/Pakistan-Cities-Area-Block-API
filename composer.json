@@ -1,0 +1,12 @@
+{
+  "name": "ssanaullahrais/pakistan-cities-area-block-api",
+  "description": "Framework-neutral Pakistan cities, areas and blocks API and SDK.",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "files": ["sdk/PakistanLocationClient.php"]
+  }
+}
